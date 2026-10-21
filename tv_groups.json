@@ -40,43 +40,35 @@
                 ]
               }
             },
+          ]
+        },
+        {
+          "channelId": "art_aflam2",
+          "name": "ART Aflam 2",
+          "logo": "https://example.com/images/art-aflam1.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
             {
-              "streamId": "art_aflam_widevine",
-              "url": "https://example.com/backup/art-aflam/manifest.mpd",
+              "streamId": "art_aflam_clearkey",
+              "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Aflam_2/DASH/ART_Aflam_2.mpd",
               "format": "dash",
-              "headers": {
-                "User-Agent": "ExamplePlayer/1.0",
-                "Referer": "https://example.com/"
-              },
-              "encryption": {
-                "type": "widevine",
-                "licenseUrl": "https://license.example.com/widevine",
-                "licenseHeaders": {},
-                "multiSession": false
-              }
-            },
-            {
-              "streamId": "art_aflam_hls",
-              "url": "https://example.com/live/art-aflam/playlist.m3u8",
-              "format": "hls",
-              "headers": {
-                "User-Agent": "ExamplePlayer/1.0"
-              },
-              "encryption": {
-                "type": "hls-aes-128",
-                "keyUri": "https://example.com/keys/art-aflam.key",
-                "iv": null
-              }
-            },
-            {
-              "streamId": "art_aflam_clear",
-              "url": "https://example.com/backup/art-aflam/playlist.m3u8",
-              "format": "hls",
               "headers": {},
               "encryption": {
-                "type": "none"
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "0123456789abcdef0123456789abcdef",
+                    "key": "809a386e57689d56c01a5c3190889641:d54639bb7d418d515e5198663a6d7ae5"
+                  },
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "abcdef0123456789abcdef0123456789"
+                  }
+                ]
               }
-            }
+            },
           ]
         }
       ]

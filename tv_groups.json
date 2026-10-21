@@ -158,7 +158,7 @@
     "streams": [
       {
         "streamId": "1",
-        "url": "https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.mpd",
+        "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Rotana_Drama/DASH/Rotana_Drama.mpd",
         "format": "dash",
         "headers": {},
         "encryption": {
@@ -166,7 +166,7 @@
           "keys": [
             {
               "keyId": "abcdef0123456789abcdef0123456789",
-              "key": "b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42"
+              "key": "9636650ce05533716e4e0971a4b38804:09b0d3d9b88d95a362f69c54aa8dfcbc"
             }
           ]
         }

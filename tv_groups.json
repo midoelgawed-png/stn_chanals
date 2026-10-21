@@ -1,1 +1,115 @@
 
+{
+  "schemaVersion": 1,
+  "sourceId": "stn_tv_github",
+  "sourceName": "STN TV",
+  "updatedAt": "2026-10-21T18:00:00Z",
+  "groups": [
+    {
+      "groupId": "art_movies",
+      "name": "ART ©",
+      "logo": "https://example.com/images/art-group.png",
+      "description": "قنوات الأفلام",
+      "enabled": true,
+      "sortOrder": 1,
+      "channels": [
+        {
+          "channelId": "art_aflam1",
+          "name": "ART Aflam 1",
+          "logo": "https://example.com/images/art-aflam1.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "art_aflam_clearkey",
+              "url": "https://example.com/live/art-aflam/manifest.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "0123456789abcdef0123456789abcdef",
+                    "key": "0123456789abcdef0123456789abcdef"
+                  },
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "abcdef0123456789abcdef0123456789"
+                  }
+                ]
+              }
+            },
+            {
+              "streamId": "art_aflam_widevine",
+              "url": "https://example.com/backup/art-aflam/manifest.mpd",
+              "format": "dash",
+              "headers": {
+                "User-Agent": "ExamplePlayer/1.0",
+                "Referer": "https://example.com/"
+              },
+              "encryption": {
+                "type": "widevine",
+                "licenseUrl": "https://license.example.com/widevine",
+                "licenseHeaders": {},
+                "multiSession": false
+              }
+            },
+            {
+              "streamId": "art_aflam_hls",
+              "url": "https://example.com/live/art-aflam/playlist.m3u8",
+              "format": "hls",
+              "headers": {
+                "User-Agent": "ExamplePlayer/1.0"
+              },
+              "encryption": {
+                "type": "hls-aes-128",
+                "keyUri": "https://example.com/keys/art-aflam.key",
+                "iv": null
+              }
+            },
+            {
+              "streamId": "art_aflam_clear",
+              "url": "https://example.com/backup/art-aflam/playlist.m3u8",
+              "format": "hls",
+              "headers": {},
+              "encryption": {
+                "type": "none"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupId": "news",
+      "name": "قنوات الأخبار",
+      "logo": "https://example.com/images/news-group.png",
+      "description": "الأخبار المحلية والعالمية",
+      "enabled": true,
+      "sortOrder": 2,
+      "channels": [
+        {
+          "channelId": "news_channel_1",
+          "name": "قناة الأخبار الأولى",
+          "logo": "https://example.com/images/news1.png",
+          "description": "بث إخباري مباشر",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "news_primary",
+              "url": "https://example.com/news/playlist.m3u8",
+              "format": "hls",
+              "headers": {},
+              "encryption": {
+                "type": "none"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

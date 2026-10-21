@@ -8,7 +8,7 @@
     {
       "groupId": "art_movies",
       "name": "ART ©",
-      "logo": "https://example.com/images/art-group.png",
+      "logo": "https://pbs.twimg.com/profile_images/1522882439764455426/4mj8I-dl_400x400.jpg",
       "description": "قنوات الأفلام",
       "enabled": true,
       "sortOrder": 1,
@@ -16,7 +16,7 @@
         {
           "channelId": "art_aflam1",
           "name": "ART Aflam 1",
-          "logo": "https://example.com/images/art-aflam1.png",
+          "logo": "https://media0106.elcinema.com/tvguide/1120_1.png",
           "description": "",
           "enabled": true,
           "sortOrder": 1,
@@ -45,13 +45,13 @@
         {
           "channelId": "art_aflam2",
           "name": "ART Aflam 2",
-          "logo": "https://example.com/images/art-aflam1.png",
+          "logo": "https://media0106.elcinema.com/tvguide/1121_1.png",
           "description": "",
           "enabled": true,
           "sortOrder": 1,
           "streams": [
             {
-              "streamId": "art_aflam_clearkey",
+              "streamId": "1",
               "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Aflam_2/DASH/ART_Aflam_2.mpd",
               "format": "dash",
               "headers": {},
@@ -65,6 +65,83 @@
                   {
                     "keyId": "abcdef0123456789abcdef0123456789",
                     "key": "abcdef0123456789abcdef0123456789"
+                  }
+                ]
+              }
+            },
+          ]
+        },
+        {
+          "channelId": "art_cinema",
+          "name": "ART Cinema",
+          "logo": "https://media0106.elcinema.com/tvguide/1195_1.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Cinema/DASH/ART_Cinema.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "0123456789abcdef0123456789abcdef",
+                    "key": "bd484fc91dcf152010a0e367e15ab60e:d9bed0a77b7da410129820bcc6606670"
+                  }
+                ]
+              }
+            },
+          ]
+        },
+        
+        {
+          "channelId": "art_hekayat1",
+          "name": "ART Hekayat 1",
+          "logo": "https://static.wikia.nocookie.net/logopedia/images/5/54/ART_HEKAYAT_2005.webp/revision/latest/scale-to-width-down/309?cb=20260210052605",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Hekayat/DASH/ART_Hekayat.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "0123456789abcdef0123456789abcdef",
+                    "key": "3d614bb04140eda383d117fb55e9a361:b669cdf2cb65eff56d1e3534c7a54b53"
+                  }
+                ]
+              }
+            },
+          ]
+        },
+        
+        {
+          "channelId": "art_hekayat2",
+          "name": "ART Hekayat 2",
+          "logo": "https://media0106.elcinema.com/tvguide/1182_1.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Hekayat_2/DASH/ART_Hekayat_2.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "0123456789abcdef0123456789abcdef",
+                    "key": "4ccb01903d6868e27953ff0298d4ac05:d156518d6ab453d9f9d12c243280be8f"
                   }
                 ]
               }

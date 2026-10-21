@@ -23,7 +23,7 @@
           "streams": [
             {
               "streamId": "art_aflam_clearkey",
-              "url": "https://example.com/live/art-aflam/manifest.mpd",
+              "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Aflam/DASH/ART_Aflam.mpd",
               "format": "dash",
               "headers": {},
               "encryption": {
@@ -31,7 +31,7 @@
                 "keys": [
                   {
                     "keyId": "0123456789abcdef0123456789abcdef",
-                    "key": "0123456789abcdef0123456789abcdef"
+                    "key": "264e7cb9dfd6b9e5c281c97db4c2b4fa:47425a7e8f7e4030d186559852ae97db"
                   },
                   {
                     "keyId": "abcdef0123456789abcdef0123456789",

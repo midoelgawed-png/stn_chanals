@@ -818,31 +818,6 @@
         }
       }
     ]  
-  },
-  {
-    "channelId": "ksa_quran_tv",
-    "name": "KSA Quran TV",
-    "logo": "https://mXXX.png",
-    "description": "",
-    "enabled": true,
-    "sortOrder": 16,
-    "streams": [
-      {
-        "streamId": "1",
-        "url": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-quran-tv/5ade268066b7ec605d753d973d37e0e5/index.mpd",
-        "format": "dash",
-        "headers": {},
-        "encryption": {
-          "type": "clearkey",
-          "keys": [
-            {
-              "keyId": "abcdef0123456789abcdef0123456789",
-              "key": "c30ac7997ecf4865bb87bec09ef2f9b8:6b5c4d5dd0ea097eeb80a58d75e4950a"
-            }
-          ]
-        }
-      }
-    ]
   }
       ]
     }

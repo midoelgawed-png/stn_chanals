@@ -13,7 +13,8 @@
       "enabled": true,
       "sortOrder": 1,
       "channels": [
-           {
+
+{
     "channelId": "SHARJAH_SPORTS",
     "name": "SHARJAH SPORTS 1",
     "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/SHS_264_Color.png",
@@ -819,7 +820,9 @@
       }
     ]  
   }
+        
       ]
     }
   ]
 }
+

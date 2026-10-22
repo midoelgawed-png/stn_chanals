@@ -1735,35 +1735,6 @@
     ]
   }
       ]
-    },
-    {
-      "groupId": "news",
-      "name": "قنوات الأخبار",
-      "logo": "https://example.com/images/news-group.png",
-      "description": "الأخبار المحلية والعالمية",
-      "enabled": true,
-      "sortOrder": 2,
-      "channels": [
-        {
-          "channelId": "news_channel_1",
-          "name": "قناة الأخبار الأولى",
-          "logo": "https://example.com/images/news1.png",
-          "description": "بث إخباري مباشر",
-          "enabled": true,
-          "sortOrder": 1,
-          "streams": [
-            {
-              "streamId": "news_primary",
-              "url": "https://example.com/news/playlist.m3u8",
-              "format": "hls",
-              "headers": {},
-              "encryption": {
-                "type": "none"
-              }
-            }
-          ]
-        }
-      ]
     }
   ]
 }

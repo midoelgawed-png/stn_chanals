@@ -6,8 +6,8 @@
   "updatedAt": "2026-10-21T18:00:00Z",
   "groups": [
     {
-      "groupId": "art_movies2",
-      "name": "ART2 ©",
+      "groupId": "art_movies",
+      "name": "ART ©",
       "logo": "https://pbs.twimg.com/profile_images/1522882439764455426/4mj8I-dl_400x400.jpg",
       "description": "قنوات الأفلام",
       "enabled": true,

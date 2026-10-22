@@ -902,6 +902,131 @@
         }
       }
     ]  
+  },
+        {
+    "channelId": "SHARJAH_SPORTS",
+    "name": "SHARJAH SPORTS 1",
+    "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/SHS_264_Color.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/SHS_HEVC/wv-pr/manifest.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "12d37f04317d5c2e5f044a79f967c67e:75deea8e41e389997f34d0ebca3f1fb7"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+                   {
+    "channelId": "BAHRAN_SPORTS",
+    "name": "BAHRAN SPORTS ",
+    "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/BST_264_Color.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/BST_HEVC/wv-pr/manifest.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "4715ff70915cd2a490da7e63251072c2:1c349d100a1abaacd76fe62d628fd7ab"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+        {
+    "channelId": "STCtv_Drama HD",
+    "name": "STCtv Drama HD",
+    "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STCD_264_Color.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCD_HEVC/wv-pr/manifest.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "4307d51136956e78dd17fe4884ba66d1:e81223c66a46efacd95b83c9ebbb8c1c"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+          {
+    "channelId": "MBC_MOOD",
+    "name": "MBC MOOD",
+    "logo": "https://www.wanasa.tv/images/logo.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Wanasa_TV/DASH/Wanasa_TV.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "b1abcb40b0afd4c3a1b60e9b1f50d994:8fe20149b7012aa38247914fbf8c8d01"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+                  {
+    "channelId": "MBC_Drama_HD",
+    "name": "MBC Drama HD",
+    "logo": "https://www.mbc.net/etc/designs/mbc/images/logos/mbc-drama-logo.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_Drama_HD/DASH/MBC_Drama_HD.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "bd19fd7125d0ac84bdfb232b3752c186:3c5a6993c421ca50f5a49c46ae912e7f"
+            }
+          ]
+        }
+      }
+    ]  
   }
       ]
     }

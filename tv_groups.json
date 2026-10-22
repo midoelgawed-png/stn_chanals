@@ -978,31 +978,6 @@
       }
     ]  
   },
-          {
-    "channelId": "MBC_MOOD",
-    "name": "MBC MOOD",
-    "logo": "https://www.wanasa.tv/images/logo.png",
-    "description": "",
-    "enabled": true,
-    "sortOrder": 1,
-    "streams": [
-      {
-        "streamId": "1",
-        "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Wanasa_TV/DASH/Wanasa_TV.mpd",
-        "format": "dash",
-        "headers": {},
-        "encryption": {
-          "type": "clearkey",
-          "keys": [
-            {
-              "keyId": "abcdef0123456789abcdef0123456789",
-              "key": "b1abcb40b0afd4c3a1b60e9b1f50d994:8fe20149b7012aa38247914fbf8c8d01"
-            }
-          ]
-        }
-      }
-    ]  
-  },
                   {
     "channelId": "MBC_Drama_HD",
     "name": "MBC Drama HD",

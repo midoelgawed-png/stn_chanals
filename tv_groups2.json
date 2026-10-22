@@ -1,1 +1,850 @@
 
+{
+  "schemaVersion": 1,
+  "sourceId": "stn_tv_github2",
+  "sourceName": "STN2 TV",
+  "updatedAt": "2026-10-21T18:00:00Z",
+  "groups": [
+    {
+      "groupId": "art_movies2",
+      "name": "ART2 ©",
+      "logo": "https://pbs.twimg.com/profile_images/1522882439764455426/4mj8I-dl_400x400.jpg",
+      "description": "قنوات الأفلام",
+      "enabled": true,
+      "sortOrder": 1,
+      "channels": [
+           {
+    "channelId": "SHARJAH_SPORTS",
+    "name": "SHARJAH SPORTS 1",
+    "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/SHS_264_Color.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/SHS_HEVC/wv-pr/manifest.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "12d37f04317d5c2e5f044a79f967c67e:75deea8e41e389997f34d0ebca3f1fb7"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+                   {
+    "channelId": "BAHRAN_SPORTS",
+    "name": "BAHRAN SPORTS ",
+    "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/BST_264_Color.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/BST_HEVC/wv-pr/manifest.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "4715ff70915cd2a490da7e63251072c2:1c349d100a1abaacd76fe62d628fd7ab"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+        {
+    "channelId": "STCtv_Drama HD",
+    "name": "STCtv Drama HD",
+    "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STCD_264_Color.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCD_HEVC/wv-pr/manifest.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "4307d51136956e78dd17fe4884ba66d1:e81223c66a46efacd95b83c9ebbb8c1c"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+          {
+    "channelId": "MBC_MOOD",
+    "name": "MBC MOOD",
+    "logo": "https://www.wanasa.tv/images/logo.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Wanasa_TV/DASH/Wanasa_TV.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "b1abcb40b0afd4c3a1b60e9b1f50d994:8fe20149b7012aa38247914fbf8c8d01"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+                  {
+    "channelId": "MBC_Drama_HD",
+    "name": "MBC Drama HD",
+    "logo": "https://www.mbc.net/etc/designs/mbc/images/logos/mbc-drama-logo.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_Drama_HD/DASH/MBC_Drama_HD.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "bd19fd7125d0ac84bdfb232b3752c186:3c5a6993c421ca50f5a49c46ae912e7f"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+             {
+    "channelId": "MBC_Plus_Drama_HD",
+    "name": "MBC Plus Drama HD",
+    "logo": "https://www.mbc.net/etc/designs/mbc/images/logos/mbc-plus-drama-logo.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/MBC_plus_Drama_HD/dash/drm/index.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "2e431885f4b950f46423ca2e30bcc73d:f7e89fa48a7a37ce0efd0c98569550de"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+         {
+    "channelId": "MBC_4_HD",
+    "name": "MBC 4 HD",
+    "logo": "https://www.mbc.net/etc/designs/mbc/images/logos/mbc4-logo.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/MBC_4_HD/dash/drm/index.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "29f3054bb2d3eaf8dd3f2e7ed82f344d:28069cb3e76ac3e45d007bcc99d6e50a"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+                 {
+    "channelId": "MBC_Masr",
+    "name": "MBC Masr",
+    "logo": "https://www.mbc.net/etc/designs/mbc/images/logos/mbc-masr-logo.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/MBC_Maser/dash/drm/index.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "7e4a21fa466f6a6dadbe00bc882f1429:4716d679cf065556354df8134c4e8c99"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+         {
+    "channelId": "MBC_Masr_2",
+    "name": "MBC Masr 2",
+    "logo": "https://www.mbc.net/etc/designs/mbc/images/logos/mbc-masr2-logo.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_Maser_2/DASH/MBC_Maser_2.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "1ef41252601d15b560384657fa94e854:168e8db00dc987474b11fe806f523415"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+        {
+    "channelId": "MBC_Plus_Variety_HD",
+    "name": "MBC Plus Variety HD",
+    "logo": "https://www.mbc.net/etc/designs/mbc/images/logos/mbc-plus-variety-logo.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_Plus_Variety_HD/DASH/MBC_Plus_Variety_HD.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "a458dbbe9cb445d92a27fb45cd371be7:b00f2e592b5bbade5beaa61e3aee7b32"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+                {
+    "channelId": "MBC_2_HD",
+    "name": "MBC 2 HD",
+    "logo": "https://www.mbc.net/etc/designs/mbc/images/logos/mbc2-logo.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/MBC_2_HD/dash/drm/index.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "535b41e50f71d5dcdd7b61685500980f:864e981865940ef26cde333a1a8be344"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+                        {
+    "channelId": "MBC_Bollywood_HD",
+    "name": "MBC Bollywood HD",
+    "logo": "https://www.mbc.net/etc/designs/mbc/images/logos/mbc-bollywood-logo.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/MBC_Bollywood_HD/dash/drm/index.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "5dbba37d66620bd8b2d51572d9e201e8:7cf19a5f88f2762fc4a307e1389d8419"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+           {
+    "channelId": "MBC_3_HD",
+    "name": "MBC 3 HD",
+    "logo": "https://www.mbc.net/etc/designs/mbc/images/logos/mbc3-logo.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/MBC_3_HD/dash/drm/index.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "789fdc6e5d26d121c4af76f659978a70:6ab0242bdaf4a7b0af4a54c9633a8e85"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+            {
+    "channelId": "Saudi_1_HD",
+    "name": "Saudi 1 HD",
+    "logo": "https://www.saudi.gov.sa/wps/portal/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi_Sx8Q4yMLPwtjAwd_T1CjM2cDf1N_Az1g81wAkEo0Qx3DgD4GGBE6O7q6m5s4Wlg6G5kYGluADfY38TQwN3A09gSKs8wB2M3hHj6uwQH-7vGQxS5O6oAAz9cNw!!/dz/d5/L2dBISEvZ0FBIS9nQSEh",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Saudi_1_HD/dash/drm/index.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "b845ecd8e22295759d10481a2afc095e:e19b9883b13d3e9aca207e9a650f6451"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+       {
+    "channelId": "SBC_HD",
+    "name": "SBC HD",
+    "logo": "https://www.sbc.sa/images/logo.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/SBC_HD/DASH/SBC_HD.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "1491c2b1e69271255c19077013d2b7de:fbf9a8171be8de39d41f0a86a17cdd4c"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+               {
+    "channelId": "KSA_Sports_1_HD",
+    "name": "KSA Sports 1 HD",
+    "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/KSS_264_Color.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/KSA_Sports1_HD/DASH/KSA_Sports1_HD.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "a0723ff5bf2bbbb31dc727e4346b1cc7:29951a0a48586258ab168f26b3f58daa"
+            }
+          ]
+        }
+      },
+            {
+        "streamId": "2",
+        "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/KSS_HEVC/wv-pr/manifest.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "0cd6f9f34ce638ddaab70b2d087576cb:c3cbb693ce69290cd10f5096724dafba"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+          {
+    "channelId": "KSA_Sports_2_HD",
+    "name": "KSA Sports 2 HD",
+    "logo": "https://www.ksa-sports.com/images/logo.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/KSA_Sports2_HD/DASH/KSA_Sports2_HD.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "f7142ef5a9d7b8ef1044232e74605e91:f36d37064c1109c107ffab95c0f7532d"
+            }
+          ]
+        }
+      },
+            {
+        "streamId": "2",
+        "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/KSS2_HEVC/wv-pr/manifest.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "08de1382b39f056f001ba897f58fda01:bbc1ce3249ba5ea4e1f9915120401be0"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+                  {
+    "channelId": "KSA_Sports_3_HD",
+    "name": "KSA Sports 3 HD",
+    "logo": "https://www.ksa-sports.com/images/logo.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/KSA_Sports3_HD/DASH/KSA_Sports3_HD.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "637dc9620732d390ab2df32e070256f0:0e47bb47e90258b5f392f8ecb54a8b22"
+            }
+          ]
+        }
+      },
+            {
+        "streamId": "2",
+        "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/KSAS1_HEVC/wv-pr/manifest.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "f7b7376cdcaa8d53a823ac5248b89584:33057303995b0a090d4a52ca715ec27b"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+      {
+    "channelId": "KSA_thaqafeyah",
+    "name": "KSA thaqafeyah HD",
+    "logo": "https://yt3.googleusercontent.com/SrOY6vepSht7siyL7hbbaCJ24wffxvObsXh7__9LGxpgdYJHa0TS-Ef93eAvgr9n60GcKy3xGA=s900-c-k-c0x00ffffff-no-rj",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+            {
+              "streamId": "1",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/manifest/video/1080p2400kbps/video.m3u8",
+              "format": "hls",
+              "headers": {},
+              "encryption": {
+                "type": "none"
+              }
+    ]  
+  },
+             {
+    "channelId": "MBC_MAX",
+    "name": "MBC MAX HD",
+    "logo": "https://www.ksa-sports.com/images/logo.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "9f494797bdec4203aed785cc18901e5e:784c3fabbb87e741d7a4dcf13d03bc35"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+      {
+    "channelId": "alhadath",
+    "name": "KSA alhadath HD",
+    "logo": "https://yt3.googleusercontent.com/SrOY6vepSht7siyL7hbbaCJ24wffxvObsXh7__9LGxpgdYJHa0TS-Ef93eAvgr9n60GcKy3xGA=s900-c-k-c0x00ffffff-no-rj",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+            {
+              "streamId": "1",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/manifest/video/1080p2400kbps/video.m3u8",
+              "format": "hls",
+              "headers": {},
+              "encryption": {
+                "type": "none"
+              }
+    ]  
+  },
+                     {
+    "channelId": "STCtv_Sports_HD_1",
+    "name": "STCtv Sports HD 1",
+    "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STC_264_Color.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STC_HEVC/wv-pr/manifest.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "47f0ab58f5a81c20b5b69dc494cbe102:1e0719da653c2b4652f0b0bf84d96c74"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+              {
+    "channelId": "STCtv_Sports_HD_2",
+    "name": "STCtv Sports HD 2",
+    "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/JAW1_264_Color.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/JAW1_HEVC/wv-pr/manifest.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "e74c7d697bd26595b196c6b96e2d4f5b:e288110233737502e8af9184098ab50b"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+              {
+    "channelId": "STCtv_Sports_HD_3",
+    "name": "STCtv Sports HD 3",
+    "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STC3_264_Color.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STC3_HEVC/wv-pr/manifest.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "1fd615ca2c5353fc5393da466ce31cbc:942822c6e7d3b01dd71bffded7ac0aa8"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+                      {
+    "channelId": "STCtv_Sports_HD_4",
+    "name": "STCtv Sports HD 4",
+    "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STC4_264_Color.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STC4_HEVC/wv-pr/manifest.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "01065be7ffbb268f2aadf7424b8ee24e:79a541c99e9bb7815e257e4a4ff46dbb"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+         {
+    "channelId": "Thmanyeh_1_HD",
+    "name": "Thmanyeh 1 HD",
+    "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STCT1_264_Color.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT1_HEVC/wv-pr/manifest.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "714c789c76686632652eefc19f18c3db:962cee49ee9422b44a6c60a7999854ad"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+                 {
+    "channelId": "Thmanyeh_2_HD",
+    "name": "Thmanyeh 2 HD",
+    "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STCT2_264_Color.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT2_HEVC/wv-pr/manifest.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "97e293d59ed72db87f12fe7075d8bb4c:c633955e4477ed5acbae68a2b0f1d216"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+           {
+    "channelId": "Thmanyeh_3_HD",
+    "name": "Thmanyeh 3 HD",
+    "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STCT3_264_Color.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT3_HEVC/wv-pr/manifest.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "4bc8e4e871589a45e7c0c7d245c243c6:4c5e8108e0f3cea4b588f5727d3de482"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+                   {
+    "channelId": "STARZPLAY_SPORTS_1",
+    "name": "STARZPLAY SPORTS 1",
+    "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/ADSP1_264_Color.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/ADSP1_HEVC/wv-pr/manifest.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+            {
+    "channelId": "STARZPLAY_SPORTS_2",
+    "name": "STARZPLAY SPORTS 2",
+    "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/ADSP2_264_Color.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/ADSP2_HEVC/wv-pr/manifest.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+                    {
+    "channelId": "STARZPLAY_SPORTS_3",
+    "name": "STARZPLAY SPORTS 3",
+    "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/SPZ_264_Color.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/SPZ_HEVC/wv-pr/manifest.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "42d7a462640c6748371d39f23e4a18c3:f4bef9f080f4a3a52dd55d5c3b8b81e2"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+  {
+    "channelId": "ksa_quran_tv",
+    "name": "KSA Quran TV",
+    "logo": "https://mXXX.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 16,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-quran-tv/5ade268066b7ec605d753d973d37e0e5/index.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "c30ac7997ecf4865bb87bec09ef2f9b8:6b5c4d5dd0ea097eeb80a58d75e4950a"
+            }
+          ]
+        }
+      }
+    ]
+  }
+      ]
+    }
+  ]
+}

@@ -1002,6 +1002,181 @@
         }
       }
     ]  
+  },
+        {
+    "channelId": "MBC_Plus_Drama_HD",
+    "name": "MBC Plus Drama HD",
+    "logo": "https://www.mbc.net/etc/designs/mbc/images/logos/mbc-plus-drama-logo.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/MBC_plus_Drama_HD/dash/drm/index.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "2e431885f4b950f46423ca2e30bcc73d:f7e89fa48a7a37ce0efd0c98569550de"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+         {
+    "channelId": "MBC_4_HD",
+    "name": "MBC 4 HD",
+    "logo": "https://www.mbc.net/etc/designs/mbc/images/logos/mbc4-logo.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/MBC_4_HD/dash/drm/index.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "29f3054bb2d3eaf8dd3f2e7ed82f344d:28069cb3e76ac3e45d007bcc99d6e50a"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+                 {
+    "channelId": "MBC_Masr",
+    "name": "MBC Masr",
+    "logo": "https://www.mbc.net/etc/designs/mbc/images/logos/mbc-masr-logo.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/MBC_Maser/dash/drm/index.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "7e4a21fa466f6a6dadbe00bc882f1429:4716d679cf065556354df8134c4e8c99"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+         {
+    "channelId": "MBC_Masr_2",
+    "name": "MBC Masr 2",
+    "logo": "https://www.mbc.net/etc/designs/mbc/images/logos/mbc-masr2-logo.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_Maser_2/DASH/MBC_Maser_2.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "1ef41252601d15b560384657fa94e854:168e8db00dc987474b11fe806f523415"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+        {
+    "channelId": "MBC_Plus_Variety_HD",
+    "name": "MBC Plus Variety HD",
+    "logo": "https://www.mbc.net/etc/designs/mbc/images/logos/mbc-plus-variety-logo.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_Plus_Variety_HD/DASH/MBC_Plus_Variety_HD.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "a458dbbe9cb445d92a27fb45cd371be7:b00f2e592b5bbade5beaa61e3aee7b32"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+                {
+    "channelId": "MBC_2_HD",
+    "name": "MBC 2 HD",
+    "logo": "https://www.mbc.net/etc/designs/mbc/images/logos/mbc2-logo.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/MBC_2_HD/dash/drm/index.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "535b41e50f71d5dcdd7b61685500980f:864e981865940ef26cde333a1a8be344"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+  {
+    "channelId": "MBC_Bollywood_HD",
+    "name": "MBC Bollywood HD",
+    "logo": "https://www.mbc.net/etc/designs/mbc/images/logos/mbc-bollywood-logo.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/MBC_Bollywood_HD/dash/drm/index.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "5dbba37d66620bd8b2d51572d9e201e8:7cf19a5f88f2762fc4a307e1389d8419"
+            }
+          ]
+        }
+      }
+    ]  
   }
       ]
     }

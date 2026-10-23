@@ -1177,6 +1177,487 @@
         }
       }
     ]  
+  },
+        {
+    "channelId": "MBC_3_HD",
+    "name": "MBC 3 HD",
+    "logo": "https://www.mbc.net/etc/designs/mbc/images/logos/mbc3-logo.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/MBC_3_HD/dash/drm/index.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "789fdc6e5d26d121c4af76f659978a70:6ab0242bdaf4a7b0af4a54c9633a8e85"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+            {
+    "channelId": "Saudi_1_HD",
+    "name": "Saudi 1 HD",
+    "logo": "https://www.saudi.gov.sa/wps/portal/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi_Sx8Q4yMLPwtjAwd_T1CjM2cDf1N_Az1g81wAkEo0Qx3DgD4GGBE6O7q6m5s4Wlg6G5kYGluADfY38TQwN3A09gSKs8wB2M3hHj6uwQH-7vGQxS5O6oAAz9cNw!!/dz/d5/L2dBISEvZ0FBIS9nQSEh",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Saudi_1_HD/dash/drm/index.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "b845ecd8e22295759d10481a2afc095e:e19b9883b13d3e9aca207e9a650f6451"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+       {
+    "channelId": "SBC_HD",
+    "name": "SBC HD",
+    "logo": "https://www.sbc.sa/images/logo.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/SBC_HD/DASH/SBC_HD.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "1491c2b1e69271255c19077013d2b7de:fbf9a8171be8de39d41f0a86a17cdd4c"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+               {
+    "channelId": "KSA_Sports_1_HD",
+    "name": "KSA Sports 1 HD",
+    "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/KSS_264_Color.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/KSA_Sports1_HD/DASH/KSA_Sports1_HD.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "a0723ff5bf2bbbb31dc727e4346b1cc7:29951a0a48586258ab168f26b3f58daa"
+            }
+          ]
+        }
+      },
+            {
+        "streamId": "2",
+        "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/KSS_HEVC/wv-pr/manifest.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "0cd6f9f34ce638ddaab70b2d087576cb:c3cbb693ce69290cd10f5096724dafba"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+          {
+    "channelId": "KSA_Sports_2_HD",
+    "name": "KSA Sports 2 HD",
+    "logo": "https://www.ksa-sports.com/images/logo.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/KSA_Sports2_HD/DASH/KSA_Sports2_HD.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "f7142ef5a9d7b8ef1044232e74605e91:f36d37064c1109c107ffab95c0f7532d"
+            }
+          ]
+        }
+      },
+            {
+        "streamId": "2",
+        "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/KSS2_HEVC/wv-pr/manifest.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "08de1382b39f056f001ba897f58fda01:bbc1ce3249ba5ea4e1f9915120401be0"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+                  {
+    "channelId": "KSA_Sports_3_HD",
+    "name": "KSA Sports 3 HD",
+    "logo": "https://www.ksa-sports.com/images/logo.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/KSA_Sports3_HD/DASH/KSA_Sports3_HD.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "637dc9620732d390ab2df32e070256f0:0e47bb47e90258b5f392f8ecb54a8b22"
+            }
+          ]
+        }
+      },
+            {
+        "streamId": "2",
+        "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/KSAS1_HEVC/wv-pr/manifest.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "f7b7376cdcaa8d53a823ac5248b89584:33057303995b0a090d4a52ca715ec27b"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+      {
+    "channelId": "KSA_thaqafeyah",
+    "name": "KSA thaqafeyah HD",
+    "logo": "https://yt3.googleusercontent.com/SrOY6vepSht7siyL7hbbaCJ24wffxvObsXh7__9LGxpgdYJHa0TS-Ef93eAvgr9n60GcKy3xGA=s900-c-k-c0x00ffffff-no-rj",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+            {
+              "streamId": "1",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/manifest/video/1080p2400kbps/video.m3u8",
+              "format": "hls",
+              "headers": {},
+              "encryption": {
+                "type": "none"
+              }
+    ]  
+  },
+             {
+    "channelId": "MBC_MAX",
+    "name": "MBC MAX HD",
+    "logo": "https://www.ksa-sports.com/images/logo.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "9f494797bdec4203aed785cc18901e5e:784c3fabbb87e741d7a4dcf13d03bc35"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+      {
+    "channelId": "alhadath",
+    "name": "KSA alhadath HD",
+    "logo": "https://yt3.googleusercontent.com/SrOY6vepSht7siyL7hbbaCJ24wffxvObsXh7__9LGxpgdYJHa0TS-Ef93eAvgr9n60GcKy3xGA=s900-c-k-c0x00ffffff-no-rj",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+            {
+              "streamId": "1",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/manifest/video/1080p2400kbps/video.m3u8",
+              "format": "hls",
+              "headers": {},
+              "encryption": {
+                "type": "none"
+              }
+    ]  
+  },
+                     {
+    "channelId": "STCtv_Sports_HD_1",
+    "name": "STCtv Sports HD 1",
+    "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STC_264_Color.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STC_HEVC/wv-pr/manifest.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "47f0ab58f5a81c20b5b69dc494cbe102:1e0719da653c2b4652f0b0bf84d96c74"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+              {
+    "channelId": "STCtv_Sports_HD_2",
+    "name": "STCtv Sports HD 2",
+    "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/JAW1_264_Color.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/JAW1_HEVC/wv-pr/manifest.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "e74c7d697bd26595b196c6b96e2d4f5b:e288110233737502e8af9184098ab50b"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+              {
+    "channelId": "STCtv_Sports_HD_3",
+    "name": "STCtv Sports HD 3",
+    "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STC3_264_Color.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STC3_HEVC/wv-pr/manifest.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "1fd615ca2c5353fc5393da466ce31cbc:942822c6e7d3b01dd71bffded7ac0aa8"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+                      {
+    "channelId": "STCtv_Sports_HD_4",
+    "name": "STCtv Sports HD 4",
+    "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STC4_264_Color.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STC4_HEVC/wv-pr/manifest.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "01065be7ffbb268f2aadf7424b8ee24e:79a541c99e9bb7815e257e4a4ff46dbb"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+         {
+    "channelId": "Thmanyeh_1_HD",
+    "name": "Thmanyeh 1 HD",
+    "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STCT1_264_Color.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT1_HEVC/wv-pr/manifest.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "714c789c76686632652eefc19f18c3db:962cee49ee9422b44a6c60a7999854ad"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+                 {
+    "channelId": "Thmanyeh_2_HD",
+    "name": "Thmanyeh 2 HD",
+    "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STCT2_264_Color.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT2_HEVC/wv-pr/manifest.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "97e293d59ed72db87f12fe7075d8bb4c:c633955e4477ed5acbae68a2b0f1d216"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+           {
+    "channelId": "Thmanyeh_3_HD",
+    "name": "Thmanyeh 3 HD",
+    "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STCT3_264_Color.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT3_HEVC/wv-pr/manifest.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "4bc8e4e871589a45e7c0c7d245c243c6:4c5e8108e0f3cea4b588f5727d3de482"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+                   {
+    "channelId": "STARZPLAY_SPORTS_1",
+    "name": "STARZPLAY SPORTS 1",
+    "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/ADSP1_264_Color.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/ADSP1_HEVC/wv-pr/manifest.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f"
+            }
+          ]
+        }
+      }
+    ]  
+  },
+            {
+    "channelId": "STARZPLAY_SPORTS_2",
+    "name": "STARZPLAY SPORTS 2",
+    "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/ADSP2_264_Color.png",
+    "description": "",
+    "enabled": true,
+    "sortOrder": 1,
+    "streams": [
+      {
+        "streamId": "1",
+        "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/ADSP2_HEVC/wv-pr/manifest.mpd",
+        "format": "dash",
+        "headers": {},
+        "encryption": {
+          "type": "clearkey",
+          "keys": [
+            {
+              "keyId": "abcdef0123456789abcdef0123456789",
+              "key": "efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed"
+            }
+          ]
+        }
+      }
+    ]  
   }
       ]
     }

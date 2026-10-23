@@ -1,3 +1,1539 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "stn_tv_github",
+  "sourceName": "STN TV",
+  "updatedAt": "2026-10-21T18:00:00Z",
+  "groups": [
+    {
+      "groupId": "art_movies",
+      "name": "ART ©",
+      "logo": "https://pbs.twimg.com/profile_images/1522882439764455426/4mj8I-dl_400x400.jpg",
+      "description": "قنوات الأفلام",
+      "enabled": true,
+      "sortOrder": 1,
+      "channels": [
+        {
+          "channelId": "art_aflam1",
+          "name": "ART Aflam 1",
+          "logo": "https://media0106.elcinema.com/tvguide/1120_1.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "art_aflam_clearkey",
+              "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Aflam/DASH/ART_Aflam.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "0123456789abcdef0123456789abcdef",
+                    "key": "264e7cb9dfd6b9e5c281c97db4c2b4fa:47425a7e8f7e4030d186559852ae97db"
+                  },
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "abcdef0123456789abcdef0123456789"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "art_aflam2",
+          "name": "ART Aflam 2",
+          "logo": "https://media0106.elcinema.com/tvguide/1121_1.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Aflam_2/DASH/ART_Aflam_2.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "0123456789abcdef0123456789abcdef",
+                    "key": "809a386e57689d56c01a5c3190889641:d54639bb7d418d515e5198663a6d7ae5"
+                  },
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "abcdef0123456789abcdef0123456789"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "art_cinema",
+          "name": "ART Cinema",
+          "logo": "https://media0106.elcinema.com/tvguide/1195_1.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Cinema/DASH/ART_Cinema.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "0123456789abcdef0123456789abcdef",
+                    "key": "bd484fc91dcf152010a0e367e15ab60e:d9bed0a77b7da410129820bcc6606670"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "art_hekayat1",
+          "name": "ART Hekayat 1",
+          "logo": "https://static.wikia.nocookie.net/logopedia/images/5/54/ART_HEKAYAT_2005.webp/revision/latest/scale-to-width-down/309?cb=20260210052605",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Hekayat/DASH/ART_Hekayat.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "0123456789abcdef0123456789abcdef",
+                    "key": "3d614bb04140eda383d117fb55e9a361:b669cdf2cb65eff56d1e3534c7a54b53"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "art_hekayat2",
+          "name": "ART Hekayat 2",
+          "logo": "https://media0106.elcinema.com/tvguide/1182_1.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Hekayat_2/DASH/ART_Hekayat_2.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "0123456789abcdef0123456789abcdef",
+                    "key": "4ccb01903d6868e27953ff0298d4ac05:d156518d6ab453d9f9d12c243280be8f"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "Rotana_Drama",
+          "name": "Rotana Drama",
+          "logo": "https://media0106.elcinema.com/tvguide/1147_1.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Rotana_Drama/DASH/Rotana_Drama.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "9636650ce05533716e4e0971a4b38804:09b0d3d9b88d95a362f69c54aa8dfcbc"
+                  }
+                ]
+              }
+            },
+            {
+              "streamId": "2",
+              "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Rotana_Drama/DASH/Rotana_Drama.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "9636650ce05533716e4e0971a4b38804:09b0d3d9b88d95a362f69c54aa8dfcbc"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "MBC_Plus_eLife_HD",
+          "name": "MBC Plus eLife HD",
+          "logo": "https://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Plus_eLife_HD/DASH/MBC_Plus_eLife_HD.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "867c8d7670eab5e7aa10571830ad3d8c:030cf68626950b12145bc7147d6a9bda"
+                  }
+                ]
+              }
+            },
+            {
+              "streamId": "2",
+              "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_Plus_eLife_HD/DASH/MBC_Plus_eLife_HD.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "867c8d7670eab5e7aa10571830ad3d8c:030cf68626950b12145bc7147d6a9bda"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "Spacetoon",
+          "name": "Spacetoon",
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPmY5zE3TLx4mJc93ud0dtNazgcU_CF1H_yMq956WUEOjj46XjVxFbae8&s=10",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/Spacetoon/DASH/Spacetoon.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "2d9d2ff7e16589866e6de748a7a34dcd:91c93471f897aca8db5411a3aebef4db"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "Cartoon_Network_Arabic",
+          "name": "Cartoon Network Arabic",
+          "logo": "https://i.ytimg.com/vi/qg1LZjMb-Ck/maxresdefault.jpg",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/Cartoon_Network_Arabic/DASH/Cartoon_Network_Arabic.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "18f735985ada8c2183621c4316150095:5bbb37067a13fa42433314b9a89f889b"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "Saudi_Quran_HD",
+          "name": "Saudi Quran HD",
+          "logo": "https://i.ytimg.com/vi/CmppEPGps1w/maxresdefault.jpg",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/Saudi_Quran_HD/DASH/Saudi_Quran_HD.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "bff4673a52144d11c8bcb7b3f4ba5c51:51127b0a2598d705d600e345915bb720"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "Starzplay_Movies",
+          "name": "Starzplay Movies",
+          "logo": "https://pbs.twimg.com/profile_images/2084578359871463424/3cfmKhY7_400x400.jpg",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/Starzplay_Movies/DASH/Starzplay_Movies.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "4b59fc6829905f9875d7359cdf6a083b:81474bc4d05be9cb5a6a5bce74da9771"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "STARZPLAY_ACTION",
+          "name": "STARZPLAY ACTION",
+          "logo": "https://pbs.twimg.com/profile_images/2084578359871463424/3cfmKhY7_400x400.jpg",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/STARZPLAY_ACTION/dash/drm/index.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "38c517401bc9397b6baadff823b087cc:1d58f60b29e08f2df930262bf6418647"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "STARZPLAY_COMEDY",
+          "name": "STARZPLAY COMEDY",
+          "logo": "https://pbs.twimg.com/profile_images/2084578359871463424/3cfmKhY7_400x400.jpg",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/STARZPLAY_COMEDY/dash/drm/index.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "b6c2d59f6380e5f6b553eed84e6e1799:aa05c7615a20a8e871c61cb9f7d1072f"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "Zee_Aflam",
+          "name": "Zee Aflam",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/8/87/Zee_Aflam_2025.jpg?utm_source=ar.wikipedia.org&utm_campaign=index&utm_content=original",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-PreRoll-Live-DASH/live/eds/Zee_Aflam_FAST/DASH/Zee_Aflam_FAST.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "11910ef6b5ff443a4260a764d8da950b:49d8cbabcf414e4356d9112ca6e0592a"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "Zee_Alwan",
+          "name": "Zee Alwan",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Zee_Alwan_2025.jpg?utm_source=ar.wikipedia.org&utm_campaign=index&utm_content=original",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-PreRoll-Live-DASH/live/eds/Zee_Alwan_FAST/DASH/Zee_Alwan_FAST.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "5293e8a1c1910ecb8a7aba0f2a1ee550:6f9db72bfd8e1f1e42d4c92a8a488c74"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "abudhabi_tv",
+          "name": "abu dhabi tv",
+          "logo": "https://yt3.googleusercontent.com/AZZ1rpUYVjuYy6KE0OlC5bprfVSx5e7AG5XgxqKXpZHgeefRSbFIVsL-GVRVRRoIadbQu2vM=s900-c-k-c0x00ffffff-no-rj",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_tv/abudhabi_tv_dash_enc/index.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "dd2a3b3535dd583a3c2814a059cad800:42ec6b8b76055b93c7bf553594561207"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "abudhabi_sports_1",
+          "name": "abudhabi sports 1",
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ35Rrco-bZiupRjz0x4ynV6pmnR-XVUYuoRuBxoQAT8z4LyZ7-kvLwwTw&s=10",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "e78769d87a41e15036a4fb8bfdf1371e:37be0375dc9fe544c3c6de6a105f7c0a"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "abudhabi_sports_2",
+          "name": "abudhabi sports 2",
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ35Rrco-bZiupRjz0x4ynV6pmnR-XVUYuoRuBxoQAT8z4LyZ7-kvLwwTw&s=10",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_2/abudhabi_sports_2_dash_enc/index.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "386a5e1166d9102709888c3468ce1f56:73bd0bd25a148b3a80116ecdd085ead6"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "Rotana_Khaleejiah_HD",
+          "name": "Rotana Khaleejiah HD",
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVVbtoDQ-hR550MogBX41q7-rz9INOn3mV3PKBp-FG3DnLKb5NdG8Yb0g&s=10",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/Rotana_Khaleejiah_HD/DASH-v2/Rotana_Khaleejiah_HD.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "eca652b82b166e910e75150e0648ae32:587ed914c18ec18bc344769827ee7d96"
+                  }
+                ]
+              }
+            },
+            {
+              "streamId": "2",
+              "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Rotana_Khaleejiah_HD/DASH/Rotana_Khaleejiah_HD.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "eca652b82b166e910e75150e0648ae32:587ed914c18ec18bc344769827ee7d96"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "Rotana_Cinema_HD",
+          "name": "Rotana Cinema HD",
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlEuzwFAcWYy4nZKjNa7sI47icZARSZwNObnAXDROV6Q&s=10",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/Rotana_Cinema_HD/DASH/Rotana_Cinema_HD.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "a6c357b441bc90c4535d66fcd35cbd6a:8a8d316ff2b162e112882ac87c5b48f1"
+                  }
+                ]
+              }
+            },
+            {
+              "streamId": "2",
+              "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Rotana_Cinema_HD/DASH/Rotana_Cinema_HD.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "a6c357b441bc90c4535d66fcd35cbd6a:8a8d316ff2b162e112882ac87c5b48f1"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "Rotana_Cinema_Egypt",
+          "name": "Rotana Cinema Egypt",
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOK8NUvj9pXeFuXpgmRzcNO5ozQ1SQSosimf4W16GjwplB8-ZHBGP3wZ77V4KRsE-5UKH9qOSD4RVmX8q7F9O3qLEGesAS0oG9jUJb4AfC0xyyaODcRkE3B5X9YUQvGtlJzzuQ5m2ZBGQ/s1600/%25D8%25B3%25D9%258A%25D9%2586%25D9%2585%25D8%25A7.jpg",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Rotana_Cinema_Egypt/dash/drm/index.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "758305616899293b6b017c5e9da88008:45b74bd3ca8842f477675cfc31e00349"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "Rotana_Comedy_HDt",
+          "name": "Rotana Comedy HD",
+          "logo": "https://yt3.googleusercontent.com/aZPMstGd1j1jglaEu21IOGLkiHkY-1vn8Tseipg6FcwDR65fl3CVh6vEfWHaND_vDZeYpZmwhg=s900-c-k-c0x00ffffff-no-rj",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/Rotana_Comedy_HD/DASH/Rotana_Comedy_HD.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "72b4655222e48d75f814a6d009acfa6d:7bcce4a0e33c8d98548d5fbf0bc7922e"
+                  }
+                ]
+              }
+            },
+            {
+              "streamId": "2",
+              "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Rotana_Comedy_HD/DASH/Rotana_Comedy_HD.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "72b4655222e48d75f814a6d009acfa6d:7bcce4a0e33c8d98548d5fbf0bc7922e"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "Rotana_Classic_HD",
+          "name": "Rotana Classic_HD",
+          "logo": "https://i.ytimg.com/vi/A0MQEP7KU9E/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGF4gXiheMA8=&rs=AOn4CLAI5ifr_fJd_Hes9xaiJOJUw44hXQ",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/Rotana_Classic_HD/DASH/Rotana_Classic_HD.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "bce68ae0b214b322dfac26c0cb3decd2:2a3e76e41f224e04ec9f6a4e57273878"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "MBC_1_HD",
+          "name": "MBC 1 HD",
+          "logo": "https://www.mbc.net/etc/designs/mbc/images/logos/mbc1-logo.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/MBC_1_HD/dash/drm/index.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "14916d09434deadb728c72adfcbf0da3:0fc8151014beec32c7bd4abf797f8eb4"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "MBC_Action_HD",
+          "name": "MBC Action HD",
+          "logo": "https://www.mbc.net/etc/designs/mbc/images/logos/mbc-action-logo.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_Action_HD/DASH/MBC_Action_HD.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "d889ec7cb5cd8acb44f702726a56ae21:37be04cfb92f19ecd6074b976c1f3c54"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "MBC_Iraq_HD",
+          "name": "MBC Iraq HDD",
+          "logo": "https://www.mbc.net/etc/designs/mbc/images/logos/mbc-iraq-logo.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/MBC_Iraq_HD/dash/drm/index.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "ee3c6800ed41519b36a56d478c0ab4f3:6754ecbf2dab912e8cf09c9b1488bc4d"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "Dubai_TV_HD",
+          "name": "Dubai TV HD",
+          "logo": "https://www.dubaitv.ae/images/logo.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Dubai_TV_HD/dash/drm/index.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "9a3da3ceae9d9f6b2b5094ffd3017c34:aa8ed227ee7b2707ba58564fd186b8ed"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "Abu_Dhabi_Sports_1_HD",
+          "name": "Abu Dhabi Sports 1 HD",
+          "logo": "https://www.adsc.ae/en/PublishingImages/logo-abu-dhabi-sports.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Abu_Dhabi_Sports_1_HD/DASH/Abu_Dhabi_Sports_1_HD.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "1bec6ac7cd9a02dd75da2278ba3183ef:029edcf6b6c737595445a1a3a390edb3"
+                  }
+                ]
+              }
+            },
+            {
+              "streamId": "2",
+              "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/AD1_HEVC/wv-pr/manifest.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "2810c600349a0cd3a920c7d99bbe00b1:3911049bf0e342e70e0fba2cba6aa628"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "Abu_Dhabi_Sports_2_HD",
+          "name": "Abu Dhabi Sports 2 HD",
+          "logo": "https://www.adsc.ae/en/PublishingImages/logo-abu-dhabi-sports.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Abu_Dhabi_Sports_2_HD/DASH/Abu_Dhabi_Sports_2_HD.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "528afb1be8ef0e74a8fe703e37e493de:1f58c055fe8028ca00226301d6161729"
+                  }
+                ]
+              }
+            },
+            {
+              "streamId": "2",
+              "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/AD2_HEVC/wv-pr/manifest.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "7295fc09a7633fd460808f1ed854a8b6:5b4c9115617286036232fbb0d583a651"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "DUBAI_SPORTS_1_HD",
+          "name": "DUBAI SPORTS 1 HD",
+          "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/DBSH_264_Color.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/DBSH_HEVC/wv-pr/manifest.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "507e961ed13ca34c449ba45d6070b06e:c79fa598a6b4ccd40d4b264e16de6134"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "DUBAI_SPORTS_2_HD",
+          "name": "DUBAI SPORTS 2 HD",
+          "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/DBS2_264_Color.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/DBS2_HEVC/wv-pr/manifest.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "b56ae1a253e92a7efe223858f1b909a5:6f3a9f6cf736fc3cd1727b4b626c943a"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "SHARJAH_SPORTS",
+          "name": "SHARJAH SPORTS 1",
+          "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/SHS_264_Color.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/SHS_HEVC/wv-pr/manifest.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "12d37f04317d5c2e5f044a79f967c67e:75deea8e41e389997f34d0ebca3f1fb7"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "BAHRAN_SPORTS",
+          "name": "BAHRAN SPORTS ",
+          "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/BST_264_Color.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/BST_HEVC/wv-pr/manifest.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "4715ff70915cd2a490da7e63251072c2:1c349d100a1abaacd76fe62d628fd7ab"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "STCtv_Drama HD",
+          "name": "STCtv Drama HD",
+          "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STCD_264_Color.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCD_HEVC/wv-pr/manifest.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "4307d51136956e78dd17fe4884ba66d1:e81223c66a46efacd95b83c9ebbb8c1c"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "MBC_Drama_HD",
+          "name": "MBC Drama HD",
+          "logo": "https://www.mbc.net/etc/designs/mbc/images/logos/mbc-drama-logo.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_Drama_HD/DASH/MBC_Drama_HD.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "bd19fd7125d0ac84bdfb232b3752c186:3c5a6993c421ca50f5a49c46ae912e7f"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "MBC_Plus_Drama_HD",
+          "name": "MBC Plus Drama HD",
+          "logo": "https://www.mbc.net/etc/designs/mbc/images/logos/mbc-plus-drama-logo.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/MBC_plus_Drama_HD/dash/drm/index.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "2e431885f4b950f46423ca2e30bcc73d:f7e89fa48a7a37ce0efd0c98569550de"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "MBC_4_HD",
+          "name": "MBC 4 HD",
+          "logo": "https://www.mbc.net/etc/designs/mbc/images/logos/mbc4-logo.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/MBC_4_HD/dash/drm/index.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "29f3054bb2d3eaf8dd3f2e7ed82f344d:28069cb3e76ac3e45d007bcc99d6e50a"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "MBC_Masr",
+          "name": "MBC Masr",
+          "logo": "https://www.mbc.net/etc/designs/mbc/images/logos/mbc-masr-logo.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/MBC_Maser/dash/drm/index.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "7e4a21fa466f6a6dadbe00bc882f1429:4716d679cf065556354df8134c4e8c99"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "MBC_Masr_2",
+          "name": "MBC Masr 2",
+          "logo": "https://www.mbc.net/etc/designs/mbc/images/logos/mbc-masr2-logo.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_Maser_2/DASH/MBC_Maser_2.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "1ef41252601d15b560384657fa94e854:168e8db00dc987474b11fe806f523415"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "MBC_Plus_Variety_HD",
+          "name": "MBC Plus Variety HD",
+          "logo": "https://www.mbc.net/etc/designs/mbc/images/logos/mbc-plus-variety-logo.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/MBC_Plus_Variety_HD/DASH/MBC_Plus_Variety_HD.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "a458dbbe9cb445d92a27fb45cd371be7:b00f2e592b5bbade5beaa61e3aee7b32"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "MBC_2_HD",
+          "name": "MBC 2 HD",
+          "logo": "https://www.mbc.net/etc/designs/mbc/images/logos/mbc2-logo.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/MBC_2_HD/dash/drm/index.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "535b41e50f71d5dcdd7b61685500980f:864e981865940ef26cde333a1a8be344"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "MBC_Bollywood_HD",
+          "name": "MBC Bollywood HD",
+          "logo": "https://www.mbc.net/etc/designs/mbc/images/logos/mbc-bollywood-logo.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/MBC_Bollywood_HD/dash/drm/index.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "5dbba37d66620bd8b2d51572d9e201e8:7cf19a5f88f2762fc4a307e1389d8419"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "MBC_3_HD",
+          "name": "MBC 3 HD",
+          "logo": "https://www.mbc.net/etc/designs/mbc/images/logos/mbc3-logo.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/MBC_3_HD/dash/drm/index.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "789fdc6e5d26d121c4af76f659978a70:6ab0242bdaf4a7b0af4a54c9633a8e85"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "Saudi_1_HD",
+          "name": "Saudi 1 HD",
+          "logo": "https://www.saudi.gov.sa/wps/portal/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi_Sx8Q4yMLPwtjAwd_T1CjM2cDf1N_Az1g81wAkEo0Qx3DgD4GGBE6O7q6m5s4Wlg6G5kYGluADfY38TQwN3A09gSKs8wB2M3hHj6uwQH-7vGQxS5O6oAAz9cNw!!/dz/d5/L2dBISEvZ0FBIS9nQSEh",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Saudi_1_HD/dash/drm/index.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "b845ecd8e22295759d10481a2afc095e:e19b9883b13d3e9aca207e9a650f6451"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "SBC_HD",
+          "name": "SBC HD",
+          "logo": "https://www.sbc.sa/images/logo.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/SBC_HD/DASH/SBC_HD.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "1491c2b1e69271255c19077013d2b7de:fbf9a8171be8de39d41f0a86a17cdd4c"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "KSA_Sports_1_HD",
+          "name": "KSA Sports 1 HD",
+          "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/KSS_264_Color.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/KSA_Sports1_HD/DASH/KSA_Sports1_HD.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "a0723ff5bf2bbbb31dc727e4346b1cc7:29951a0a48586258ab168f26b3f58daa"
+                  }
+                ]
+              }
+            },
+            {
+              "streamId": "2",
+              "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/KSS_HEVC/wv-pr/manifest.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "0cd6f9f34ce638ddaab70b2d087576cb:c3cbb693ce69290cd10f5096724dafba"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "KSA_Sports_2_HD",
+          "name": "KSA Sports 2 HD",
+          "logo": "https://www.ksa-sports.com/images/logo.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/KSA_Sports2_HD/DASH/KSA_Sports2_HD.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "f7142ef5a9d7b8ef1044232e74605e91:f36d37064c1109c107ffab95c0f7532d"
+                  }
+                ]
+              }
+            },
+            {
+              "streamId": "2",
+              "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/KSS2_HEVC/wv-pr/manifest.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "08de1382b39f056f001ba897f58fda01:bbc1ce3249ba5ea4e1f9915120401be0"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "KSA_Sports_3_HD",
+          "name": "KSA Sports 3 HD",
+          "logo": "https://www.ksa-sports.com/images/logo.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/KSA_Sports3_HD/DASH/KSA_Sports3_HD.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "637dc9620732d390ab2df32e070256f0:0e47bb47e90258b5f392f8ecb54a8b22"
+                  }
+                ]
+              }
+            },
+            {
+              "streamId": "2",
+              "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/KSAS1_HEVC/wv-pr/manifest.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "f7b7376cdcaa8d53a823ac5248b89584:33057303995b0a090d4a52ca715ec27b"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "KSA_thaqafeyah",
+          "name": "KSA thaqafeyah HD",
+          "logo": "https://yt3.googleusercontent.com/SrOY6vepSht7siyL7hbbaCJ24wffxvObsXh7__9LGxpgdYJHa0TS-Ef93eAvgr9n60GcKy3xGA=s900-c-k-c0x00ffffff-no-rj",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/manifest/video/1080p2400kbps/video.m3u8",
+              "format": "hls",
+              "headers": {},
+              "encryption": {
+                "type": "none"
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "MBC_MAX",
+          "name": "MBC MAX HD",
+          "logo": "https://www.ksa-sports.com/images/logo.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "9f494797bdec4203aed785cc18901e5e:784c3fabbb87e741d7a4dcf13d03bc35"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "alhadath",
+          "name": "KSA alhadath HD",
+          "logo": "https://yt3.googleusercontent.com/SrOY6vepSht7siyL7hbbaCJ24wffxvObsXh7__9LGxpgdYJHa0TS-Ef93eAvgr9n60GcKy3xGA=s900-c-k-c0x00ffffff-no-rj",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/manifest/video/1080p2400kbps/video.m3u8",
+              "format": "hls",
+              "headers": {},
+              "encryption": {
+                "type": "none"
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "STCtv_Sports_HD_1",
+          "name": "STCtv Sports HD 1",
+          "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STC_264_Color.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STC_HEVC/wv-pr/manifest.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "47f0ab58f5a81c20b5b69dc494cbe102:1e0719da653c2b4652f0b0bf84d96c74"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "STCtv_Sports_HD_2",
+          "name": "STCtv Sports HD 2",
+          "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/JAW1_264_Color.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/JAW1_HEVC/wv-pr/manifest.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "e74c7d697bd26595b196c6b96e2d4f5b:e288110233737502e8af9184098ab50b"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "STCtv_Sports_HD_3",
+          "name": "STCtv Sports HD 3",
+          "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STC3_264_Color.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STC3_HEVC/wv-pr/manifest.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "1fd615ca2c5353fc5393da466ce31cbc:942822c6e7d3b01dd71bffded7ac0aa8"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "channelId": "STCtv_Sports_HD_4",
+          "name": "STCtv Sports HD 4",
+          "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STC4_264_Color.png",
+          "description": "",
+          "enabled": true,
+          "sortOrder": 1,
+          "streams": [
+            {
+              "streamId": "1",
+              "url": "https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STC4_HEVC/wv-pr/manifest.mpd",
+              "format": "dash",
+              "headers": {},
+              "encryption": {
+                "type": "clearkey",
+                "keys": [
+                  {
+                    "keyId": "abcdef0123456789abcdef0123456789",
+                    "key": "01065be7ffbb268f2aadf7424b8ee24e:79a541c99e9bb7815e257e4a4ff46dbb"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
           "channelId": "Thmanyeh_1_HD",
           "name": "Thmanyeh 1 HD",
           "logo": "https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STCT1_264_Color.png",

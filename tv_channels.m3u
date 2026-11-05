@@ -196,22 +196,19 @@
 #STN-STREAM:{"streamId":"primary3","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/755.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 
-#EXTINF:-1 tvg-id="992043" tvg-name="AD SPORTS PREMIUM 1 FHD" tvg-logo="https://go4.pw/ARABE/AD_SPORT1.png" group-title="ABU DHABI SPORTS", AD SPORTS PREMIUM 1 
+#EXTINF:-1 tvg-id="992043" tvg-name="STARZPALY SPORT 1" tvg-logo="https://assets.ar-pay.net/cdn-cgi/image/width=330,quality=75,format=auto/product/b0c64c7d-d701-40f9-b2d6-159022cdbb04.webp" group-logo="https://assets.ar-pay.net/cdn-cgi/image/width=330,quality=75,format=auto/product/b0c64c7d-d701-40f9-b2d6-159022cdbb04.webp" group-title="STARZPALY SPORT", STARZPALY SPORT 1
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/992043.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1320903.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-
-#EXTINF:-1 tvg-id="992042" tvg-name="AD SPORTS PREMIUM 2 FHD" tvg-logo="https://go4.pw/ARABE/AD_SPORT2.png" group-title="ABU DHABI SPORTS", AD SPORTS PREMIUM 2 
-#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/992042.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1320904.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-
-#EXTINF:-1 tvg-id="1320905" tvg-name="AD SPORTS PREMIUM 3 UHD" tvg-logo="https://go4.pw/ARABE/ad3.png" group-title="ABU DHABI SPORTS", AD SPORTS PREMIUM 3 
-#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1320905.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-
-#EXTINF:-1 tvg-id="1320906" tvg-name="AD SPORTS PREMIUM 1+ UHD" tvg-logo="https://go4.pw/ARABE/AD_SPORT1.png" group-title="ABU DHABI SPORTS", AD SPORTS PREMIUM 1+ UHD
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1320906.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="1320907" tvg-name="AD SPORTS PREMIUM 2+ UHD" tvg-logo="https://go4.pw/ARABE/AD_SPORT2.png" group-title="ABU DHABI SPORTS", AD SPORTS PREMIUM 2+ UHD
+#EXTINF:-1 tvg-id="992042" tvg-name="STARZPALY SPORT 2" tvg-logo="https://assets.ar-pay.net/cdn-cgi/image/width=330,quality=75,format=auto/product/b0c64c7d-d701-40f9-b2d6-159022cdbb04.webp" group-logo="https://assets.ar-pay.net/cdn-cgi/image/width=330,quality=75,format=auto/product/b0c64c7d-d701-40f9-b2d6-159022cdbb04.webp" group-title="STARZPALY SPORT", STARZPALY SPORT 2 
+#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/992042.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1320904.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1320907.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="1320905" tvg-name="STARZPALY SPORT 3" tvg-logo="https://assets.ar-pay.net/cdn-cgi/image/width=330,quality=75,format=auto/product/b0c64c7d-d701-40f9-b2d6-159022cdbb04.webp" group-logo="https://assets.ar-pay.net/cdn-cgi/image/width=330,quality=75,format=auto/product/b0c64c7d-d701-40f9-b2d6-159022cdbb04.webp" group-title="STARZPALY SPORT", STARZPALY SPORT 3
+#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1320905.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 
 #EXTINF:-1 tvg-id="944" tvg-name="AL MAJD KIDS HD" tvg-logo="https://go4.pw/ARABE/MAJD_KIDS.png" group-title="قنوات الأطفال", AL MAJD KIDS HD
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/944.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}

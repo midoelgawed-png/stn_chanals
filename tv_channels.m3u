@@ -8,7 +8,7 @@
 #STN-STREAM:{"streamId":"primary2","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/231677.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary3","url":"http://cdn-mac.live:8880/242297872843/309171190799/61758","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="102890" tvg-name="Bein Sport 1 SD" tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-1-logo-png_seeklogo-481583.png" group-logo="https://images.seeklogo.com/logo-png/36/1/bein-sports-logo-png_seeklogo-367812.png" group-title="Bein SPORT", Bein sport 1 SD
+#EXTINF:-1 tvg-id="102890" tvg-name="Bein Sport 1 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVgnS_xx1BoZzLYgYRdu5mykNGbBZ3nOXfL9WMPi6kXw_odSzCNZrL7cCn&s=10" group-logo="https://images.seeklogo.com/logo-png/36/1/bein-sports-logo-png_seeklogo-367812.png" group-title="Bein SPORT", Bein sport 1 SD
 #STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/102890.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/28242.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary3","url":"http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=242242&extension=ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}

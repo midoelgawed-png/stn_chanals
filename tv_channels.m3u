@@ -1,46 +1,101 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="83618" tvg-name="Bein News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Sports_News_ar.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-logo="https://images.seeklogo.com/logo-png/36/1/bein-sports-logo-png_seeklogo-367812.png" group-title="Bein SPORT", Bein News HD
 #STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/83618.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://cdn-mac.live:8880/242297872843/309171190799/23996","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="231675" tvg-name="Bein Sport GLOBAL" tvg-logo="https://images.seeklogo.com/logo-png/36/1/bein-sports-logo-png_seeklogo-367812.png" group-logo="https://images.seeklogo.com/logo-png/36/1/bein-sports-logo-png_seeklogo-367812.png" group-title="Bein SPORT", Bein Sport GLOBAL
 #STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/231675.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/231677.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary3","url":"http://cdn-mac.live:8880/242297872843/309171190799/61758","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="102890" tvg-name="Bein Sport 1 SD" tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-1-logo-png_seeklogo-481583.png" group-logo="https://images.seeklogo.com/logo-png/36/1/bein-sports-logo-png_seeklogo-367812.png" group-title="Bein SPORT", Bein sport 1 SD
 #STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/102890.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/28242.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary3","url":"http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=242242&extension=ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary5","url":"http://cdn-mac.live:8880/242297872843/309171190799/124182","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary6","url":"http://cdn-mac.live:8880/242297872843/309171190799/23959","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary7","url":"http://cdn-mac.live:8880/242297872843/309171190799/23958","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary8","url":"http://cdn-mac.live:8880/242297872843/309171190799/23957","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+
+
 
 #EXTINF:-1 tvg-id="102891" tvg-name="Bein Sport 2 SD" tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-2-logo-png_seeklogo-481584.png" group-logo="https://images.seeklogo.com/logo-png/36/1/bein-sports-logo-png_seeklogo-367812.png" group-title="Bein SPORT", Bein Sport 2 SD
 #STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/102891.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/28243.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary3","url":"http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=242241&extension=ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary5","url":"http://cdn-mac.live:8880/242297872843/309171190799/124183","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary6","url":"http://cdn-mac.live:8880/242297872843/309171190799/23954","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary7","url":"http://cdn-mac.live:8880/242297872843/309171190799/23953","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary8","url":"http://cdn-mac.live:8880/242297872843/309171190799/23952","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary9","url":"http://cdn-mac.live:8880/242297872843/309171190799/105750","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="108484" tvg-name="Bein Sport 3 SD" tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-3-logo-png_seeklogo-481585.png" group-logo="https://images.seeklogo.com/logo-png/36/1/bein-sports-logo-png_seeklogo-367812.png" group-title="Bein SPORT", Bein Sport 3 SD
 #STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/108484.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/28244.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary3","url":"http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=242240&extension=ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary4","url":"http://cdn-mac.live:8880/242297872843/309171190799/124184","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary5","url":"http://cdn-mac.live:8880/242297872843/309171190799/23950","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary6","url":"http://cdn-mac.live:8880/242297872843/309171190799/23949","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary7","url":"http://cdn-mac.live:8880/242297872843/309171190799/23948","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary8","url":"http://cdn-mac.live:8880/242297872843/309171190799/105751","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+  
 
 #EXTINF:-1 tvg-id="108485" tvg-name="Bein Sport 4 SD" tvg-logo="https://encrypted-tBein0.gstatic.com/images?q=tBein:ANd9GcRH3eqVQoqin-snZsA-YVR-VdqvckVLtDaD3jBWDTby5VTCzMrlukQNweeD&s=10" group-logo="https://images.seeklogo.com/logo-png/36/1/bein-sports-logo-png_seeklogo-367812.png" group-title="Bein SPORT", Bein Sport 4 SD
 #STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/108485.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/28245.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary3","url":"http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=242239&extension=ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary4","url":"http://cdn-mac.live:8880/242297872843/309171190799/124185","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary5","url":"http://cdn-mac.live:8880/242297872843/309171190799/23994","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary6","url":"http://cdn-mac.live:8880/242297872843/309171190799/23993","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary7","url":"http://cdn-mac.live:8880/242297872843/309171190799/23992","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary8","url":"http://cdn-mac.live:8880/242297872843/309171190799/23991","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="158897" tvg-name="Bein Sport 5 SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/93010o1631279441.png" group-logo="https://images.seeklogo.com/logo-png/36/1/bein-sports-logo-png_seeklogo-367812.png" group-title="Bein SPORT", Bein Sport 5 SD
 #STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/158897.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/28246.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary3","url":"http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=242238&extension=ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary4","url":"http://cdn-mac.live:8880/242297872843/309171190799/124186","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary5","url":"http://cdn-mac.live:8880/242297872843/309171190799/23989","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary6","url":"http://cdn-mac.live:8880/242297872843/309171190799/23988","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary7","url":"http://cdn-mac.live:8880/242297872843/309171190799/23987","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary8","url":"http://cdn-mac.live:8880/242297872843/309171190799/23986","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="102895" tvg-name="Bein Sport 6 SD" tvg-logo="https://encrypted-tBein0.gstatic.com/images?q=tBein:ANd9GcSyaaLWnYKHa2z85-VbeoWT4n8ZK7LjNutkEH0lAtCnpw&s=10" group-logo="https://images.seeklogo.com/logo-png/36/1/bein-sports-logo-png_seeklogo-367812.png" group-title="Bein SPORT", Bein Sport 6 SD
 #STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/102895.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/28247.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary3","url":"http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=242237&extension=ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary4","url":"http://cdn-mac.live:8880/242297872843/309171190799/23984","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary5","url":"http://cdn-mac.live:8880/242297872843/309171190799/23983","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary6","url":"http://cdn-mac.live:8880/242297872843/309171190799/23982","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary7","url":"http://cdn-mac.live:8880/242297872843/309171190799/23981","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="108486" tvg-name="Bein Sport 7 SD" tvg-logo="https://encrypted-tBein0.gstatic.com/images?q=tBein:ANd9GcS9ywW4JVhyYQ7JubH7Su1i6hen1j-iNKG5vgouBSQ6Vw&s=10" group-logo="https://images.seeklogo.com/logo-png/36/1/bein-sports-logo-png_seeklogo-367812.png" group-title="Bein SPORT", Bein Sport 7 SD
 #STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/108486.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/28248.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary3","url":"http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=242236&extension=ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary4","url":"http://cdn-mac.live:8880/242297872843/309171190799/23979","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary5","url":"http://cdn-mac.live:8880/242297872843/309171190799/23978","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary6","url":"http://cdn-mac.live:8880/242297872843/309171190799/23977","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary7","url":"http://cdn-mac.live:8880/242297872843/309171190799/23976","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="158898" tvg-name="Bein Sport 8 SD" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91295050-5a1d-11ef-a30f-0d36085b5b8b_webp_original.webp" group-logo="https://images.seeklogo.com/logo-png/36/1/bein-sports-logo-png_seeklogo-367812.png" group-title="Bein SPORT", Bein Sport 8 SD
 #STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/158898.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/78792.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary3","url":"http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=242235&extension=ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary4","url":"http://cdn-mac.live:8880/242297872843/309171190799/23974","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary5","url":"http://cdn-mac.live:8880/242297872843/309171190799/23973","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary6","url":"http://cdn-mac.live:8880/242297872843/309171190799/23972","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary7","url":"http://cdn-mac.live:8880/242297872843/309171190799/23971","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="158899" tvg-name="Bein Sport 9 SD" tvg-logo="https://encrypted-tBein0.gstatic.com/images?q=tBein:ANd9GcR072j7Fqy_VyI4xE8VY93M0jR4xtEaX9kaBKcaedT6WA&s=10" group-logo="https://images.seeklogo.com/logo-png/36/1/bein-sports-logo-png_seeklogo-367812.png" group-title="Bein SPORT", Bein Sport 9 SD
 #STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/158899.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/78793.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary3","url":"http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=242234&extension=ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary4","url":"http://cdn-mac.live:8880/242297872843/309171190799/23969","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary5","url":"http://cdn-mac.live:8880/242297872843/309171190799/23968","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary6","url":"http://cdn-mac.live:8880/242297872843/309171190799/23967","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary7","url":"http://cdn-mac.live:8880/242297872843/309171190799/23966","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="158866" tvg-name="Bein Sport 1  HD" tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-1-logo-png_seeklogo-481583.png" group-logo="https://images.seeklogo.com/logo-png/36/1/bein-sports-logo-png_seeklogo-367812.png" group-title="Bein SPORT HD", Bein Sport 1  HD
 #STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/158866.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -260,32 +315,61 @@
 #EXTINF:-1 tvg-id="929508" tvg-name="NEMO KIDS TV HD" tvg-logo="https://go4.pw/ARABE/NEMO KIDS.png" group-title="قنوات النايل سات", العروسة البوم 
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/929508.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="1348401" tvg-name="BEIN MOVIES 1 4K" tvg-logo="https://go4.pw/ARABE/BEIN_MOVIES1.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN MOVIES 1 4K
+#EXTINF:-1 tvg-id="1348401" tvg-name="BEIN MOVIES 1 4K" tvg-logo="https://go4.pw/ARABE/BEIN_MOVIES1.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN MOVIES 1
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1348401.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="1348402" tvg-name="BEIN MOVIES 2 4k" tvg-logo="https://go4.pw/ARABE/BEIN_MOVIES2.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN MOVIES 2 4k
+#STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/27974.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary3","url":"http://cdn-mac.live:8880/242297872843/309171190799/54210","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="1348402" tvg-name="BEIN MOVIES 2 4k" tvg-logo="https://go4.pw/ARABE/BEIN_MOVIES2.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN MOVIES 2
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1348402.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="1348403" tvg-name="BEIN MOVIES 3 4k" tvg-logo="https://go4.pw/ARABE/BEIN_MOVIES3.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN MOVIES 3 4k
+#STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/27973.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary3","url":"http://cdn-mac.live:8880/242297872843/309171190799/54209","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="1348403" tvg-name="BEIN MOVIES 3 4k" tvg-logo="https://go4.pw/ARABE/BEIN_MOVIES3.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN MOVIES 3
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1348403.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="1348404" tvg-name="BEIN MOVIES 4 4k" tvg-logo="https://go4.pw/ARABE/BEIN_MOVIES4.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN MOVIES 4 4k
+#STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/27972.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary3","url":"http://cdn-mac.live:8880/242297872843/309171190799/54208","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="1348404" tvg-name="BEIN MOVIES 4 4k" tvg-logo="https://go4.pw/ARABE/BEIN_MOVIES4.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN MOVIES 4
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1348404.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="1348405" tvg-name="BEIN SERIES  1 4k" tvg-logo="https://go4.pw/ARABE/BEIN_SERIES_1.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN SERIES  1 4k
+#STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/27971.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary3","url":"http://cdn-mac.live:8880/242297872843/309171190799/54207","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="1348405" tvg-name="BEIN SERIES  1 4k" tvg-logo="https://go4.pw/ARABE/BEIN_SERIES_1.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN SERIES  1
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1348405.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="1348406" tvg-name="BEIN SERIES  2 4k" tvg-logo="https://go4.pw/ARABE/BEIN_SERIES_1.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN SERIES  2 4k
+#STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/27969.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary3","url":"http://cdn-mac.live:8880/242297872843/309171190799/24245","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="1348406" tvg-name="BEIN SERIES  2 4k" tvg-logo="https://go4.pw/ARABE/BEIN_SERIES_1.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN SERIES  2
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1348406.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="1348407" tvg-name="BEIN DRAMA 4k" tvg-logo="https://go4.pw/ARABE/BEIN_DRAMA_1.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN DRAMA 4k
+#STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/27968.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary3","url":"http://cdn-mac.live:8880/242297872843/309171190799/24244","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="1348407" tvg-name="BEIN DRAMA 4k" tvg-logo="https://go4.pw/ARABE/BEIN_DRAMA_1.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN DRAMA
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1348407.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="1348408" tvg-name="BEIN STAR MOVIES 4k" tvg-logo="https://go4.pw/BEIN/starmovies.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN STAR MOVIES 4k
+#STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/27967.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary3","url":"http://cdn-mac.live:8880/242297872843/309171190799/24251","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="1348408" tvg-name="BEIN STAR MOVIES 4k" tvg-logo="https://go4.pw/BEIN/starmovies.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", STAR MOVIES
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1348408.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="1348410" tvg-name="BEIN STAR FILMS 4k" tvg-logo="https://go4.pw/BEIN/starfilmes.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN STAR FILMS 4k
+#STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1348416.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="1348410" tvg-name="BEIN STAR FILMS 4k" tvg-logo="https://go4.pw/BEIN/starfilmes.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", STAR FILMS
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1348410.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="1348409" tvg-name="BEIN ACTION 4k" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN ACTION 4k
-#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1348409.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="1348411" tvg-name="BEIN STAR SERIRES 4k" tvg-logo="https://go4.pw/BEIN/starseries.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN STAR SERIRES 4k
-#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1348411.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1348414.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="27948" tvg-name="BEIN FOX ACTION MOVIES HD" tvg-logo="https://go4.pw/ARABE/FOXACTIONMOVIES.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", STAR ACTION
+#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/27948.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary4","url":"http://cdn-mac.live:8880/242297872843/309171190799/68582","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+
 #EXTINF:-1 tvg-id="1348412" tvg-name="BEIN BARAEAM 4k" tvg-logo="https://go4.pw/BEIN/BARAEAM.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN BARAEAM 4k
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1348412.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 #EXTINF:-1 tvg-id="1348413" tvg-name="BEIN JEEM 4k" tvg-logo="https://go4.pw/ARABE/JEEM KIDS.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN JEEM 4k
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1348413.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary4","url":"http://cdn-mac.live:8880/242297872843/309171190799/54204","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 #EXTINF:-1 tvg-id="1226644" tvg-name="##### BEIN UHD #####" tvg-logo="https://go4.pw/ARABE/BEIN1.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", ##### BEIN UHD #####
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1226644.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #EXTINF:-1 tvg-id="1224820" tvg-name="BEIN OD 1 MOVIES UHD" tvg-logo="https://go4.pw/ARABE/odbein.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN OD 1 MOVIES UHD
@@ -318,51 +402,44 @@
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1224830.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #EXTINF:-1 tvg-id="1224831" tvg-name="BEIN OD 2023 4 UHD" tvg-logo="https://go4.pw/ARABE/odbein.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN OD 2023 4 UHD
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1224831.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="1226645" tvg-name="##### BEIN HD #####" tvg-logo="https://go4.pw/ARABE/BEIN1.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", ##### BEIN HD #####
-#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1226645.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="27974" tvg-name="BEIN MOVIES 1 HD" tvg-logo="https://go4.pw/ARABE/BEIN_MOVIES1.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN MOVIES 1 HD
-#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/27974.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="27973" tvg-name="BEIN MOVIES 2 HD" tvg-logo="https://go4.pw/ARABE/BEIN_MOVIES2.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN MOVIES 2 HD
-#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/27973.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="27972" tvg-name="BEIN MOVIES 3 HD" tvg-logo="https://go4.pw/ARABE/BEIN_MOVIES3.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN MOVIES 3 HD
-#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/27972.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="27971" tvg-name="BEIN MOVIES 4 HD" tvg-logo="https://go4.pw/ARABE/BEIN_MOVIES4.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN MOVIES 4 HD
-#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/27971.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="27969" tvg-name="BEIN SERIES 1 HD" tvg-logo="https://go4.pw/ARABE/BEIN_SERIES_1.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN SERIES 1 HD
-#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/27969.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="27968" tvg-name="BEIN SERIES 2 HD" tvg-logo="https://go4.pw/ARABE/BEIN_SERIES_1.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN SERIES 2 HD
-#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/27968.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="27967" tvg-name="BEIN DRAMA 1 HD ◉" tvg-logo="https://go4.pw/ARABE/BEIN_DRAMA_1.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN DRAMA 1 HD ◉
-#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/27967.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="1348416" tvg-name="BEIN STAR MOVIES HD" tvg-logo="https://go4.pw/BEIN/starmovies.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN STAR MOVIES HD
-#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1348416.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="1348414" tvg-name="BEIN STAR FILMS HD" tvg-logo="https://go4.pw/BEIN/starfilmes.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN STAR FILMS HD
-#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1348414.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="1348417" tvg-name="BEIN STAR SERIES HD" tvg-logo="https://go4.pw/BEIN/starseries.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN STAR SERIES HD
-#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1348417.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="1348415" tvg-name="BEIN STAR LIFE HD" tvg-logo="https://go4.pw/BEIN/starlife.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN STAR LIFE HD
-#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1348415.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="1348418" tvg-name="BEIN CARTOONITO HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/CARTOONITO_FHD.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN CARTOONITO HD
-#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1348418.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="27948" tvg-name="BEIN FOX ACTION MOVIES HD" tvg-logo="https://go4.pw/ARABE/FOXACTIONMOVIES.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN FOX ACTION MOVIES HD
-#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/27948.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 #EXTINF:-1 tvg-id="312491" tvg-name="BEIN BOX OFFICE HD 1" tvg-logo="https://go4.pw/ARABE/BEIN_BOX_OFFICE1.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN BOX OFFICE HD 1
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/312491.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 #EXTINF:-1 tvg-id="312492" tvg-name="BEIN BOX OFFICE HD 2" tvg-logo="https://go4.pw/ARABE/BEIN_BOX_OFFICE2.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN BOX OFFICE HD 2
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/312492.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 #EXTINF:-1 tvg-id="27965" tvg-name="BEIN GOURMET HD" tvg-logo="https://go4.pw/ARABE/BEIN_GOURMET.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN GOURMET HD
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/27965.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary4","url":"http://cdn-mac.live:8880/242297872843/309171190799/24250","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 #EXTINF:-1 tvg-id="1226343" tvg-name="BEIN BBC EARTH HD" tvg-logo="https://go4.pw/ARABE/BEIN_BBC_EARTH.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN BBC EARTH HD
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1226343.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary4","url":"http://cdn-mac.live:8880/242297872843/309171190799/69536","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 #EXTINF:-1 tvg-id="1224819" tvg-name="BEIN DISCOVERY FAMILY HD" tvg-logo="https://go4.pw/ARABE/BEIN_DISCOVERY_FAMILY.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN DISCOVERY FAMILY HD
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1224819.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="1224817" tvg-name="BEIN DREAM WORK HD" tvg-logo="https://go4.pw/ARABE/BEIN_DREAM_WORK.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN DREAM WORK HD
-#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1224817.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary4","url":"http://cdn-mac.live:8880/242297872843/309171190799/69535","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="dmax.qa" tvg-name="Bein Animal Planet" tvg-logo="" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", Animal Planet
+#STN-STREAM:{"streamId":"primary4","url":"http://cdn-mac.live:8880/242297872843/309171190799/69534","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 #EXTINF:-1 tvg-id="1224814" tvg-name="BEIN FOOD NETWORK HD" tvg-logo="https://go4.pw/ARABE/BEIN_FOOD_NETWORK.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN FOOD NETWORK HD
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1224814.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary4","url":"http://cdn-mac.live:8880/242297872843/309171190799/24248","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="1224866" tvg-name="BEIN fatafet HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxHLN4QhY27DZbX2YKrd5HXL-rsV7Xao35ucsh-vc3G_dPsTD_tun_YRY&s=10" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", FATAFEET
+#STN-STREAM:{"streamId":"primary","url":"http://cdn-mac.live:8880/242297872843/309171190799/24252","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 #EXTINF:-1 tvg-id="1224816" tvg-name="BEIN HGTV HD" tvg-logo="https://go4.pw/ARABE/BEIN_HGTV.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN HGTV HD
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1224816.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary4","url":"http://cdn-mac.live:8880/242297872843/309171190799/68577","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 #EXTINF:-1 tvg-id="1224815" tvg-name="BEIN TRAVEL HD" tvg-logo="https://go4.pw/ARABE/BEIN_TRAVEL.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN TRAVEL HD
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1224815.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary4","url":"http://cdn-mac.live:8880/242297872843/309171190799/24246","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 #EXTINF:-1 tvg-id="1224818" tvg-name="BEIN JUNIOR KIDS HD" tvg-logo="https://go4.pw/ARABE/BEIN_JUNIOR_KIDS.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN JUNIOR KIDS HD
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1224818.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary4","url":"http://cdn-mac.live:8880/242297872843/309171190799/24249","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+

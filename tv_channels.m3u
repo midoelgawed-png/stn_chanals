@@ -183,43 +183,28 @@
 #STN-STREAM:{"streamId":"primary2","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/232610.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary3","url":"http://coyora.cc//live/6V98D4A85QK4S7L/xS5txcwLg0/1339222.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="1167411" tvg-name="##### AD SPORTS #####" tvg-logo="https://go4.pw/ARABE/adsports.png" group-title="ABU DHABI SPORTS", ##### AD SPORTS #####
-#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1167411.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="1123471" tvg-name="AD SPORTS 1 HEVC" tvg-logo="https://go4.pw/ARABE/AD_SPORT1.png" group-title="ABU DHABI SPORTS", AD SPORTS 1 HEVC
+
+#EXTINF:-1 tvg-id="1123471" tvg-name="AD SPORTS 1 HEVC" tvg-logo="https://go4.pw/ARABE/AD_SPORT1.png" group-title="ABU DHABI SPORTS", AD SPORTS 1 
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1167471.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/975106.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary3","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/22039.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="975106" tvg-name="AD SPORTS 1 FHD" tvg-logo="https://go4.pw/ARABE/AD_SPORT1.png" group-title="ABU DHABI SPORTS", AD SPORTS 1 FHD
-#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/975106.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-
-#EXTINF:-1 tvg-id="22039" tvg-name="AD SPORTS 1 HD" tvg-logo="https://go4.pw/ARABE/AD_SPORT1.png" group-title="ABU DHABI SPORTS", AD SPORTS 1 HD
-#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/22039.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-
-#EXTINF:-1 tvg-id="1123472" tvg-name="AD SPORTS 2 HEVC" tvg-logo="https://go4.pw/ARABE/AD_SPORT2.png" group-title="ABU DHABI SPORTS", AD SPORTS 2 HEVC
+#EXTINF:-1 tvg-id="1123472" tvg-name="AD SPORTS 2 HEVC" tvg-logo="https://go4.pw/ARABE/AD_SPORT2.png" group-title="ABU DHABI SPORTS", AD SPORTS 2 
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1123472.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/975105.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary3","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/755.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="975105" tvg-name="AD SPORTS 2 FHD" tvg-logo="https://go4.pw/ARABE/AD_SPORT2.png" group-title="ABU DHABI SPORTS", AD SPORTS 2 FHD
-#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/975105.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="755" tvg-name="AD SPORTS 2 HD" tvg-logo="https://go4.pw/ARABE/AD_SPORT2.png" group-title="ABU DHABI SPORTS", AD SPORTS 2 HD
-#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/755.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-
-#EXTINF:-1 tvg-id="1320953" tvg-name="##### AD SPORTS PREMIUM #####" tvg-logo="https://go4.pw/ARABE/adsports.png" group-title="ABU DHABI SPORTS", ##### AD SPORTS PREMIUM #####
-#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1320953.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-
-#EXTINF:-1 tvg-id="992043" tvg-name="AD SPORTS PREMIUM 1 FHD" tvg-logo="https://go4.pw/ARABE/AD_SPORT1.png" group-title="ABU DHABI SPORTS", AD SPORTS PREMIUM 1 FHD
+#EXTINF:-1 tvg-id="992043" tvg-name="AD SPORTS PREMIUM 1 FHD" tvg-logo="https://go4.pw/ARABE/AD_SPORT1.png" group-title="ABU DHABI SPORTS", AD SPORTS PREMIUM 1 
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/992043.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1320903.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="1320903" tvg-name="AD SPORTS PREMIUM 1 UHD" tvg-logo="https://go4.pw/ARABE/AD_SPORT1.png" group-title="ABU DHABI SPORTS", AD SPORTS PREMIUM 1 UHD
-#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1320903.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-
-#EXTINF:-1 tvg-id="992042" tvg-name="AD SPORTS PREMIUM 2 FHD" tvg-logo="https://go4.pw/ARABE/AD_SPORT2.png" group-title="ABU DHABI SPORTS", AD SPORTS PREMIUM 2 FHD
+#EXTINF:-1 tvg-id="992042" tvg-name="AD SPORTS PREMIUM 2 FHD" tvg-logo="https://go4.pw/ARABE/AD_SPORT2.png" group-title="ABU DHABI SPORTS", AD SPORTS PREMIUM 2 
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/992042.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1320904.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="1320904" tvg-name="AD SPORTS PREMIUM 2 UHD" tvg-logo="https://go4.pw/ARABE/AD_SPORT2.png" group-title="ABU DHABI SPORTS", AD SPORTS PREMIUM 2 UHD
-#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1320904.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-
-#EXTINF:-1 tvg-id="1320905" tvg-name="AD SPORTS PREMIUM 3 UHD" tvg-logo="https://go4.pw/ARABE/ad3.png" group-title="ABU DHABI SPORTS", AD SPORTS PREMIUM 3 UHD
+#EXTINF:-1 tvg-id="1320905" tvg-name="AD SPORTS PREMIUM 3 UHD" tvg-logo="https://go4.pw/ARABE/ad3.png" group-title="ABU DHABI SPORTS", AD SPORTS PREMIUM 3 
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1320905.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="1320906" tvg-name="AD SPORTS PREMIUM 1+ UHD" tvg-logo="https://go4.pw/ARABE/AD_SPORT1.png" group-title="ABU DHABI SPORTS", AD SPORTS PREMIUM 1+ UHD

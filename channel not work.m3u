@@ -1,0 +1,92 @@
+#EXTM3U
+ ========= mbc==========
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.top4top.io/p_3549omtq70.jpg" group-logo="https://elfann.com/i/large/5252798_1740475978.jpg" group-title="M B C",MBC 2
+#STN-STREAM:{"streamId":"primary3","url":"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://dasifnz3.otttv.pw/iptv/ZASGRTFYHX4RT9/15198/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://e.top4top.io/p_3549rxyxo0.jpg" group-logo="https://elfann.com/i/large/5252798_1740475978.jpg" group-title="M B C",MBC أكشن
+#STN-STREAM:{"streamId":"primary3","url":"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-action/8ea6ca1108d03e03da5e61372354f5c8/index.mpd","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://dasifnz3.otttv.pw/iptv/ZASGRTFYHX4RT9/15197/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/pictures/9232.png" group-title="M B C",MBC MAX FHD
+#STN-STREAM:{"streamId":"primary2","url":"http://dasifnz3.otttv.pw/iptv/ZASGRTFYHX4RT9/15195/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2zztUpbQKbQnJdsf9lwOlfALfD.jpg" group-title="M B C", كامل العدد
+#STN-STREAM:{"streamId":"primary2","url":"https://shd-amg-fast.lg.mncdn.com/tx022/playlist.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/3fe33fcd-cbf3-423a-8e15-3bb16914d504.png" group-title="M B C",Al Rabiaa movies 
+#STN-STREAM:{"streamId":"primary2","url":"http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/56703","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="1481795633" tvg-name="MBC Persia" tvg-logo="https://i0.wp.com/ksalogo.com/wp-content/uploads/2025/01/MBC-Persia.png?fit=1000%2C1000&ssl=1" group-logo="https://elfann.com/i/large/5252798_1740475978.jpg" group-title="M B C", MBC Persia HD
+#STN-STREAM:{"streamId":"primary2","url":"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary3","url":"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+========bein ent==========
+#EXTINF:-1 tvg-id="1348410" tvg-name="BEIN STAR FILMS 4k" tvg-logo="https://images.seeklogo.com/logo-png/52/2/star-films-2024-logo-png_seeklogo-522984.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", STAR FILMS
+#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1348410.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1348414.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+
+#EXTINF:-1 tvg-id="1224820" tvg-name="BEIN OD 1 MOVIES UHD" tvg-logo="https://go4.pw/ARABE/odbein.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN OD 1 MOVIES UHD
+#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1224820.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary7","url":"http://0000001100.shop:80/live/40737595/65790382/785556.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="1224821" tvg-name="BEIN OD 2 MOVIES UHD" tvg-logo="https://go4.pw/ARABE/odbein.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN OD 2 MOVIES UHD
+#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1224821.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary7","url":"http://0000001100.shop:80/live/40737595/65790382/785555.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="1224822" tvg-name="BEIN OD 3 MOVIES UHD" tvg-logo="https://go4.pw/ARABE/odbein.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN OD 3 MOVIES UHD
+#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1224822.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary7","url":"http://0000001100.shop:80/live/40737595/65790382/785554.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="1224823" tvg-name="BEIN OD 4 MOVIES UHD" tvg-logo="https://go4.pw/ARABE/odbein.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN OD 4 MOVIES UHD
+#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1224823.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary7","url":"http://0000001100.shop:80/live/40737595/65790382/785553.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="1224824" tvg-name="BEIN OD 5 MOVIES UHD" tvg-logo="https://go4.pw/ARABE/odbein.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN OD 5 MOVIES UHD
+#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1224824.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary7","url":"http://0000001100.shop:80/live/40737595/65790382/785552.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="1224825" tvg-name="BEIN OD 6 MOVIES UHD" tvg-logo="https://go4.pw/ARABE/odbein.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN OD 6 MOVIES UHD
+#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1224825.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary7","url":"http://0000001100.shop:80/live/40737595/65790382/785551.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="1224826" tvg-name="BEIN OD 7 MOVIES UHD" tvg-logo="https://go4.pw/ARABE/odbein.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN OD 7 MOVIES UHD
+#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1224826.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary7","url":"http://0000001100.shop:80/live/40737595/65790382/785550.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="1224827" tvg-name="BEIN OD 8 MOVIES UHD" tvg-logo="https://go4.pw/ARABE/odbein.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN OD 8 MOVIES UHD
+#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1224827.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary7","url":"http://0000001100.shop:80/live/40737595/65790382/785549.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="1224832" tvg-name="BEIN OD 1 KIDS UHD" tvg-logo="https://go4.pw/ARABE/odbein.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN OD 1 KIDS UHD
+#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1224832.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="1224833" tvg-name="BEIN OD 2 KIDS UHD" tvg-logo="https://go4.pw/ARABE/odbein.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN OD 2 KIDS UHD
+#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1224833.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="1224834" tvg-name="BEIN OD 3 KIDS UHD" tvg-logo="https://go4.pw/ARABE/odbein.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN OD 3 KIDS UHD
+#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1224834.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="1224828" tvg-name="BEIN OD 2023 1 UHD" tvg-logo="https://go4.pw/ARABE/odbein.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN OD 2023 1 UHD
+#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1224828.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="1224829" tvg-name="BEIN OD 2023 2 UHD" tvg-logo="https://go4.pw/ARABE/odbein.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN OD 2023 2 UHD
+#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1224829.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="1224830" tvg-name="BEIN OD 2023 3 UHD" tvg-logo="https://go4.pw/ARABE/odbein.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN OD 2023 3 UHD
+#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1224830.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="1224831" tvg-name="BEIN OD 2023 4 UHD" tvg-logo="https://go4.pw/ARABE/odbein.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN OD 2023 4 UHD
+#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1224831.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="312491" tvg-name="BEIN BOX OFFICE HD 1" tvg-logo="https://go4.pw/ARABE/BEIN_BOX_OFFICE1.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN BOX OFFICE HD 1
+#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/312491.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary7","url":"http://0000001100.shop:80/live/40737595/65790382/785558.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="312492" tvg-name="BEIN BOX OFFICE HD 2" tvg-logo="https://go4.pw/ARABE/BEIN_BOX_OFFICE2.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN BOX OFFICE HD 2
+#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/312492.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary7","url":"http://0000001100.shop:80/live/40737595/65790382/785557.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+

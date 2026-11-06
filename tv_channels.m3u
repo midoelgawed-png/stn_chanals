@@ -490,7 +490,7 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/bbeea3c7-1af2-4992-b48e-07ae7a7bd14c.png" group-title="ROTANA",Rotana Cinema 
 #STN-STREAM:{"streamId":"primary2","url":"http://185.9.2.18/chid_288/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/DT33ZSW2JHP3U1M/DVYS2efUiw/21267","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/DT33ZSW2JHP3U1M/DVYS2efUiw/21267.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/72824bdb-974b-42f9-849f-d44ead0733f9.png" group-title="ROTANA",Rotana Classic 

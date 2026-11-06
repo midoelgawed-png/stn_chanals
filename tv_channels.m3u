@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="83618" tvg-name="Bein News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Sports_News_ar.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="Bein SPORT", Bein News HD
+#STN-STREAM:{"streamId":"primary6","url":"https://blcco.linkip.org/live/3464_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/83618.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://cdn-mac.live:8880/242297872843/309171190799/23996","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary3","url":"http://link4king.xyz:8080/NsIbRaCHiD@2026/puksMLBPBxNo4LR/102546","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -17,7 +18,10 @@
 #STN-STREAM:{"streamId":"primary7","url":"http://vivo.nettv.icu:80/12nqwq78re/wfextcos9z/33275","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="102890" tvg-name="Bein Sport 1 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVgnS_xx1BoZzLYgYRdu5mykNGbBZ3nOXfL9WMPi6kXw_odSzCNZrL7cCn&s=10" group-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="Bein SPORT", Bein sport 1 SD
-#STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/102890.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"https://sr.oz-tv.space/bein_sport_1/tracks-v1a1/mono.m3u8?token=MWEyZjJjNjVjNmEyOTY3NThjYzVlYTdjNGFmMDExNDliNDFmNmRmNjQzYjE1OTY5MGE3MjlkZWQyMGFmMWUwMjk3ZjFmOTA1MjQ3MmRmMDljNzZiOTlmN2NjOGY2M2QwLTIwMDE6MTZhNDo3NDoxZmExOjQ4MWQ6ZDU5OjgxYTA6OGExOC0xNzg5MDE1ODEyLTE3ODkwMzc0MTI%3D","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"https://cp11.adabmedia.com/hls2/bein1.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://pro.netmos.ovh:7355/live/PR2055477969542/5230682660068/78788.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/102890","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/28242.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary3","url":"http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=242242&extension=ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary5","url":"http://cdn-mac.live:8880/242297872843/309171190799/124182","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -29,6 +33,9 @@
 #STN-STREAM:{"streamId":"primary","url":"http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=242242&extension=ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="102891" tvg-name="Bein Sport 2 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8gVuZyK4G6zb4_HCYFdGbkC10OzJsUvfgdp8PscV0UcEZ9ffdC8jVnWq9&s=10" group-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="Bein SPORT", Bein Sport 2 SD
+#STN-STREAM:{"streamId":"primary","url":"https://sr.oz-tv.space/bein_sport_2/tracks-v1a1/mono.m3u8?token=MWEyZjJjNjVjNmEyOTY3NThjYzVlYTdjNGFmMDExNDliNDFmNmRmNjQzYjE1OTY5MGE3MjlkZWQyMGFmMWUwMjk3ZjFmOTA1MjQ3MmRmMDljNzZiOTlmN2NjOGY2M2QwLTIwMDE6MTZhNDo3NDoxZmExOjQ4MWQ6ZDU5OjgxYTA6OGExOC0xNzg5MDE1ODEyLTE3ODkwMzc0MTI%3D","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/live/PR2055477969542/5230682660068/78789.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"https://cp11.adabmedia.com/hls2/bein2.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/102891.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/28243.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary3","url":"http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=242241&extension=ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -42,6 +49,8 @@
 #STN-STREAM:{"streamId":"primary","url":"http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=242241&extension=ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="108484" tvg-name="Bein Sport 3 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZNzE0PllJX5OQ7Wm5Ytz6kb7_a3TxhwwsKYbp1FNdWg-AL0lzBnyjGAGb&s=10" group-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="Bein SPORT", Bein Sport 3 SD
+#STN-STREAM:{"streamId":"primary","url":"https://cp11.adabmedia.com/hls2/bein3.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"https://sr.oz-tv.space/bein_sport_3/tracks-v1a1/mono.m3u8?token=MWEyZjJjNjVjNmEyOTY3NThjYzVlYTdjNGFmMDExNDliNDFmNmRmNjQzYjE1OTY5MGE3MjlkZWQyMGFmMWUwMjk3ZjFmOTA1MjQ3MmRmMDljNzZiOTlmN2NjOGY2M2QwLTIwMDE6MTZhNDo3NDoxZmExOjQ4MWQ6ZDU5OjgxYTA6OGExOC0xNzg5MDE1ODEyLTE3ODkwMzc0MTI%3D","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/108484.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/28244.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary3","url":"http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=242240&extension=ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -93,8 +102,9 @@
 #STN-STREAM:{"streamId":"primary9","url":"http://link4king.xyz:8080/NsIbRaCHiD@2026/puksMLBPBxNo4LR/153588","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=242237&extension=ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="108486" tvg-name="Bein Sport 7 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ywW4JVhyYQ7JubH7Su1i6hen1j-iNKG5vgouBSQ6Vw&s=10" group-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="Bein SPORT", Bein Sport 7 SD
+#EXTINF:-1 tvg-id="108486" tvg-name="Bein Sport 7 SD" tvg-logo="https://a.top4top.io/p_3813um2df4.jpg" group-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="Bein SPORT", Bein Sport 7 SD
 #STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/108486.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"https://sr.oz-tv.space/bein_sport_7/tracks-v1a1/mono.m3u8?token=MWEyZjJjNjVjNmEyOTY3NThjYzVlYTdjNGFmMDExNDliNDFmNmRmNjQzYjE1OTY5MGE3MjlkZWQyMGFmMWUwMjk3ZjFmOTA1MjQ3MmRmMDljNzZiOTlmN2NjOGY2M2QwLTIwMDE6MTZhNDo3NDoxZmExOjQ4MWQ6ZDU5OjgxYTA6OGExOC0xNzg5MDE1ODEyLTE3ODkwMzc0MTI%3D","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/28248.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary3","url":"http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=242236&extension=ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary4","url":"http://cdn-mac.live:8880/242297872843/309171190799/23979","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -128,6 +138,9 @@
 #STN-STREAM:{"streamId":"primary8","url":"http://link4king.xyz:8080/NsIbRaCHiD@2026/puksMLBPBxNo4LR/7747","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary9","url":"http://link4king.xyz:8080/NsIbRaCHiD@2026/puksMLBPBxNo4LR/153591","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=242234&extension=ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/live/PR2055477969542/5230682660068/78787.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+
 #EXTINF:-1 tvg-id="158866" tvg-name="Bein Sport 1  HD" tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-1-logo-png_seeklogo-481583.png" group-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="Bein SPORT HD", Bein Sport 1  HD
 #STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/158866.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/78797.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -385,9 +398,17 @@
 
 #EXTINF:-1 tvg-id="148179" tvg-name="MBC Masr" tvg-logo="https://insiteooh.com/storage/media/brands/34885/MBC-Masr.jpg" group-logo="https://elfann.com/i/large/5252798_1740475978.jpg" group-title="M B C", MBC Masr HD
 #STN-STREAM:{"streamId":"primary2","url":"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1641_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1654_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/6V98D4A85QK4S7L/xS5txcwLg0/265667","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 
 #EXTINF:-1 tvg-id="148177" tvg-name="MBC Masr 2" tvg-logo="https://s1.dmcdn.net/u/7Pqew1RAcy5AWx909/240x240" group-logo="https://elfann.com/i/large/5252798_1740475978.jpg" group-title="M B C", MBC Masr 2 HD
 #STN-STREAM:{"streamId":"primary2","url":"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1642_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1653_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://pro.netmos.ovh:7355/live/PR2055477969542/5230682660068/712.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/6V98D4A85QK4S7L/xS5txcwLg0/265663","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 
 #EXTINF:-1 tvg-id="148172225" tvg-name="MBC Masr Drama" tvg-logo="https://shahid.mbc.net/mediaObject/7bab05e3-4048-4d57-a781-00668c2ce308" group-logo="https://elfann.com/i/large/5252798_1740475978.jpg" group-title="M B C", MBC Masr Drama HD
@@ -498,6 +519,10 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/7b4f8f12-c559-48f0-a876-f2dafcee90d3.png" group-title="ROTANA",ROTANA COMEDY 
 #STN-STREAM:{"streamId":"primary2","url":"http://185.9.2.18/chid_5224/mono.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/rotana/comedy_240p/chunks.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://pro.netmos.ovh:7355/live/PR2055477969542/5230682660068/683.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/DT33ZSW2JHP3U1M/DVYS2efUiw/21268","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 
 #EXTINF:-1 tvg-id="" tvg-name="STARZ Horror HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShAd5hZAcAJQCK752PdBbD6e4cXFmelvJaThb6w6s7uhPgDgogQiNCW5U&s=10" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShAd5hZAcAJQCK752PdBbD6e4cXFmelvJaThb6w6s7uhPgDgogQiNCW5U&s=10" group-title="STARZ Entertainment", STARZ Horror HD
 #STN-STREAM:{"streamId":"primary2","url":"https://blc2cr.linkip.org/live/90160_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -928,6 +953,11 @@
 #EXTINF:-1 tvg-id="9291201" tvg-name="Masriyah" tvg-logo="https://yt3.googleusercontent.com/VGY3J9gkK3snaiOA561smYDWxup5cNLCmCnjJcx1YOVwIBStNHBByw7HKLvshf3egFfOgOxkIw=s900-c-k-c0x00ffffff-no-rj" group-logo="https://www.alghad.tv/image/716/493/2022-10/%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="قنوات النايل سات", الفضائية المصرية 2 
 #STN-STREAM:{"streamId":"primary","url":"http://185.9.2.18/chid_247/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
+#EXTINF:-1 tvg-id="" tvg-name="eloula" tvg-logo="https://tlfaz.com/wp-content/uploads/2023/09/Channel-1-420x420.png" group-title="قنوات النايل سات", القتاة الأولى
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1627_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/live/PR2055477969542/5230682660068/698.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/6V98D4A85QK4S7L/xS5txcwLg0/258623","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 #EXTINF:-1 tvg-id="929508" tvg-name="NEMO KIDS TV HD" tvg-logo="https://i.ytimg.com/vi/zg9E8FzZb7Q/sddefault.jpg" group-logo="https://www.alghad.tv/image/716/493/2022-10/%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="قنوات النايل سات", العروسة البوم 
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/929508.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
@@ -1218,6 +1248,10 @@
 #STN-STREAM:{"streamId":"primary","url":"https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الأخبار",TRT Arabi (1080p) [Not 24/7]
 #STN-STREAM:{"streamId":"primary","url":"https://tv-trtarabi.medya.trt.com.tr/master.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-name="Al Hadath" tvg-logo="https://content-images.onvesper.com/prod/347x347-webp/dce.aljazeera/section/2761/03.OdTOO.kZDcq.png" group-logo="" group-title="القنوات الوثائقية", الجزيرة الوثائقية
+#STN-STREAM:{"streamId":"primary","url":"https://live-hls-web-ajd.getaj.net/AJD/01.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1637_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYiQvHKe-ms91c7PoGHg72zQDPFt_HS_nxzjZw3g-S8J7XBRg6TvxpfKo&s=10"  group-logo="https://yt3.googleusercontent.com/ytc/AIdro_mHc63Ctk_4vRXb71cMqFuk9f9ZDSVNu-fGxxYzOUwrfQ=s900-c-k-c0x00ffffff-no-rj" group-title="Majestic",Majestic Aflam 1

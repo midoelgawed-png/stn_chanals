@@ -887,7 +887,7 @@
 #STN-STREAM:{"streamId":"primary","url":"http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="92992036" tvg-name="BAHRIN QURAN" tvg-logo="https://dawa.center/images/626c5f0890dff.png" group-logo="https://ms.hsoubcdn.com/uploads/thumbnails/613673/477660/aa484b6c-4818-416d-841b-777913da6487.jpg" group-title="قنوات اسلامية", البحرين قرأن 
-#STN-STREAM:{"streamId":"primary","url":"https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="92992037" tvg-name="Iqraa1" tvg-logo="https://yt3.googleusercontent.com/DkEVEAGFIr_mGAdt_Trv-NuEJeAPVd9KPcd2Oyf-t_BO8yYIBY6m7GvQg2MXpFUEZ6vSyZrPjQ=s900-c-k-c0x00ffffff-no-rj" group-logo="https://ms.hsoubcdn.com/uploads/thumbnails/613673/477660/aa484b6c-4818-416d-841b-777913da6487.jpg" group-title="قنوات اسلامية", أقرأ للقران الكريم
 #STN-STREAM:{"streamId":"primary","url":"https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}

@@ -89,4 +89,6 @@
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/312492.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary7","url":"http://0000001100.shop:80/live/40737595/65790382/785557.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
+#EXTINF:-1 tvg-id="92992036" tvg-name="BAHRIN QURAN" tvg-logo="https://dawa.center/images/626c5f0890dff.png" group-logo="https://ms.hsoubcdn.com/uploads/thumbnails/613673/477660/aa484b6c-4818-416d-841b-777913da6487.jpg" group-title="قنوات اسلامية", البحرين قرأن 
+#STN-STREAM:{"streamId":"primary","url":"https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 

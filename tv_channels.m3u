@@ -400,6 +400,16 @@
 #EXTINF:-1 tvg-id="148179564" tvg-name="AFLAM" tvg-logo="https://shahid.mbc.net/mediaObject/c2c721ae-6dbf-410d-adb5-5efffdeea175" group-logo="https://elfann.com/i/large/5252798_1740475978.jpg" group-title="M B C", AFLAM
 #STN-STREAM:{"streamId":"primary2","url":"https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdauNcfuKH_rH_TLyx2jin13SrNV0bOk4iPEU9lyWqtQ&s=10" group-title="M B C", مسرح مصر
+#STN-STREAM:{"streamId":"primary2","url":"https://shd-amg-fast.lg.mncdn.com/tx009/playlist.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZQ-rmPC_mQUgkWgLCbrMC0TflomZH23D1-2XSS5jzD-rkeK8gLcp04TL3&s=10" group-title="M B C", الكبير اوي
+#STN-STREAM:{"streamId":"primary2","url":"https://shd-amg-fast.lg.mncdn.com/tx013/playlist.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsvDhPWxCNI37lPDsPR1Z78uwZqqHomOmJ61UDg3GDopGjukyXFKU8f0&s=10" group-title="M B C", اللعبه
+#STN-STREAM:{"streamId":"primary2","url":"https://shd-amg-fast.lg.mncdn.com/tx014/playlist.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2zztUpbQKbQnJdsf9lwOlfALfD.jpg" group-title="M B C", كامل العدد
+#STN-STREAM:{"streamId":"primary2","url":"https://shd-amg-fast.lg.mncdn.com/tx022/playlist.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+
 #EXTINF:-1 tvg-id="148179565" tvg-name="Movies Action" tvg-logo="https://shahid.mbc.net/mediaObject/8bd46347-7520-42fd-9730-8bc334b722b4" group-logo="https://elfann.com/i/large/5252798_1740475978.jpg" group-title="M B C", Movies Action
 #STN-STREAM:{"streamId":"primary2","url":"https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 

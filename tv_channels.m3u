@@ -396,6 +396,97 @@
 #STN-STREAM:{"streamId":"primary4","url":"http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/937938","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary4","url":"https://l.alameeeretv.workers.dev/?url=http%3A%2F%2Fso.ta2al.us%3A80%2Flive%2FMH12ARBMH12%2FMH12ARBMH12%2F1110.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
+#EXTINF:-1 tvg-id="" tvg-name="osn YAHALLA Aflam" tvg-logo="https://media0103.elcinema.com/tvguide/1285_1.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTVi5tNiWLiMoVewi5jOxcFgQNIoB14KxKeC1FcnRI6iJtlFIAhWwUCPM&s=10" group-title="OSN", OSN YAHALLA Aflam
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1852_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+
+#EXTINF:-1 tvg-id="" tvg-name="osn - movies - comdey" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTDia9WHSvjWD0v81MjD-W156WxwtfrDk8sd97taAB5w&s=10" group-logo="" group-title="OSN", OSN Movies Comedy
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1850_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-name="osn - movies - action" tvg-logo="https://media0103.elcinema.com/tvguide/1211_1.png" group-logo="" group-title="OSN", OSN Movies ACTION
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1849_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/738Y3W4BA3A2E5D/hvus70PT3U/48929","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-name="osn - movies - family" tvg-logo="https://media0103.elcinema.com/tvguide/1392_1.png" group-logo="" group-title="OSN", OSN Movies FAMILY
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1869_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-name="osn - movies - Hollywood" tvg-logo="https://media0103.elcinema.com/tvguide/1391_1.png" group-logo="" group-title="OSN", OSN Movies Hollywood
+#STN-STREAM:{"streamId":"primary2","url":"","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-name="osn - movies - premiere" tvg-logo="https://media0103.elcinema.com/tvguide/1213_1.png" group-logo="" group-title="OSN", OSN Movies premiere
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1851_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1810_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-name="osn  - Showcase" tvg-logo="https://media0103.elcinema.com/tvguide/1394_1.png" group-logo="" group-title="OSN", OSN Movies Showcase
+#STN-STREAM:{"streamId":"primary2","url":"","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+
+#EXTINF:-1 tvg-id="" tvg-name="osn - comdey" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-IhyTfUUj7D8NGeCWUMBKw6jFG6t4Appfw&s" group-logo="" group-title="OSN", OSN Comedy
+#STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/738Y3W4BA3A2E5D/hvus70PT3U/48906","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1845_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-name="osn - Crime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRphS4YbarMlxYOhYSNhyqJ3Ip7HyMy2zp-bdR82lddwA&s=10" group-logo="" group-title="OSN", OSN TV Crime
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1847_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/738Y3W4BA3A2E5D/hvus70PT3U/633254","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN TV Now" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFfA_F71lVyRS9JiEIQF0RwIesKfeM4e1bGGAqHkgNog&s=10" group-logo="" group-title="OSN", OSN TV Now
+#STN-STREAM:{"streamId":"primary2","url":"http://sa.xurvani.cfd/live/564500400/3839746022/725885.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1856_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/6V98D4A85QK4S7L/xS5txcwLg0/48918","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN TV ONE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC9APSruEQoJFr5xHrXpeChd16M3sBZwYm_KAFQMQmEg&s=10" group-logo="" group-title="OSN", OSN TV ONE
+#STN-STREAM:{"streamId":"primary2","url":"","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN TV Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBtVFrl3urlloy-TOLNFudwuMKWu4JcF0YRP7MPIMGxQ&s=10" group-logo="" group-title="OSN", OSN TV Kids
+#STN-STREAM:{"streamId":"primary2","url":"","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ALFA Cinema 1" tvg-logo="https://media0103.elcinema.com/tvguide/1150_1.png" group-logo="" group-title="OSN", ALFA Cinema 1
+#STN-STREAM:{"streamId":"primary2","url":"http://sa.xurvani.cfd/live/564500400/3839746022/725866.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/738Y3W4BA3A2E5D/hvus70PT3U/48927","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-name="ALFA Cinema 2" tvg-logo="https://content.osn.com/bob/745x419/CM2.jpg" group-logo="" group-title="OSN", ALFA Cinema 2
+#STN-STREAM:{"streamId":"primary2","url":"http://sa.xurvani.cfd/live/564500400/3839746022/725865.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ALFA Alyoum" tvg-logo="https://i.ytimg.com/vi/E7QlgJDQ8i0/sddefault.jpg" group-logo="" group-title="OSN", ALFA Alyoum
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1839_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://sa.xurvani.cfd/live/564500400/3839746022/725867.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-name="ALFA Alsafwa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR83Ao_qnTqiBlVrwamZpF7XG9B5ZeEv_sGHH1xXujcuA&s=10" group-logo="" group-title="OSN", ALFA Alsafwa
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1812_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://sa.xurvani.cfd/live/564500400/3839746022/725863.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-name="ALFA fan" tvg-logo="https://images.tv.osn.com/colossus/images/movie/1936867661/landscapewithtitle/1936867661_LTT.jpg?im=Resize=(1248)" group-logo="" group-title="OSN", ALFA fan
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1811_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1836_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/DT33ZSW2JHP3U1M/DVYS2efUiw/42977","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://sa.xurvani.cfd/live/564500400/3839746022/725864.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-name="History 2" tvg-logo="https://www.hollywoodreporter.com/wp-content/uploads/2012/02/history_channel_logo.jpg" group-logo="" group-title="OSN", History 2
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1829_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://sa.xurvani.cfd/live/564500400/3839746022/725873.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/738Y3W4BA3A2E5D/hvus70PT3U/107381","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-name="ART HEKAYAT2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxM1AGvjjnttES5CA0Y9plNNNEPxNpU2E_1Qw9haSS&s=10" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREOjy9OGz-taVlWQpDXgrSy3I3_kaAozeF6p2VM0Us2Q&s=10" group-title="ART", ART Hekayat 2
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1834_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1830_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/738Y3W4BA3A2E5D/hvus70PT3U/108001","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ART HEKAYAT1" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2025/05/art-hekayat-1-numero-chaine-tv.png" group-title="ART", ART Hekayat 1
+#STN-STREAM:{"streamId":"primary2","url":"","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-name="ART AFLAM 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrhvthx4TEQSKa-Oes7YjIlksymMCuYCPF5bZJ68RHXQ&s=10" group-title="ART", ART AFLAM 1
+#STN-STREAM:{"streamId":"primary2","url":"http://pro.netmos.ovh:7355/live/PR2055477969542/5230682660068/111398.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ART AFLAM 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNL_wH1NR3AzRjZOXb-nB0dyfgmclAHHnqvAQbR5AvBg&s=10" group-title="ART", ART AFLAM 2
+#STN-STREAM:{"streamId":"primary2","url":"http://pro.netmos.ovh:7355/live/PR2055477969542/5230682660068/111397.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/DT33ZSW2JHP3U1M/DVYS2efUiw/48933","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+
 #EXTINF:-1 tvg-id="148179" tvg-name="MBC Masr" tvg-logo="https://insiteooh.com/storage/media/brands/34885/MBC-Masr.jpg" group-logo="https://elfann.com/i/large/5252798_1740475978.jpg" group-title="M B C", MBC Masr HD
 #STN-STREAM:{"streamId":"primary2","url":"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1641_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}

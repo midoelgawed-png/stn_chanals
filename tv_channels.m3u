@@ -827,11 +827,11 @@
 #STN-STREAM:{"streamId":"primary4","url":"http://cdn-mac.live:8880/242297872843/309171190799/24249","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://link4king.xyz:8080/NsIbRaCHiD@2026/puksMLBPBxNo4LR/71231","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="1936499" tvg-name="AR- Alwan QURAN FHD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/alwan-sport.png" group-logo="https://alwansports.com/wp-content/uploads/2026/07/alwan-sport.png" group-title="ALWAN ENTERTAINMENT", Alwan QURAN
+#EXTINF:-1 tvg-id="" tvg-name="AR- Alwan QURAN FHD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/alwan-sport.png" group-logo="https://alwansports.com/wp-content/uploads/2026/07/alwan-sport.png" group-title="ALWAN ENTERTAINMENT", Alwan QURAN
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1339235.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 
-#EXTINF:-1 tvg-id="1936499" tvg-name="AR- Alwan Turkey FHD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/alwan-sport.png" group-title="ALWAN ENTERTAINMENT", Alwan Turkey
+#EXTINF:-1 tvg-id="" tvg-name="AR- Alwan Turkey FHD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/alwan-sport.png" group-title="ALWAN ENTERTAINMENT", Alwan Turkey
 #STN-STREAM:{"streamId":"primary4","url":"http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936499","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1339244.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 

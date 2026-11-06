@@ -1239,27 +1239,27 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/2dbde6bc-1700-46e9-849b-fa66180f93ab.png" group-logo="http://widget.ottplayer.tv/upictures/2dbde6bc-1700-46e9-849b-fa66180f93ab.png" group-title="HOME CINEMA",HOME CINEMA HD
 #STN-STREAM:{"streamId":"primary","url":"https://blc2cr.linkip.org/live/90003_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/89e54139-46d1-4694-bf39-60e2021837eb.png" group-title="HOME CINEMA",HOME CINEMA HD 1+
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/2dbde6bc-1700-46e9-849b-fa66180f93ab.png" group-title="HOME CINEMA",HOME CINEMA HD 1+
 #STN-STREAM:{"streamId":"primary","url":"https://blc2cr.linkip.org/live/90034_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/773269d7-ccc3-4f86-b607-fc6f3c138da0.png" group-title="HOME CINEMA",HOME CINEMA HD 1
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/2dbde6bc-1700-46e9-849b-fa66180f93ab.png" group-title="HOME CINEMA",HOME CINEMA HD 1
 #STN-STREAM:{"streamId":"primary","url":"https://blc2cr.linkip.org/live/90004_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/cfd0db6b-10b6-48ec-a536-b9b3012fbe65.png" group-title="HOME CINEMA",HOME CINEMA HD 2
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/2dbde6bc-1700-46e9-849b-fa66180f93ab.png" group-title="HOME CINEMA",HOME CINEMA HD 2
 #STN-STREAM:{"streamId":"primary","url":"https://blc2cr.linkip.org/live/90005_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/01ea4e65-f78e-4df8-82bd-1134ddd25f7a.png" group-title="HOME CINEMA",HOME CINEMA HD 2+
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/2dbde6bc-1700-46e9-849b-fa66180f93ab.png" group-title="HOME CINEMA",HOME CINEMA HD 2+
 #STN-STREAM:{"streamId":"primary","url":"https://blc2cr.linkip.org/live/90035_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/5e69b6a4-5bb0-4be3-bf0e-6ed22a684296.png" group-title="HOME CINEMA",HOME CINEMA HD 3
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/2dbde6bc-1700-46e9-849b-fa66180f93ab.png" group-title="HOME CINEMA",HOME CINEMA HD 3
 #STN-STREAM:{"streamId":"primary","url":"https://blc2cr.linkip.org/live/90006_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/02468947-d06b-4c9c-b3b5-78d9f6dcbb09.png" group-title="HOME CINEMA",HOME CINEMA HD 4
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/2dbde6bc-1700-46e9-849b-fa66180f93ab.png" group-title="HOME CINEMA",HOME CINEMA HD 4
 #STN-STREAM:{"streamId":"primary","url":"https://blc2cr.linkip.org/live/90007_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/11fb25d8-9d0d-4622-83a4-90d7c8529b75.png" group-title="HOME CINEMA",HOME CINEMA HD 5
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/2dbde6bc-1700-46e9-849b-fa66180f93ab.png" group-title="HOME CINEMA",HOME CINEMA HD 5
 #STN-STREAM:{"streamId":"primary","url":"https://blc2cr.linkip.org/live/90008_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/1913bd73-ae95-41b4-8c16-d2ee310a5ce2.png" group-title="HOME CINEMA",HOME CINEMA HD 6
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/2dbde6bc-1700-46e9-849b-fa66180f93ab.png" group-title="HOME CINEMA",HOME CINEMA HD 6
 #STN-STREAM:{"streamId":"primary","url":"https://blc2cr.linkip.org/live/90009_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/a7bee8d6-e0be-4439-bea0-d87350530fda.png" group-title="HOME CINEMA",HOME CINEMA HD 7
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/2dbde6bc-1700-46e9-849b-fa66180f93ab.png" group-title="HOME CINEMA",HOME CINEMA HD 7
 #STN-STREAM:{"streamId":"primary","url":"https://blc2cr.linkip.org/live/90010_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/b8479e94-278a-43d6-9119-94f229b4c395.png" group-title="HOME CINEMA",HOME CINEMA HD 8
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/2dbde6bc-1700-46e9-849b-fa66180f93ab.png" group-title="HOME CINEMA",HOME CINEMA HD 8
 #STN-STREAM:{"streamId":"primary","url":"https://blc2cr.linkip.org/live/90011_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/88ef129c-fcee-4813-b527-1b8b64428042.png" group-title="HOME CINEMA",HOME CINEMA HD 9
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/2dbde6bc-1700-46e9-849b-fa66180f93ab.png" group-title="HOME CINEMA",HOME CINEMA HD 9
 #STN-STREAM:{"streamId":"primary","url":"https://blc2cr.linkip.org/live/90012_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/dd84ce90-b8d3-4add-8004-4e37fe203fae.png" group-logo="http://widget.ottplayer.tv/upictures/dd84ce90-b8d3-4add-8004-4e37fe203fae.png" group-title="BALANCE TV",BALANCEأكــشــن HD

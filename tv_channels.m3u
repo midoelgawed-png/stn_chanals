@@ -894,7 +894,7 @@
 #EXTINF:-1 tvg-id="73773" tvg-name="AR|beIN NAT GEO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTARFLfl5nOvKQAZWk4L65epsX9Dw7c9QH1k57sTNopPl4Yr04n5k1_oJp9&s=10" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT",  NAT GEO HD
 #STN-STREAM:{"streamId":"primary2","url":"http://link4king.xyz:8080/NsIbRaCHiD@2026/puksMLBPBxNo4LR/73773","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary7","url":"http://0000001100.shop:80/live/40737595/65790382/595705.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-
+#STN-STREAM:{"streamId":"primary7","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/319701.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="86222" tvg-name="AR|beIN TCM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyUrHUs4QZGXR3IP9uLm2E0RMMw9RQcC3UvRdXKigsZAXUJ1agLaS7eiA&s=10" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", TCM HD
 #STN-STREAM:{"streamId":"primary2","url":"http://link4king.xyz:8080/NsIbRaCHiD@2026/puksMLBPBxNo4LR/86222","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}

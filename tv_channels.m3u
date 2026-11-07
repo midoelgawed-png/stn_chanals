@@ -329,6 +329,18 @@
 #STN-STREAM:{"streamId":"primary","url":"https://l.alameeeretv.workers.dev/?url=http%3A%2F%2Fso.ta2al.us%3A80%2Flive%2FMH12ARBMH12%2FMH12ARBMH12%2F841733.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 
+#EXTINF:-1 tvg-id="" tvg-name="On Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBtNfAxChEugOMYy5-nsqsXeO2p_wMmKLBKwcPFQMEhwfdkQZikB7sKAo&s=10" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThg5hADGXtTAlaWJ8mZIaXuS2CdrDqiV2jOKkQJx3YDDvYnDSRQ8WBJQ4&s=10" group-title="Egypt Sport", On Sport HD
+#STN-STREAM:{"streamId":"primary","url":"http://restreamott.xyz/live/restreamtreetv/Arenatomas11/7956.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-name="On Sport max" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBtNfAxChEugOMYy5-nsqsXeO2p_wMmKLBKwcPFQMEhwfdkQZikB7sKAo&s=10" group-title="Egypt Sport", On Sport Max HD
+#STN-STREAM:{"streamId":"primary","url":"http://restreamott.xyz/live/restreamtreetv/Arenatomas11/7957.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+
+#EXTINF:-1 tvg-id="" tvg-name="nile sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGIL5qH5KXLqPxXtQVZ_vbtWeYZCoeZsmiE9aViOMuZwPYX8MpbaCZ7XF8&s=10" group-title="Egypt Sport", Nile Sport
+#STN-STREAM:{"streamId":"primary","url":"http://restreamott.xyz/live/restreamtreetv/Arenatomas11/7951.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+
+
 #EXTINF:-1 tvg-id="1123471" tvg-name="AD SPORTS 1 HEVC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ35Rrco-bZiupRjz0x4ynV6pmnR-XVUYuoRuBxoQAT8z4LyZ7-kvLwwTw&s=10" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ35Rrco-bZiupRjz0x4ynV6pmnR-XVUYuoRuBxoQAT8z4LyZ7-kvLwwTw&s=10" group-title="ABU DHABI SPORTS", AD SPORTS 1 
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1167471.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/975106.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}

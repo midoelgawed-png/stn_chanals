@@ -295,7 +295,7 @@
 #STN-STREAM:{"streamId":"primary2","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/232610.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary3","url":"http://coyora.cc//live/6V98D4A85QK4S7L/xS5txcwLg0/1339222.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="310705" tvg-name="WWE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbtWqq9nSPAQNo8eY3xKolpMtWGXEI1a4CZNnHhh2qbviZPcwXuSONrDQQ&s=10" group-title="ALWAN SPORT" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZzpxE0iQbHD7mYNbeJxSvgzzUJQanMtqosEvweiZTFFJ01Qa7OAWzBpA&s=10",WWE
+#EXTINF:-1 tvg-id="310706" tvg-name="WWE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbtWqq9nSPAQNo8eY3xKolpMtWGXEI1a4CZNnHhh2qbviZPcwXuSONrDQQ&s=10" group-title="ALWAN SPORT" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZzpxE0iQbHD7mYNbeJxSvgzzUJQanMtqosEvweiZTFFJ01Qa7OAWzBpA&s=10",WWE
 #STN-STREAM:{"streamId":"primary","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413883.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 
@@ -823,7 +823,7 @@
 #STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1678_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 
-#EXTINF:-1 tvg-id="1443868" tvg-name="5 KIDS" tvg-logo="https://media.elwatannews.com/media/img/Large/2025/11/2/2025_11_2_10_34_52_436.jpeg" group-title="قنوات الأطفال", 5 KIDS 
+#EXTINF:-1 tvg-id="1443867878" tvg-name="5 KIDS" tvg-logo="https://media.elwatannews.com/media/img/Large/2025/11/2/2025_11_2_10_34_52_436.jpeg" group-title="قنوات الأطفال", 5 KIDS 
 #STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1689_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1443868.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 

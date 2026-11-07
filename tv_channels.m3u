@@ -1041,7 +1041,7 @@
 #EXTINF:-1 tvg-id="",tvg-name="📡Panorama Food",group-title="قنوات النايل سات",📡Panorama Food
 #STN-STREAM:{"streamId":"primary","url":"http://185.9.2.18/chid_367/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="9291201" tvg-name="Masriyah" tvg-logo="https://yt3.googleusercontent.com/VGY3J9gkK3snaiOA561smYDWxup5cNLCmCnjJcx1YOVwIBStNHBByw7HKLvshf3egFfOgOxkIw=s900-c-k-c0x00ffffff-no-rj" group-logo="https://www.alghad.tv/image/716/493/2022-10/%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="قنوات النايل سات", الفضائية المصرية 2 
+#EXTINF:-1 tvg-id="" tvg-name="Masriyah" tvg-logo="https://yt3.googleusercontent.com/VGY3J9gkK3snaiOA561smYDWxup5cNLCmCnjJcx1YOVwIBStNHBByw7HKLvshf3egFfOgOxkIw=s900-c-k-c0x00ffffff-no-rj" group-logo="https://www.alghad.tv/image/716/493/2022-10/%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="قنوات النايل سات", الفضائية المصرية 2 
 #STN-STREAM:{"streamId":"primary","url":"http://185.9.2.18/chid_247/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="" tvg-name="eloula" tvg-logo="https://tlfaz.com/wp-content/uploads/2023/09/Channel-1-420x420.png" group-title="قنوات النايل سات", القتاة الأولى
@@ -1049,7 +1049,7 @@
 #STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/live/PR2055477969542/5230682660068/698.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/6V98D4A85QK4S7L/xS5txcwLg0/258623","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="929508" tvg-name="NEMO KIDS TV HD" tvg-logo="https://i.ytimg.com/vi/zg9E8FzZb7Q/sddefault.jpg" group-logo="https://www.alghad.tv/image/716/493/2022-10/%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="قنوات النايل سات", العروسة البوم 
+#EXTINF:-1 tvg-id="" tvg-name="NEMO KIDS TV HD" tvg-logo="https://i.ytimg.com/vi/zg9E8FzZb7Q/sddefault.jpg" group-logo="https://www.alghad.tv/image/716/493/2022-10/%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="قنوات النايل سات", العروسة البوم 
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/929508.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/d43d570e-33da-42a5-baca-e91790eb502e.png" group-title="قنوات النايل سات",CIMA HD
@@ -1061,16 +1061,16 @@
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/03c5e561-dda9-4480-8ecd-1059282c76fd.png" group-title="قنوات النايل سات",PNC فـيــلــم HD
 #STN-STREAM:{"streamId":"primary2","url":"http://185.9.2.18/chid_706/tracks-v1a1/mono.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="9291203" tvg-name="MAZZIKA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaEvKxGLxgcyUOyCx4DIbW6qISGlZdMGhl3KznSxPS1RGjl8S7tihCqKI&s=10" group-logo="https://www.alghad.tv/image/716/493/2022-10/%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="قنوات النايل سات", MAZZIKA 
+#EXTINF:-1 tvg-id="" tvg-name="MAZZIKA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaEvKxGLxgcyUOyCx4DIbW6qISGlZdMGhl3KznSxPS1RGjl8S7tihCqKI&s=10" group-logo="https://www.alghad.tv/image/716/493/2022-10/%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="قنوات النايل سات", MAZZIKA 
 #STN-STREAM:{"streamId":"primary","url":"http://149.100.11.235:8080/Mazzika/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="929120333" tvg-name="NogoumFMTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJr42A4I59lvg3lv_D0TMrIkvERxc1m9n9LBv55IoXXV9d7S12CwxL1-Hf&s=10" group-logo="https://www.alghad.tv/image/716/493/2022-10/%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="قنوات النايل سات", Nogoum FM TV
+#EXTINF:-1 tvg-id="" tvg-name="NogoumFMTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJr42A4I59lvg3lv_D0TMrIkvERxc1m9n9LBv55IoXXV9d7S12CwxL1-Hf&s=10" group-logo="https://www.alghad.tv/image/716/493/2022-10/%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="قنوات النايل سات", Nogoum FM TV
 #STN-STREAM:{"streamId":"primary","url":"https://nogoumtv.nrpstream.com/hls/stream.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="9291204" tvg-name="El Radio 9090 FM" tvg-logo="https://cdn-radiotime-logos.tunein.com/s210036g.png" group-logo="https://www.alghad.tv/image/716/493/2022-10/%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="قنوات النايل سات", El Radio 9090 FM
+#EXTINF:-1 tvg-id="" tvg-name="El Radio 9090 FM" tvg-logo="https://cdn-radiotime-logos.tunein.com/s210036g.png" group-logo="https://www.alghad.tv/image/716/493/2022-10/%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="قنوات النايل سات", El Radio 9090 FM
 #STN-STREAM:{"streamId":"primary","url":"https://9090video.mobtada.com/hls/stream.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="92912444" tvg-name="Mix Hollywood" tvg-logo="https://cdn.telfazalive.com/channels/images/mix-hollywood-live-streaming-online-image-1f1ad874.png" group-logo="https://www.alghad.tv/image/716/493/2022-10/%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="قنوات النايل سات", Mix Hollywood
+#EXTINF:-1 tvg-id="" tvg-name="Mix Hollywood" tvg-logo="https://cdn.telfazalive.com/channels/images/mix-hollywood-live-streaming-online-image-1f1ad874.png" group-logo="https://www.alghad.tv/image/716/493/2022-10/%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="قنوات النايل سات", Mix Hollywood
 #STN-STREAM:{"streamId":"primary","url":"https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="" tvg-name="Mix One" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC0e2C3SsJH2TK9pHsrc2eSmepilIKQfjuqXkYUQ4h7g&s" group-logo="https://www.alghad.tv/image/716/493/2022-10/%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="قنوات النايل سات", Mix One
@@ -1085,7 +1085,7 @@
 
 #EXTINF:-1 tvg-id="ext",tvg-name="📡ZEE ALWAN",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgXxMo-rDUVrtk6cFxhbpW7y_VOJrv1G6wdCJ-cbeIeQ&s=10",group-title="قنوات النايل سات", ZEE ALWAN
 #STN-STREAM:{"streamId":"primary","url":"http://93.184.10.248/ZeeAlwan/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="ext",tvg-name="📡ZEE ALWAN +",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgXxMo-rDUVrtk6cFxhbpW7y_VOJrv1G6wdCJ-cbeIeQ&s=10",group-title="قنوات النايل سات", ZEE ALWAN +
+#EXTINF:-1 tvg-id="24373739",tvg-name="📡ZEE ALWAN +",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgXxMo-rDUVrtk6cFxhbpW7y_VOJrv1G6wdCJ-cbeIeQ&s=10",group-title="قنوات النايل سات", ZEE ALWAN +
 #STN-STREAM:{"streamId":"primary","url":"http://185.9.2.18/chid_455/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="98985614" tvg-name="Al Ekhbariya" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5R_c21iZ7rLa-JZl-MuUO6jIP2RhTAURuAx-o0NIj1vxduqlYWGOPbsOH&s=10" group-logo="https://img.magnific.com/free-vector/gradient-breaking-news-logo-design_23-2151157239.jpg?semt=ais_hybrid&w=740&q=80" group-title="قنوات الأخبار", Al Ekhbariya

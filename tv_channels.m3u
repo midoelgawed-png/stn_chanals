@@ -332,18 +332,32 @@
 #STN-STREAM:{"streamId":"primary","url":"https://l.alameeeretv.workers.dev/?url=http%3A%2F%2Fso.ta2al.us%3A80%2Flive%2FMH12ARBMH12%2FMH12ARBMH12%2F248005.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"https://l.alameeeretv.workers.dev/?url=http%3A%2F%2Fso.ta2al.us%3A80%2Flive%2FMH12ARBMH12%2FMH12ARBMH12%2F841733.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
+#EXTINF:-1 tvg-id="" tvg-name="ALKAS1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOUPt8PyHHurQwb_ayrvZYycKZcOu49z2qA9D8tUDHIqtWQPMxQnzPeOqP&s=10" group-logo="https://images.alkass.net/newsimages/large_20191014203827_1571074707.74.jpg" group-title="ALKASS", ALKASS ONE
+#STN-STREAM:{"streamId":"primary","url":"http://restreamott.xyz/live/restreamtreetv/Arenatomas11/7972.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-name="ALKAS2" tvg-logo="https://cdn.sportfeeds.io/tv-schedule/channel/images/s5xRbABpHC_R0Twv4RUhs.png" group-title="ALKASS", ALKASS TWO
+#STN-STREAM:{"streamId":"primary","url":"http://restreamott.xyz/live/restreamtreetv/Arenatomas11/7973.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-name="ALKAS4" tvg-logo="https://www.nettv.live/uploads/allimg/20/1-200FG605170-L.jpg" group-title="ALKASS", ALKASS FOUR
+#STN-STREAM:{"streamId":"primary","url":"http://restreamott.xyz/live/restreamtreetv/Arenatomas11/7974.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 
 #EXTINF:-1 tvg-id="" tvg-name="On Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBtNfAxChEugOMYy5-nsqsXeO2p_wMmKLBKwcPFQMEhwfdkQZikB7sKAo&s=10" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThg5hADGXtTAlaWJ8mZIaXuS2CdrDqiV2jOKkQJx3YDDvYnDSRQ8WBJQ4&s=10" group-title="Egypt Sport", On Sport HD
 #STN-STREAM:{"streamId":"primary","url":"http://restreamott.xyz/live/restreamtreetv/Arenatomas11/7956.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="On Sport max" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBtNfAxChEugOMYy5-nsqsXeO2p_wMmKLBKwcPFQMEhwfdkQZikB7sKAo&s=10" group-title="Egypt Sport", On Sport Max HD
+#EXTINF:-1 tvg-id="" tvg-name="On Sport max" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTps4cSi2QhwAmA3zLJjovntR--Byr5Si0faGdbxAwzm0--oXGiN5p02_BV&s=10" group-title="Egypt Sport", On Sport Max HD
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1599_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://restreamott.xyz/live/restreamtreetv/Arenatomas11/7957.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 
 #EXTINF:-1 tvg-id="" tvg-name="nile sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGIL5qH5KXLqPxXtQVZ_vbtWeYZCoeZsmiE9aViOMuZwPYX8MpbaCZ7XF8&s=10" group-title="Egypt Sport", Nile Sport
 #STN-STREAM:{"streamId":"primary","url":"http://restreamott.xyz/live/restreamtreetv/Arenatomas11/7951.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
+#EXTINF:-1 tvg-id="" tvg-name="alahly" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mGOi86457H-pnYwuUyu2OSWpdvfcmkZBqwJ8Ctfss2lUg=s900-c-k-c0x00ffffff-no-rj" group-title="Egypt Sport", Al Ahaly TV
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1615_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
+#EXTINF:-1 tvg-id="" tvg-name="zamalek" tvg-logo="https://i1.sndcdn.com/artworks-000660049519-26hd43-t500x500.jpg" group-title="Egypt Sport", Zamalek TV
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1614_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="1123471" tvg-name="AD SPORTS 1 HEVC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ35Rrco-bZiupRjz0x4ynV6pmnR-XVUYuoRuBxoQAT8z4LyZ7-kvLwwTw&s=10" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ35Rrco-bZiupRjz0x4ynV6pmnR-XVUYuoRuBxoQAT8z4LyZ7-kvLwwTw&s=10" group-title="ABU DHABI SPORTS", AD SPORTS 1 
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1167471.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -485,20 +499,25 @@
 #STN-STREAM:{"streamId":"primary2","url":"http://sa.xurvani.cfd/live/564500400/3839746022/725873.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/738Y3W4BA3A2E5D/hvus70PT3U/107381","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="ART HEKAYAT2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxM1AGvjjnttES5CA0Y9plNNNEPxNpU2E_1Qw9haSS&s=10" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREOjy9OGz-taVlWQpDXgrSy3I3_kaAozeF6p2VM0Us2Q&s=10" group-title="ART", ART Hekayat 2
+
+#EXTINF:-1 tvg-id="" tvg-name="ART HEKAYAT1" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2025/05/art-hekayat-1-numero-chaine-tv.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREOjy9OGz-taVlWQpDXgrSy3I3_kaAozeF6p2VM0Us2Q&s=10" group-title="ART", ART Hekayat 1
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1831_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-name="ART HEKAYAT2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxM1AGvjjnttES5CA0Y9plNNNEPxNpU2E_1Qw9haSS&s=10" group-title="ART", ART Hekayat 2
 #STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1834_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1830_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/738Y3W4BA3A2E5D/hvus70PT3U/108001","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ART HEKAYAT1" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2025/05/art-hekayat-1-numero-chaine-tv.png" group-title="ART", ART Hekayat 1
-#STN-STREAM:{"streamId":"primary2","url":"","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 
 #EXTINF:-1 tvg-id="" tvg-name="ART AFLAM 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrhvthx4TEQSKa-Oes7YjIlksymMCuYCPF5bZJ68RHXQ&s=10" group-title="ART", ART AFLAM 1
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1833_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://pro.netmos.ovh:7355/live/PR2055477969542/5230682660068/111398.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ART AFLAM 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNL_wH1NR3AzRjZOXb-nB0dyfgmclAHHnqvAQbR5AvBg&s=10" group-title="ART", ART AFLAM 2
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1832_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://pro.netmos.ovh:7355/live/PR2055477969542/5230682660068/111397.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/DT33ZSW2JHP3U1M/DVYS2efUiw/48933","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
@@ -524,51 +543,74 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www2.0zz0.com/2025/04/08/14/353965320.png" group-logo="https://elfann.com/i/large/5252798_1740475978.jpg" group-title="M B C",MBC DRAMA
 #STN-STREAM:{"streamId":"primary3","url":"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1647_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1655_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www2.0zz0.com/2025/04/08/14/353965320.png" group-logo="https://elfann.com/i/large/5252798_1740475978.jpg" group-title="M B C",MBC DRAMA+
 #STN-STREAM:{"streamId":"primary3","url":"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1648_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="148176" tvg-name="MBC1" tvg-logo="https://elfann.com/i/large/5252798_1740475978.jpg" group-logo="https://elfann.com/i/large/5252798_1740475978.jpg" group-title="M B C", MBC1 HD
 #STN-STREAM:{"streamId":"primary2","url":"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary3","url":"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8?aws.manifestfilter=video_height:144-576;video_codec:H264&video_height=144-576&video_codec=H264","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary3","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413935.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1652_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1663_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.top4top.io/p_3549omtq70.jpg" group-logo="https://elfann.com/i/large/5252798_1740475978.jpg" group-title="M B C",MBC 2
 #STN-STREAM:{"streamId":"primary3","url":"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://dasifnz3.otttv.pw/iptv/ZASGRTFYHX4RT9/15198/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/978.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1651_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1662_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/ksalogo.com/wp-content/uploads/2025/04/MBC-3.png?fit=1000%2C1000&ssl=1" group-logo="https://elfann.com/i/large/5252798_1740475978.jpg" group-title="M B C",MBC 3
 #STN-STREAM:{"streamId":"primary3","url":"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1650_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1661_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/395/989614.jpg" group-logo="https://elfann.com/i/large/5252798_1740475978.jpg" group-title="M B C",MBC 4
 #STN-STREAM:{"streamId":"primary3","url":"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary3","url":"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1649_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1660_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="148179562" tvg-name="MBC5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbkKpxprJP5aldBKuXinUK-ZZT3IR6Qvu1xp77Ta7qpioz0L2QxemE5XMG&s=10" group-logo="https://elfann.com/i/large/5252798_1740475978.jpg" group-title="M B C", MBC5 HD
 #STN-STREAM:{"streamId":"primary2","url":"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1643_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1659_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/pictures/9232.png" group-title="M B C",MBC MAX
 #STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/974.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1645_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1658_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://e.top4top.io/p_3549rxyxo0.jpg" group-logo="https://elfann.com/i/large/5252798_1740475978.jpg" group-title="M B C",MBC أكشن
 #STN-STREAM:{"streamId":"primary3","url":"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-action/8ea6ca1108d03e03da5e61372354f5c8/index.mpd","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/975.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1644_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1657_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/30fc764d-ede8-4024-b2fa-ab9cbe4d86f0" group-logo="https://elfann.com/i/large/5252798_1740475978.jpg" group-title="M B C",MBC بوليود
 #STN-STREAM:{"streamId":"primary3","url":"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary3","url":"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1646_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1656_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsFGNi8Y3FS_mgxlG3CvjuuVwVndA_JjN6kTXvKm45Lp-tETUpVJbdOME&s=10" group-logo="https://elfann.com/i/large/5252798_1740475978.jpg" group-title="M B C",MBC العراق
 #STN-STREAM:{"streamId":"primary3","url":"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary3","url":"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1640_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="148179563" tvg-name="MBC MOOD" tvg-logo="https://assets-new.mbcmood.com/mbc-mood/channel/1780385818Logo-Circle.png" group-logo="https://elfann.com/i/large/5252798_1740475978.jpg" group-title="M B C", MBC Mood HD
 #STN-STREAM:{"streamId":"primary2","url":"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC VARIETY" tvg-logo="https://i0.wp.com/ksalogo.com/wp-content/uploads/2025/01/MBC-Variety.png?fit=1000%2C1000&ssl=1" group-logo="https://elfann.com/i/large/5252798_1740475978.jpg" group-title="M B C", MBC VARIETY HD
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1639_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 
 #EXTINF:-1 tvg-id="" tvg-name="mbc geographic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ72XvhR40dyaFiAfc0L1rF_adpF9NyvDK7r6BWyo5b26xOF2g_CxfQMvku&s=10" group-logo="https://elfann.com/i/large/5252798_1740475978.jpg" group-title="M B C", Mbc Geographic
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413800.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -632,23 +674,46 @@
 #EXTINF:-1 tvg-id="148179571" tvg-name="Thikrayat TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ0ydKxCc5EHkxr2ew5pETjvQWaS1PABDHlAIu5EDtUWZ6f8DyZtDEekBa&s=10" group-logo="https://elfann.com/i/large/5252798_1740475978.jpg" group-title="M B C", Saudi Thikrayat
 #STN-STREAM:{"streamId":"primary2","url":"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/188e0cc5-a186-4604-90d3-bd00800cb28d.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVDlwVxRuq8-B4HxuPzLw-JVxACIAijTV_RMJ2Um_V7frBS_ENY6PFHD4&s=10" group-title="ROTANA",Rotana Aflam 4k+
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/188e0cc5-a186-4604-90d3-bd00800cb28d.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVDlwVxRuq8-B4HxuPzLw-JVxACIAijTV_RMJ2Um_V7frBS_ENY6PFHD4&s=10" group-title="ROTANA",Rotana Aflam+
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1676_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/bbeea3c7-1af2-4992-b48e-07ae7a7bd14c.png" group-title="ROTANA",Rotana Cinema 
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1670_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://185.9.2.18/chid_288/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/DT33ZSW2JHP3U1M/DVYS2efUiw/21267.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.elwatannews.com/media/img/mediaarc/large/20775690791627297271.jpg" group-title="ROTANA",Rotana Cinema Ksa
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1671_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/72824bdb-974b-42f9-849f-d44ead0733f9.png" group-title="ROTANA",Rotana Classic 
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1669_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://185.9.2.18/chid_286/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/7b4f8f12-c559-48f0-a876-f2dafcee90d3.png" group-title="ROTANA",ROTANA COMEDY 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkweGtDBAgTE9CQMyi_WslwqZ-V12e2qXWXzqtmDeipc9DdfjnXzZRWs0&s=10" group-title="ROTANA",ROTANA COMEDY 
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1673_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://185.9.2.18/chid_5224/mono.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/rotana/comedy_240p/chunks.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://pro.netmos.ovh:7355/live/PR2055477969542/5230682660068/683.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/DT33ZSW2JHP3U1M/DVYS2efUiw/21268","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomMy4JnEolZxkFZqGm_gsIcVvigd3bA1F5SgyWZKU922GPqxWjk6kayY&s=10" group-title="ROTANA",ROTANA DRAMA 
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1666_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpxO5KRYRODmxrRi-jw9icVdG7vifLe0wMUVQWFll3kYyITdLL-buQJo8&s=10" group-title="ROTANA",ROTANA + HD 
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1674_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEgSvIChPO0mXEFY3HkyZUpg1c_ngK-RcQvlYLv2H5oA&s=10" group-title="ROTANA",ROTANA CLIB 
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1665_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/iIHXlAuQnsI/sddefault.jpg?v=65490a12" group-title="ROTANA",ROTANA MUSIC 
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1667_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYUFWF718R-51rL60yi9VfrhHHcJGVNARyb3WfQOqoAw&s" group-title="ROTANA",ROTANA KHALEJYA 
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1668_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/1FUQZm9Rf_E/maxresdefault.jpg" group-title="ROTANA",ROTANA KIDS 
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1672_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="" tvg-name="STARZ Horror HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShAd5hZAcAJQCK752PdBbD6e4cXFmelvJaThb6w6s7uhPgDgogQiNCW5U&s=10" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShAd5hZAcAJQCK752PdBbD6e4cXFmelvJaThb6w6s7uhPgDgogQiNCW5U&s=10" group-title="STARZ Entertainment", STARZ Horror HD
 #STN-STREAM:{"streamId":"primary2","url":"https://blc2cr.linkip.org/live/90160_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -674,6 +739,7 @@
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/944.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="951" tvg-name="ATFAL & MAWAHEB HD" tvg-logo="https://go4.pw/ARABE/atfal.png" group-title="قنوات الأطفال", ATFAL & MAWAHEB HD
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1684_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/951.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
@@ -681,26 +747,34 @@
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/948.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="259677" tvg-name="CARTOON NETWORK HD" tvg-logo="https://go4.pw/AMERICA/USA/CARTOONNETWORK.png" group-title="قنوات الأطفال", CARTOON NETWORK HD
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1686_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/259677.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://link4king.xyz:8080/NsIbRaCHiD@2026/puksMLBPBxNo4LR/71248","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/1FUQZm9Rf_E/maxresdefault.jpg" group-title="قنوات الأطفال",ROTANA KIDS 
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1672_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="929520" tvg-name="COOKIES KIDS HD" tvg-logo="https://go4.pw/ARABE/COOKIESKIDS.png" group-title="قنوات الأطفال", COOKIES KIDS HD
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/929520.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="740" tvg-name="HOD HOD TV HD" tvg-logo="https://go4.pw/ARABE/HOD_HOD_TV.png" group-title="قنوات الأطفال", HOD HOD TV HD
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1687_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/740.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="259676" tvg-name="JEEM KIDS HD" tvg-logo="https://go4.pw/ARABE/JEEM KIDS.png" group-title="قنوات الأطفال", JEEM KIDS HD
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/259676.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="947" tvg-name="SPACETOON HD" tvg-logo="https://go4.pw/KIDS/SPACETOON.png" group-title="قنوات الأطفال", SPACETOON HD
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1693_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/947.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1443872.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="936886" tvg-name="TAHA KIDS HD" tvg-logo="https://go4.pw/ARABE/TAHA-KIDS.png" group-title="قنوات الأطفال", TAHA KIDS HD
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1685_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/936886.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="107634" tvg-name="TOYOR ALJANNAH HD" tvg-logo="https://go4.pw/ARABE/TOYOR_ALJANNAH.png" group-title="قنوات الأطفال", TOYOR ALJANNAH HD
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1688_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/107634.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="1443834" tvg-name="COCOMELON AR" tvg-logo="https://go4.pw/ARABE/COCOMELON.png" group-title="قنوات الأطفال", COCOMELON AR
@@ -745,7 +819,12 @@
 #EXTINF:-1 tvg-id="1443867" tvg-name="KIDS ISLAMIC 1 HD" tvg-logo="https://go4.pw/ARABE/KIDSISLAMIC.png" group-title="قنوات الأطفال", KIDS ISLAMIC 1 HD
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1443867.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
+#EXTINF:-1 tvg-id="1443868" tvg-name="5 KIDS" tvg-logo="https://yt3.googleusercontent.com/m37_I8qIBAv6kW7cGSZSwVbv-bIZtVcz3BMeoXwjTUc_9YlYKAsRVHzD8NvW9ZS1M_MdcOavvec=s900-c-k-c0x00ffffff-no-rj" group-title="قنوات الأطفال", 4 KIDS 
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1678_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+
 #EXTINF:-1 tvg-id="1443868" tvg-name="5 KIDS" tvg-logo="https://media.elwatannews.com/media/img/Large/2025/11/2/2025_11_2_10_34_52_436.jpeg" group-title="قنوات الأطفال", 5 KIDS 
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1689_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1443868.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="1443869" tvg-name="MAJID KIDS 4K" tvg-logo="https://go4.pw/ARABE/MAJID_KIDS_TV.png" group-title="قنوات الأطفال", MAJID KIDS 4K
@@ -756,6 +835,7 @@
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1443876.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="1443881" tvg-name="KARAMEESH" tvg-logo="https://go4.pw/ARABE/karmech.png" group-title="قنوات الأطفال", KARAMEESH
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1690_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1443881.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="1348401" tvg-name="BEIN MOVIES 1 4K" tvg-logo="https://go4.pw/ARABE/BEIN_MOVIES1.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", BEIN MOVIES 1
@@ -956,6 +1036,10 @@
 #STN-STREAM:{"streamId":"primary7","url":"http://0000001100.shop:80/live/40737595/65790382/595705.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary7","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/319701.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
+#EXTINF:-1 tvg-id="" tvg-name="AR|beIN NAT GEO AD HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTARFLfl5nOvKQAZWk4L65epsX9Dw7c9QH1k57sTNopPl4Yr04n5k1_oJp9&s=10" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT",  NAT GEO AD HD
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1636_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+
 #EXTINF:-1 tvg-id="86222" tvg-name="AR|beIN TCM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyUrHUs4QZGXR3IP9uLm2E0RMMw9RQcC3UvRdXKigsZAXUJ1agLaS7eiA&s=10" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", TCM HD
 #STN-STREAM:{"streamId":"primary2","url":"http://link4king.xyz:8080/NsIbRaCHiD@2026/puksMLBPBxNo4LR/86222","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
@@ -1063,8 +1147,9 @@
 #EXTINF:-1 tvg-id="92992034" tvg-name="Al Quran Al Kareem Radio" tvg-logo="https://i1.sndcdn.com/avatars-EbeDM9V1tVVw7gAE-yibBcg-t1080x1080.jpg" group-logo="https://ms.hsoubcdn.com/uploads/thumbnails/613673/477660/aa484b6c-4818-416d-841b-777913da6487.jpg" group-title="قنوات اسلامية", اذاعة السعودية للقران الكريم
 #STN-STREAM:{"streamId":"primary","url":"","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="",tvg-name="MASR QRAAN",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5j6FKwU7GzCGLmm5vajsjvH8NJPzki8hi_jSuioqrRRX7hD-mZ7JjgQ&s=10",group-title="قنوات اسلامية", مصر قرآن كريم
+#EXTINF:-1 tvg-id="",tvg-name="MASR QRAAN2",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5j6FKwU7GzCGLmm5vajsjvH8NJPzki8hi_jSuioqrRRX7hD-mZ7JjgQ&s=10",group-title="قنوات اسلامية", مصر قرآن كريم
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413879.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1628_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 
 #EXTINF:-1 tvg-id="92992035" tvg-name="Al Sunnah Al Nabawiyah" tvg-logo="https://i.pinimg.com/564x/55/16/ab/5516abd3744c3d0b0a7b28bedd5474c0.jpg" group-logo="https://ms.hsoubcdn.com/uploads/thumbnails/613673/477660/aa484b6c-4818-416d-841b-777913da6487.jpg" group-title="قنوات اسلامية", السعودية السنة النبوية 
@@ -1086,216 +1171,257 @@
 #STN-STREAM:{"streamId":"primary","url":"https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 
-#EXTINF:-1 tvg-id="",tvg-name="ALHAYAT EGYPT",tvg-logo="https://yt3.googleusercontent.com/K3FpWCwYwdgPvB-iEPcW1sru7UQnPv6V_1-YwOrJLZF7Vc5O2FAHLo6Nf29L8eZ03LU7ZG6lIQ=s900-c-k-c0x00ffffff-no-rj",group-title="قنوات النايل سات", ALHAYAT EGYPT
+#EXTINF:-1 tvg-id="",tvg-name="ALHAYAT EGYPT",tvg-logo="https://yt3.googleusercontent.com/K3FpWCwYwdgPvB-iEPcW1sru7UQnPv6V_1-YwOrJLZF7Vc5O2FAHLo6Nf29L8eZ03LU7ZG6lIQ=s900-c-k-c0x00ffffff-no-rj",group-title="القنوات المصرية", ALHAYAT
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1613_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413841.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://185.9.2.18/chid_659/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="",tvg-name="ALHAYAT EGYPT2",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN-BptQoQsPe4bdmCV5bJzJ6g6KByB3wrQUBwoaQ3vdlvKmFqdsiKsGrU&s=10",group-title="قنوات النايل سات", ALHAYAT DRAMA
+#EXTINF:-1 tvg-id="",tvg-name="ALHAYAT EGYPT2",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN-BptQoQsPe4bdmCV5bJzJ6g6KByB3wrQUBwoaQ3vdlvKmFqdsiKsGrU&s=10",group-title="القنوات المصرية", ALHAYAT DRAMA
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1612_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413844.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="",tvg-name="MASR QRAAN",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5j6FKwU7GzCGLmm5vajsjvH8NJPzki8hi_jSuioqrRRX7hD-mZ7JjgQ&s=10",group-title="قنوات النايل سات", مصر قرآن كريم
+#EXTINF:-1 tvg-id="",tvg-name="MASR QRAAN",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5j6FKwU7GzCGLmm5vajsjvH8NJPzki8hi_jSuioqrRRX7hD-mZ7JjgQ&s=10",group-title="القنوات المصرية", مصر قرآن كريم
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413879.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1628_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="",tvg-name="dmc",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRUtub_vV0q1fRfIdqTnXuV8xIMayRqXIPuf2wgGt9Y6X9RG63xLD2zljy&s=10" group-title="قنوات النايل سات",dmc
+#EXTINF:-1 tvg-id="",tvg-name="dmc",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRUtub_vV0q1fRfIdqTnXuV8xIMayRqXIPuf2wgGt9Y6X9RG63xLD2zljy&s=10" group-title="القنوات المصرية",dmc
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1623_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413845.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://185.9.2.18/chid_3738/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="",tvg-name="📡dmc drama",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ZlwNG6Fye90HM6jO_cgIwANQG5gYhFCgliRKVPBYiq1XKoXliwiF9HVV&s=10" group-title="قنوات النايل سات",dmc drama
+#EXTINF:-1 tvg-id="",tvg-name="📡dmc drama",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ZlwNG6Fye90HM6jO_cgIwANQG5gYhFCgliRKVPBYiq1XKoXliwiF9HVV&s=10" group-title="القنوات المصرية",dmc drama
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1622_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413848.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://185.9.2.18/chid_3741/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="",tvg-name="📡Mazzika",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Mazzika_Logo.png",group-title="قنوات النايل سات",📡Mazzika
+#EXTINF:-1 tvg-id="",tvg-name="📡Mazzika",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Mazzika_Logo.png",group-title="القنوات المصرية",📡Mazzika
 #STN-STREAM:{"streamId":"primary","url":"http://149.100.11.235:8080/Mazzika/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="",tvg-name="NILE LIFE",tvg-logo="https://i.ytimg.com/vi/ycki1_iT3U4/maxresdefault.jpg",group-title="قنوات النايل سات",NILE LIFE
+#EXTINF:-1 tvg-id="",tvg-name="NILE LIFE",tvg-logo="https://i.ytimg.com/vi/ycki1_iT3U4/maxresdefault.jpg",group-title="القنوات المصرية",NILE LIFE
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1594_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413865.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413866.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="",tvg-name="NILE DRAMA",tvg-logo="https://i.ytimg.com/vi/TaqPFq92uy8/maxresdefault.jpg="قنوات النايل سات",NILE DRAMA
+#EXTINF:-1 tvg-id="",tvg-name="NILE DRAMA",tvg-logo="https://i.ytimg.com/vi/TaqPFq92uy8/maxresdefault.jpg="القنوات المصرية",NILE DRAMA
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1590_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413868.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://185.9.2.18/chid_352/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="",tvg-name="Nile Cinema",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/NiIe_Cinema.png/250px-NiIe_Cinema.png",group-title="قنوات النايل سات", Nile Cinema
+#EXTINF:-1 tvg-id="",tvg-name="Nile Cinema",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/NiIe_Cinema.png/250px-NiIe_Cinema.png",group-title="القنوات المصرية", Nile Cinema
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1593_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413860.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://93.184.10.248/NileCinema/tracks-v1a1/mono.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/03c5e561-dda9-4480-8ecd-1059282c76fd.png" group-title="قنوات النايل سات",PNC فـيــلــم HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/03c5e561-dda9-4480-8ecd-1059282c76fd.png" group-title="القنوات المصرية",PNC فـيــلــم HD
 #STN-STREAM:{"streamId":"primary","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413873.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://185.9.2.18/chid_706/tracks-v1a1/mono.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/B2l_1a05v9BTpHgLgcyu7s5jnGsiCEQb0hZtR8-mgTaPjDaPX6kHAdRn_9h1Wdz-XjdGvhli6zI=s900-c-k-c0x00ffffff-no-rj" group-title="قنوات النايل سات",PNC دراما 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/B2l_1a05v9BTpHgLgcyu7s5jnGsiCEQb0hZtR8-mgTaPjDaPX6kHAdRn_9h1Wdz-XjdGvhli6zI=s900-c-k-c0x00ffffff-no-rj" group-title="القنوات المصرية",PNC دراما 1 HD
 #STN-STREAM:{"streamId":"primary","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413871.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx4RJ0CazmRlOUiGlXdh1h-MGhJ99TsfEfFdB2Vc2doA&s=10" group-title="قنوات النايل سات",PNC دراما 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx4RJ0CazmRlOUiGlXdh1h-MGhJ99TsfEfFdB2Vc2doA&s=10" group-title="القنوات المصرية",PNC دراما 2 HD
 #STN-STREAM:{"streamId":"primary","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413872.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="",tvg-name="📡Panorama Food",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCVJNyWD53EWcVTe-tPOr-jo_88P_KfI58UMh42NNPBoAzkpYuerADzSE&s=10" group-title="قنوات النايل سات",PNC Food
+#EXTINF:-1 tvg-id="",tvg-name="📡Panorama Food",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCVJNyWD53EWcVTe-tPOr-jo_88P_KfI58UMh42NNPBoAzkpYuerADzSE&s=10" group-title="القنوات المصرية",PNC Food
 #STN-STREAM:{"streamId":"primary","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413874.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://185.9.2.18/chid_367/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/d43d570e-33da-42a5-baca-e91790eb502e.png" group-title="قنوات النايل سات",CIMA HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/d43d570e-33da-42a5-baca-e91790eb502e.png" group-title="القنوات المصرية",CIMA HD
 #STN-STREAM:{"streamId":"primary","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413876.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://vip.sibfungold.org:8080/gazi2po2/@RoFdf1tble@QP588zr7dj@/49642","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 
-#EXTINF:-1 tvg-id="",tvg-name="📡ON EGYPT",tvg-logo="https://i.ytimg.com/vi/XeUqMqwONE4/sddefault.jpg",group-title="قنوات النايل سات", ON TV
+#EXTINF:-1 tvg-id="",tvg-name="📡ON EGYPT",tvg-logo="https://i.ytimg.com/vi/XeUqMqwONE4/sddefault.jpg",group-title="القنوات المصرية", ON TV
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1617_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://185.9.2.18/chid_616/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413817.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="",tvg-name="📡ON Drama",group-title="قنوات النايل سات",ON Drama
+#EXTINF:-1 tvg-id="",tvg-name="📡ON Drama",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGfx_QtD9LdLl6hQ2FofzwH2bhXQZZKTr2SmL5LouKTubsIU07eeIGths&s=10" group-title="القنوات المصرية",ON Drama
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1616_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://185.9.2.18/chid_3785/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413819.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="cbc" tvg-logo="https://arab-media-faces-bucket.nyc3.cdn.digitaloceanspaces.com/institutions/9/profile.png?v=0" group-title="قنوات النايل سات", CBC
+#EXTINF:-1 tvg-id="" tvg-name="cbc" tvg-logo="https://arab-media-faces-bucket.nyc3.cdn.digitaloceanspaces.com/institutions/9/profile.png?v=0" group-title="القنوات المصرية", CBC
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1621_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413828.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413838.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="cbc drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAogjoXu77SJu-ZZ1b2LRXKAkk7kd2gT2JGVh_vuXFu1zkBD7k2FgoYwcf&s=10" group-title="قنوات النايل سات", CBC دراما
+#EXTINF:-1 tvg-id="" tvg-name="cbc drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAogjoXu77SJu-ZZ1b2LRXKAkk7kd2gT2JGVh_vuXFu1zkBD7k2FgoYwcf&s=10" group-title="القنوات المصرية", CBC دراما
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1619_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413840.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 
-#EXTINF:-1 tvg-id="" tvg-name="cbc sofra" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5874bd90627207.Y3JvcCwxMDgwLDg0NCwwLDUzNw.png" group-title="قنوات النايل سات", CBC سفرة
+#EXTINF:-1 tvg-id="" tvg-name="cbc sofra" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5874bd90627207.Y3JvcCwxMDgwLDg0NCwwLDUzNw.png" group-title="القنوات المصرية", CBC سفرة
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1618_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413830.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413841.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="alnahar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ElsefZg7AgIxevIQXQMp5A8oSsVWTeEeVtkva7Pg42tCv4CL4supXjo&s=10" group-title="قنوات النايل سات", النهار
+#EXTINF:-1 tvg-id="" tvg-name="CBC EXTRA NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXhq0ERhQPmvFNcZRFsiyn-oeB45eQ9m_QCohp0E5Rpy3P7FrTSos47O7v&s=10" group-title="القنوات المصرية", EXTRA NEWS
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1620_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-name="alnahar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ElsefZg7AgIxevIQXQMp5A8oSsVWTeEeVtkva7Pg42tCv4CL4supXjo&s=10" group-title="القنوات المصرية", النهار
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1603_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413834.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413837.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 
-#EXTINF:-1 tvg-id="" tvg-name="alnahar drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuNBftP0h3NnuRtDbaPavWmuFPUwtHZ8iAz6ZcmRG0xtPLFSdN_1ZY8pib&s=10" group-title="قنوات النايل سات", النهار دراما
+#EXTINF:-1 tvg-id="" tvg-name="alnahar drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuNBftP0h3NnuRtDbaPavWmuFPUwtHZ8iAz6ZcmRG0xtPLFSdN_1ZY8pib&s=10" group-title="القنوات المصرية", النهار دراما
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1602_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413836.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="alnahar life" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXMkuRnS9P1MYdp4LKzzfnPfpTHEVeOErwFMMmFGs_WvpmQE1kTSOmpDw&s=10" group-title="قنوات النايل سات", النهار Life
+#EXTINF:-1 tvg-id="" tvg-name="alnahar life" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXMkuRnS9P1MYdp4LKzzfnPfpTHEVeOErwFMMmFGs_WvpmQE1kTSOmpDw&s=10" group-title="القنوات المصرية", النهار Life
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413835.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="alqahera we elnas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOwrVtTEKlVe9rwlYXxzTTMbHNt6arg2gRMX5lARxv4PAYIB1ckIlo81M&s=10" group-title="قنوات النايل سات", القاهرة والناس 1
+#EXTINF:-1 tvg-id="" tvg-name="alqahera we elnas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOwrVtTEKlVe9rwlYXxzTTMbHNt6arg2gRMX5lARxv4PAYIB1ckIlo81M&s=10" group-title="القنوات المصرية", القاهرة والناس 1
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1611_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413826.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="alqahera we elnas2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOwrVtTEKlVe9rwlYXxzTTMbHNt6arg2gRMX5lARxv4PAYIB1ckIlo81M&s=10" group-title="قنوات النايل سات", القاهرة والناس 2
+#EXTINF:-1 tvg-id="" tvg-name="alqahera we elnas2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOwrVtTEKlVe9rwlYXxzTTMbHNt6arg2gRMX5lARxv4PAYIB1ckIlo81M&s=10" group-title="القنوات المصرية", القاهرة والناس 2
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1610_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413827.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="SADA ELBALD 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYBZuIzjwJNTEyRmMoElpOGf4cwEm5cI3pOqqrwBjd7gNMnQafEoyk1-Nm&s=10" group-title="قنوات النايل سات", صدى البلد
+#EXTINF:-1 tvg-id="" tvg-name="SADA ELBALD 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYBZuIzjwJNTEyRmMoElpOGf4cwEm5cI3pOqqrwBjd7gNMnQafEoyk1-Nm&s=10" group-title="القنوات المصرية", صدى البلد
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1609_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413850.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="SADA ELBALD 2" tvg-logo="https://yt3.googleusercontent.com/VkdazhvnLB6XAmIliqJ1rlMWm2bl7opWouZZg0wG6couL2SwHyF4llf8gpWqW5Bs3Uf7uG-VSW0=s900-c-k-c0x00ffffff-no-rj" group-title="قنوات النايل سات", صدى البلد2
+#EXTINF:-1 tvg-id="" tvg-name="SADA ELBALD 2" tvg-logo="https://yt3.googleusercontent.com/VkdazhvnLB6XAmIliqJ1rlMWm2bl7opWouZZg0wG6couL2SwHyF4llf8gpWqW5Bs3Uf7uG-VSW0=s900-c-k-c0x00ffffff-no-rj" group-title="القنوات المصرية", صدى البلد2
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1608_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413851.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="SADA DRAMA" tvg-logo="https://i.ytimg.com/vi/-8mdtCAG3KU/maxresdefault.jpg" group-title="قنوات النايل سات", صدى البلد دراما
+#EXTINF:-1 tvg-id="" tvg-name="SADA DRAMA" tvg-logo="https://i.ytimg.com/vi/-8mdtCAG3KU/maxresdefault.jpg" group-title="القنوات المصرية", صدى البلد دراما
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1607_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413852.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="MEHWAR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRiwz8DhJHOrcSFYXl6PnC9Cq7rFf1CS14_deZIKIeeT-avpDoZ6jyLeM&s=10" group-title="قنوات النايل سات", المحور
+#EXTINF:-1 tvg-id="" tvg-name="MEHWAR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRiwz8DhJHOrcSFYXl6PnC9Cq7rFf1CS14_deZIKIeeT-avpDoZ6jyLeM&s=10" group-title="القنوات المصرية", المحور
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1606_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413855.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="TEN" tvg-logo="https://i.ytimg.com/vi/MsxKPtgPX4w/maxresdefault.jpg" group-title="قنوات النايل سات", TeN TV
+#EXTINF:-1 tvg-id="" tvg-name="TEN" tvg-logo="https://i.ytimg.com/vi/MsxKPtgPX4w/maxresdefault.jpg" group-title="القنوات المصرية", TeN TV
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1605_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413890.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 
-#EXTINF:-1 tvg-id="" tvg-name="alqahera new" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROT6VoTEZU53yI7dBJMmd6xQXTsp3Gep1Haaz-CnokHI0HbM7trY2tANXI&s=10" group-title="قنوات النايل سات", القاهرة الإخبارية
+#EXTINF:-1 tvg-id="" tvg-name="alqahera new" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROT6VoTEZU53yI7dBJMmd6xQXTsp3Gep1Haaz-CnokHI0HbM7trY2tANXI&s=10" group-title="القنوات المصرية", القاهرة الإخبارية
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413831.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="NILE NEWS" tvg-logo="https://yt3.googleusercontent.com/aZyKyAyxY80N3DlI8G69uoTbJKuQ4LEXz6XfixwYFFRIJnWmn8ZZIG0pvZ_YMZzcllbcuhWshg=s900-c-k-c0x00ffffff-no-rj" group-title="قنوات النايل سات", النيل للاخبار
+#EXTINF:-1 tvg-id="" tvg-name="NILE NEWS" tvg-logo="https://yt3.googleusercontent.com/aZyKyAyxY80N3DlI8G69uoTbJKuQ4LEXz6XfixwYFFRIJnWmn8ZZIG0pvZ_YMZzcllbcuhWshg=s900-c-k-c0x00ffffff-no-rj" group-title="القنوات المصرية", النيل للاخبار
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1596_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1591_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413863.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Masriyah" tvg-logo="https://yt3.googleusercontent.com/VGY3J9gkK3snaiOA561smYDWxup5cNLCmCnjJcx1YOVwIBStNHBByw7HKLvshf3egFfOgOxkIw=s900-c-k-c0x00ffffff-no-rj" group-logo="https://www.alghad.tv/image/716/493/2022-10/%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="قنوات النايل سات", الفضائية المصرية 1 
+#EXTINF:-1 tvg-id="" tvg-name="Masriyah" tvg-logo="https://yt3.googleusercontent.com/VGY3J9gkK3snaiOA561smYDWxup5cNLCmCnjJcx1YOVwIBStNHBByw7HKLvshf3egFfOgOxkIw=s900-c-k-c0x00ffffff-no-rj" group-logo="https://www.alghad.tv/image/716/493/2022-10/%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="القنوات المصرية", الفضائية المصرية 1 
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1625_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413810.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="Masriyah" tvg-logo="https://yt3.googleusercontent.com/VGY3J9gkK3snaiOA561smYDWxup5cNLCmCnjJcx1YOVwIBStNHBByw7HKLvshf3egFfOgOxkIw=s900-c-k-c0x00ffffff-no-rj" group-logo="https://www.alghad.tv/image/716/493/2022-10/%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="قنوات النايل سات", الفضائية المصرية 2 
+#EXTINF:-1 tvg-id="" tvg-name="Masriyah" tvg-logo="https://yt3.googleusercontent.com/VGY3J9gkK3snaiOA561smYDWxup5cNLCmCnjJcx1YOVwIBStNHBByw7HKLvshf3egFfOgOxkIw=s900-c-k-c0x00ffffff-no-rj" group-logo="https://www.alghad.tv/image/716/493/2022-10/%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="القنوات المصرية", الفضائية المصرية 2 
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413862.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://185.9.2.18/chid_247/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413812.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="MASPERO ZAMAN" tvg-logo="https://media0106.elcinema.com/tvguide/1336_1.png" group-title="قنوات النايل سات", ماسبيرو زمان
+#EXTINF:-1 tvg-id="" tvg-name="MASPERO ZAMAN" tvg-logo="https://media0106.elcinema.com/tvguide/1336_1.png" group-title="القنوات المصرية", ماسبيرو زمان
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1624_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413877.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 
-#EXTINF:-1 tvg-id="" tvg-name="eloula" tvg-logo="https://tlfaz.com/wp-content/uploads/2023/09/Channel-1-420x420.png" group-title="قنوات النايل سات", القتاة الأولى
+#EXTINF:-1 tvg-id="" tvg-name="eloula" tvg-logo="https://tlfaz.com/wp-content/uploads/2023/09/Channel-1-420x420.png" group-title="القنوات المصرية", القتاة الأولى
 #STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1627_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/live/PR2055477969542/5230682660068/698.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/6V98D4A85QK4S7L/xS5txcwLg0/258623","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413814.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="althaneya" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUqo-Eq9T65qImelRUJw2w_xygIyWgXV6cim0Z155dGw&s" group-title="قنوات النايل سات", القتاة الثانية
+#EXTINF:-1 tvg-id="" tvg-name="althaneya" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUqo-Eq9T65qImelRUJw2w_xygIyWgXV6cim0Z155dGw&s" group-title="القنوات المصرية", القتاة الثانية
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1626_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413816.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="alqant 3 qahera" tvg-logo="https://www.tunisia-sat.com/forums/data/attachments/2259/2259769-378adafc6f4aad51ac9adfce8188e5eb.jpg?hash=Ix5xyrGpmD" group-title="قنوات النايل سات", القتاة3 القاهرة
+#EXTINF:-1 tvg-id="" tvg-name="alqant 3 qahera" tvg-logo="https://www.tunisia-sat.com/forums/data/attachments/2259/2259769-378adafc6f4aad51ac9adfce8188e5eb.jpg?hash=Ix5xyrGpmD" group-title="القنوات المصرية", القتاة3 القاهرة
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413820.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="alqant 4 qanal" tvg-logo="https://www.tunisia-sat.com/forums/data/attachments/2259/2259770-a012a7804b3724bb3d2433c188d1562e.jpg?hash=Cvi6LBkT-l" group-title="قنوات النايل سات", القتاة4 القنال
+#EXTINF:-1 tvg-id="" tvg-name="alqant 4 qanal" tvg-logo="https://www.tunisia-sat.com/forums/data/attachments/2259/2259770-a012a7804b3724bb3d2433c188d1562e.jpg?hash=Cvi6LBkT-l" group-title="القنوات المصرية", القتاة4 القنال
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413821.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="alqant 5 alex" tvg-logo="https://www.tunisia-sat.com/forums/data/attachments/2259/2259772-185215a55f42734e163fd77fc510bde8.jpg?hash=LY_rTvT0SO" group-title="قنوات النايل سات", القتاة5 الاسكندرية
+#EXTINF:-1 tvg-id="" tvg-name="alqant 5 alex" tvg-logo="https://www.tunisia-sat.com/forums/data/attachments/2259/2259772-185215a55f42734e163fd77fc510bde8.jpg?hash=LY_rTvT0SO" group-title="القنوات المصرية", القتاة5 الاسكندرية
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413822.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="alqant 6 delta" tvg-logo="https://i.ytimg.com/vi/08Tj9dn-A7c/maxresdefault.jpg" group-title="قنوات النايل سات", القتاة6 الدلتا
+#EXTINF:-1 tvg-id="" tvg-name="alqant 6 delta" tvg-logo="https://i.ytimg.com/vi/08Tj9dn-A7c/maxresdefault.jpg" group-title="القنوات المصرية", القتاة6 الدلتا
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413823.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="alqant 7 saed" tvg-logo="https://www.tunisia-sat.com/forums/data/attachments/2259/2259775-38e73409a7ccd9ace318fc8f4e368414.jpg?hash=ZKOI0q63tZ" group-title="قنوات النايل سات", القتاة7 الصعيد
+#EXTINF:-1 tvg-id="" tvg-name="alqant 7 saed" tvg-logo="https://www.tunisia-sat.com/forums/data/attachments/2259/2259775-38e73409a7ccd9ace318fc8f4e368414.jpg?hash=ZKOI0q63tZ" group-title="القنوات المصرية", القتاة7 الصعيد
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413824.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="alqant 8 tiba" tvg-logo="https://www.tunisia-sat.com/forums/data/attachments/2259/2259776-71a1aec938a07c53b90262e08cea277a.jpg?hash=OxCQV1H7lG" group-title="قنوات النايل سات", القتاة8 طيبة
+#EXTINF:-1 tvg-id="" tvg-name="alqant 8 tiba" tvg-logo="https://www.tunisia-sat.com/forums/data/attachments/2259/2259776-71a1aec938a07c53b90262e08cea277a.jpg?hash=OxCQV1H7lG" group-title="القنوات المصرية", القتاة8 طيبة
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413825.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="alSHAMS" tvg-logo="https://yt3.googleusercontent.com/tmlrO3EKIV_jowCBMmlZoT1rMdwer1TRQ8wcIQDNjWXXm9eGVCcaUX57waGN2bjvseg8g9pX9dM=s900-c-k-c0x00ffffff-no-rj" group-title="قنوات النايل سات", الشمس
+#EXTINF:-1 tvg-id="" tvg-name="alSHAMS" tvg-logo="https://yt3.googleusercontent.com/tmlrO3EKIV_jowCBMmlZoT1rMdwer1TRQ8wcIQDNjWXXm9eGVCcaUX57waGN2bjvseg8g9pX9dM=s900-c-k-c0x00ffffff-no-rj" group-title="القنوات المصرية", الشمس
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1601_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413875.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="alSHAMS2" tvg-logo="https://yt3.googleusercontent.com/tmlrO3EKIV_jowCBMmlZoT1rMdwer1TRQ8wcIQDNjWXXm9eGVCcaUX57waGN2bjvseg8g9pX9dM=s900-c-k-c0x00ffffff-no-rj" group-title="قنوات النايل سات", الشمس2
+#EXTINF:-1 tvg-id="" tvg-name="alSHAMS2" tvg-logo="https://yt3.googleusercontent.com/tmlrO3EKIV_jowCBMmlZoT1rMdwer1TRQ8wcIQDNjWXXm9eGVCcaUX57waGN2bjvseg8g9pX9dM=s900-c-k-c0x00ffffff-no-rj" group-title="القنوات المصرية", الشمس2
 #STN-STREAM:{"streamId":"primary2","url":"","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="HEYA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRind08dzs8xyJwPcTbOmg9eOoCwRwgPZYYT9qonEFgew&s" group-title="قنوات النايل سات", هـــي
+#EXTINF:-1 tvg-id="" tvg-name="HEYA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRind08dzs8xyJwPcTbOmg9eOoCwRwgPZYYT9qonEFgew&s" group-title="القنوات المصرية", هـــي
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413888.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="NEMO KIDS TV HD" tvg-logo="https://i.ytimg.com/vi/zg9E8FzZb7Q/sddefault.jpg" group-logo="https://www.alghad.tv/image/716/493/2022-10/%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="قنوات النايل سات", العروسة البوم 
+#EXTINF:-1 tvg-id="" tvg-name="NEMO KIDS TV HD" tvg-logo="https://i.ytimg.com/vi/zg9E8FzZb7Q/sddefault.jpg" group-logo="https://www.alghad.tv/image/716/493/2022-10/%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="القنوات المصرية", العروسة البوم 
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/929508.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="",tvg-name="BEIT ELDRAMA",tvg-logo="https://media.sabaharabi.com/img/25/11/25/690533.webp",group-title="قنوات النايل سات", بيت الدراما
+#EXTINF:-1 tvg-id="",tvg-name="BEIT ELDRAMA",tvg-logo="https://media.sabaharabi.com/img/25/11/25/690533.webp",group-title="القنوات المصرية", بيت الدراما
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413845.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="",tvg-name="TOP DRAMA",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE5i8YVeqlK85OVcxJ70L1iCJ1Oc7u_CLNsSkuw2dNkA--uNPTImOpipqa&s=10",group-title="قنوات النايل سات", TOP DRAMA
+#EXTINF:-1 tvg-id="",tvg-name="TOP DRAMA",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE5i8YVeqlK85OVcxJ70L1iCJ1Oc7u_CLNsSkuw2dNkA--uNPTImOpipqa&s=10",group-title="القنوات المصرية", TOP DRAMA
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413891.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="",tvg-name="ELMAHROSA",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKKhbd-tgQsuvcO20pCJF5Nhcua7f6hNamJMezIDJoYyHxU7gNwR54kqBR&s=10",group-title="قنوات النايل سات", المحروسة
+#EXTINF:-1 tvg-id="",tvg-name="ELMAHROSA",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKKhbd-tgQsuvcO20pCJF5Nhcua7f6hNamJMezIDJoYyHxU7gNwR54kqBR&s=10",group-title="القنوات المصرية", المحروسة
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413893.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="",tvg-name="MASR ELBBALD",tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nH4DAXdndoTDZ1bxxJShkxyEkMBLRsoa3paJdCvT9S6mA=s900-c-k-c0x00ffffff-no-rj",group-title="قنوات النايل سات", مصر البلد
+#EXTINF:-1 tvg-id="",tvg-name="MASR ELBBALD",tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nH4DAXdndoTDZ1bxxJShkxyEkMBLRsoa3paJdCvT9S6mA=s900-c-k-c0x00ffffff-no-rj",group-title="القنوات المصرية", مصر البلد
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413878.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="",tvg-name="MASR ELMOSTAKBAL",tvg-logo="https://yt3.googleusercontent.com/tXEh9SffZ3hNppktTEGNCTtq_nTntodJuBXtiTlHG3-x3PrmPIxESqnpU4ZVEZFWKWu8gIXoR_A=s900-c-k-c0x00ffffff-no-rj",group-title="قنوات النايل سات", مصر المستقبل
+#EXTINF:-1 tvg-id="",tvg-name="MASR ELMOSTAKBAL",tvg-logo="https://yt3.googleusercontent.com/tXEh9SffZ3hNppktTEGNCTtq_nTntodJuBXtiTlHG3-x3PrmPIxESqnpU4ZVEZFWKWu8gIXoR_A=s900-c-k-c0x00ffffff-no-rj",group-title="القنوات المصرية", مصر المستقبل
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413880.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
+#EXTINF:-1 tvg-id="",tvg-name="elhadath alyoum",tvg-logo="https://i.ytimg.com/vi/WaIP6zzyAdI/maxresdefault.jpg",group-title="القنوات المصرية", الحدث اليوم
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1600_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="MAZZIKA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaEvKxGLxgcyUOyCx4DIbW6qISGlZdMGhl3KznSxPS1RGjl8S7tihCqKI&s=10" group-logo="https://www.alghad.tv/image/716/493/2022-10/%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="قنوات النايل سات", MAZZIKA 
+#EXTINF:-1 tvg-id="",tvg-name="elmadeeh",tvg-logo="https://yt3.googleusercontent.com/HfmDZ3nk2chWZCRUAysf_gUV4m6DgCleFVIlwv2zkDFmKAr8hCGpZx1B4LGQOkxOVfIE_ZQi0KM=s900-c-k-c0x00ffffff-no-rj",group-title="القنوات المصرية", المديح
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1598_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MAZZIKA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaEvKxGLxgcyUOyCx4DIbW6qISGlZdMGhl3KznSxPS1RGjl8S7tihCqKI&s=10" group-logo="https://www.alghad.tv/image/716/493/2022-10/%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="القنوات المصرية", MAZZIKA 
 #STN-STREAM:{"streamId":"primary","url":"http://149.100.11.235:8080/Mazzika/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="ELMOLED" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqmu8n86LoxU3PNwYSSIWuhonZUP9rACiiMBGipViSx-mt0Dso6PCEom9A&s=10" group-title="قنوات النايل سات", المولد
+#EXTINF:-1 tvg-id="" tvg-name="ELMOLED" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqmu8n86LoxU3PNwYSSIWuhonZUP9rACiiMBGipViSx-mt0Dso6PCEom9A&s=10" group-title="القنوات المصرية", المولد
 #STN-STREAM:{"streamId":"primary","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413892.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="NogoumFMTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJr42A4I59lvg3lv_D0TMrIkvERxc1m9n9LBv55IoXXV9d7S12CwxL1-Hf&s=10" group-logo="https://www.alghad.tv/image/716/493/2022-10/%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="قنوات النايل سات", Nogoum FM TV
+#EXTINF:-1 tvg-id="" tvg-name="NogoumFMTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJr42A4I59lvg3lv_D0TMrIkvERxc1m9n9LBv55IoXXV9d7S12CwxL1-Hf&s=10" group-logo="https://www.alghad.tv/image/716/493/2022-10/%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="القنوات المصرية", Nogoum FM TV
 #STN-STREAM:{"streamId":"primary","url":"https://nogoumtv.nrpstream.com/hls/stream.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="El Radio 9090 FM" tvg-logo="https://cdn-radiotime-logos.tunein.com/s210036g.png" group-logo="https://www.alghad.tv/image/716/493/2022-10/%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="قنوات النايل سات", El Radio 9090 FM
+#EXTINF:-1 tvg-id="" tvg-name="El Radio 9090 FM" tvg-logo="https://cdn-radiotime-logos.tunein.com/s210036g.png" group-logo="https://www.alghad.tv/image/716/493/2022-10/%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="القنوات المصرية", El Radio 9090 FM
 #STN-STREAM:{"streamId":"primary","url":"https://9090video.mobtada.com/hls/stream.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="Mix Hollywood" tvg-logo="https://cdn.telfazalive.com/channels/images/mix-hollywood-live-streaming-online-image-1f1ad874.png" group-logo="https://www.alghad.tv/image/716/493/2022-10/%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="قنوات النايل سات", Mix Hollywood
+#EXTINF:-1 tvg-id="" tvg-name="Mix Hollywood" tvg-logo="https://cdn.telfazalive.com/channels/images/mix-hollywood-live-streaming-online-image-1f1ad874.png" group-logo="https://www.alghad.tv/image/716/493/2022-10/%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="القنوات المصرية", Mix Hollywood
 #STN-STREAM:{"streamId":"primary","url":"https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413853.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="Mix One" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC0e2C3SsJH2TK9pHsrc2eSmepilIKQfjuqXkYUQ4h7g&s" group-logo="https://www.alghad.tv/image/716/493/2022-10/%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="قنوات النايل سات", Mix One
+#EXTINF:-1 tvg-id="" tvg-name="Mix One" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC0e2C3SsJH2TK9pHsrc2eSmepilIKQfjuqXkYUQ4h7g&s" group-logo="https://www.alghad.tv/image/716/493/2022-10/%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="القنوات المصرية", Mix One
 #STN-STREAM:{"streamId":"primary","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413884.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"https://ml-pull-hwc.myco.io/MixONE/hls/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="Mix Belaraby" tvg-logo="https://cdn.taaqup.com/2022/02/%D8%B4%D8%B9%D8%A7%D8%B1-%D9%82%D9%86%D8%A7%D8%A9-mix-Mix-Bel-Araby-%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A.webp" group-logo="https://www.alghad.tv/image/716/493/2022-10/%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="قنوات النايل سات", Mix Belaraby
+#EXTINF:-1 tvg-id="" tvg-name="Mix Belaraby" tvg-logo="https://cdn.taaqup.com/2022/02/%D8%B4%D8%B9%D8%A7%D8%B1-%D9%82%D9%86%D8%A7%D8%A9-mix-Mix-Bel-Araby-%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A.webp" group-logo="https://www.alghad.tv/image/716/493/2022-10/%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="القنوات المصرية", Mix Belaraby
 #STN-STREAM:{"streamId":"primary","url":"https://ml-pull-hwc.myco.io/MixBelAraby/hls/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413854.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/b0e4c4da-e28b-4995-824b-bc3ec8bec3c5.png" group-title="قنوات النايل سات",HALLA LONDON HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/b0e4c4da-e28b-4995-824b-bc3ec8bec3c5.png" group-title="القنوات المصرية",HALLA LONDON HD
 #STN-STREAM:{"streamId":"primary2","url":"https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="ext",tvg-name="📡ZEE ALWAN",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgXxMo-rDUVrtk6cFxhbpW7y_VOJrv1G6wdCJ-cbeIeQ&s=10",group-title="قنوات النايل سات", ZEE ALWAN
+#EXTINF:-1 tvg-id="",tvg-name="📡ZEE AFLAM",tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgEzk4eyFrf14bAbS-Jl-EnMHTa68Fo8ev14AYn-N_0Gl-U7_CvzbdIlvqGw9MK15b_nv85QqU0WYG6OfOJYHizIhoyXwM_TanqJQgBlLvp40PoQXqAE3WleoBfIuBxGpmIHiJxwyzJj8ZLjOij4UijLdDWSvrlXbbLIThyLIAunkPHsc_gHeXtOw5T=s16000",group-title="القنوات المصرية", ZEE AFLAM
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1634_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="ext",tvg-name="📡ZEE ALWAN",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgXxMo-rDUVrtk6cFxhbpW7y_VOJrv1G6wdCJ-cbeIeQ&s=10",group-title="القنوات المصرية", ZEE ALWAN
 #STN-STREAM:{"streamId":"primary","url":"http://93.184.10.248/ZeeAlwan/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="24373739",tvg-name="📡ZEE ALWAN +",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgXxMo-rDUVrtk6cFxhbpW7y_VOJrv1G6wdCJ-cbeIeQ&s=10",group-title="قنوات النايل سات", ZEE ALWAN +
+#EXTINF:-1 tvg-id="24373739",tvg-name="📡ZEE ALWAN +",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgXxMo-rDUVrtk6cFxhbpW7y_VOJrv1G6wdCJ-cbeIeQ&s=10",group-title="القنوات المصرية", ZEE ALWAN +
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1633_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://185.9.2.18/chid_455/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="98985614" tvg-name="Al Ekhbariya" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5R_c21iZ7rLa-JZl-MuUO6jIP2RhTAURuAx-o0NIj1vxduqlYWGOPbsOH&s=10" group-logo="https://img.magnific.com/free-vector/gradient-breaking-news-logo-design_23-2151157239.jpg?semt=ais_hybrid&w=740&q=80" group-title="قنوات الأخبار", Al Ekhbariya
@@ -1307,9 +1433,14 @@
 #EXTINF:-1 tvg-id="" tvg-name="alqahera new" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROT6VoTEZU53yI7dBJMmd6xQXTsp3Gep1Haaz-CnokHI0HbM7trY2tANXI&s=10" group-title="قنوات الأخبار", القاهرة الإخبارية
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413831.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
+
 #EXTINF:-1 tvg-id="" tvg-name="NILE NEWS" tvg-logo="https://yt3.googleusercontent.com/aZyKyAyxY80N3DlI8G69uoTbJKuQ4LEXz6XfixwYFFRIJnWmn8ZZIG0pvZ_YMZzcllbcuhWshg=s900-c-k-c0x00ffffff-no-rj" group-title="قنوات الأخبار", النيل للاخبار
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1596_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1591_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413863.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
+#EXTINF:-1 tvg-id="" tvg-name="CBC EXTRA NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXhq0ERhQPmvFNcZRFsiyn-oeB45eQ9m_QCohp0E5Rpy3P7FrTSos47O7v&s=10" group-title="قنوات الأخبار", EXTRA NEWS
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1620_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/af7d6e06-2da5-4769-a924-c5b240c2deb8.png" group-title="قنوات الأخبار",Almasra FHD
 #STN-STREAM:{"streamId":"primary","url":"https://live.bradosti.net/live/Almasra/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -1561,6 +1692,20 @@
 #EXTINF:-1 tvg-id="" tvg-name="Al Hadath" tvg-logo="https://content-images.onvesper.com/prod/347x347-webp/dce.aljazeera/section/2761/03.OdTOO.kZDcq.png" group-logo="" group-title="القنوات الوثائقية", الجزيرة الوثائقية
 #STN-STREAM:{"streamId":"primary","url":"https://live-hls-web-ajd.getaj.net/AJD/01.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1637_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-name="AR|beIN NAT GEO AD HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTARFLfl5nOvKQAZWk4L65epsX9Dw7c9QH1k57sTNopPl4Yr04n5k1_oJp9&s=10" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="القنوات الوثائقية",  NAT GEO AD HD
+#STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1636_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-name="AR|beIN NAT GEO Wild" tvg-logo="https://cms-media.clink.services/NatGeoWild-Default-Color_2x_bbrxqg.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="القنوات الوثائقية", NAT GEO Wild
+#STN-STREAM:{"streamId":"primary2","url":"http://link4king.xyz:8080/NsIbRaCHiD@2026/puksMLBPBxNo4LR/73771","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary7","url":"http://0000001100.shop:80/live/40737595/65790382/595706.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary7","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/319702.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-name="AR|beIN NAT GEO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTARFLfl5nOvKQAZWk4L65epsX9Dw7c9QH1k57sTNopPl4Yr04n5k1_oJp9&s=10" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="القنوات الوثائقية",  NAT GEO HD
+#STN-STREAM:{"streamId":"primary2","url":"http://link4king.xyz:8080/NsIbRaCHiD@2026/puksMLBPBxNo4LR/73773","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary7","url":"http://0000001100.shop:80/live/40737595/65790382/595705.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary7","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/319701.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYiQvHKe-ms91c7PoGHg72zQDPFt_HS_nxzjZw3g-S8J7XBRg6TvxpfKo&s=10"  group-logo="https://yt3.googleusercontent.com/ytc/AIdro_mHc63Ctk_4vRXb71cMqFuk9f9ZDSVNu-fGxxYzOUwrfQ=s900-c-k-c0x00ffffff-no-rj" group-title="Majestic",Majestic Aflam 1

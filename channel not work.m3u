@@ -1,4 +1,4 @@
-#EXTM3U
+hi#EXTM3U
  ========= mbc==========
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.top4top.io/p_3549omtq70.jpg" group-logo="https://elfann.com/i/large/5252798_1740475978.jpg" group-title="M B C",MBC 2
 #STN-STREAM:{"streamId":"primary3","url":"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -108,6 +108,19 @@ http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/88027.ts
 
 kobtan Aziz 3
 http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/247636.ts
+
+
+melody zaman
+http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/471485.ts
+
+elthaneya
+http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413816.ts
+
+almahrousa
+http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413893.ts
+
+alwataeka
+http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/399451.ts
 
 
 

@@ -361,10 +361,12 @@
 #STN-STREAM:{"streamId":"primary","url":"http://185.191.126.127:8080/live/0566084413/1394394776132208/379829.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="" tvg-name="On Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBtNfAxChEugOMYy5-nsqsXeO2p_wMmKLBKwcPFQMEhwfdkQZikB7sKAo&s=10" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThg5hADGXtTAlaWJ8mZIaXuS2CdrDqiV2jOKkQJx3YDDvYnDSRQ8WBJQ4&s=10" group-title="Egypt Sport", On Sport HD
+#STN-STREAM:{"streamId":"primary","url":"http://185.191.126.127:8080/live/0566084413/1394394776132208/97820.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://restreamott.xyz/live/restreamtreetv/Arenatomas11/7956.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="" tvg-name="On Sport max" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTps4cSi2QhwAmA3zLJjovntR--Byr5Si0faGdbxAwzm0--oXGiN5p02_BV&s=10" group-title="Egypt Sport", On Sport Max HD
 #STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1599_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://185.191.126.127:8080/live/0566084413/1394394776132208/97821.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://restreamott.xyz/live/restreamtreetv/Arenatomas11/7957.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="" tvg-name="On Sport plus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYd8XDKQpbTlZebQekuitYb4vwDQHkZm6efJzPBvrq1a9nTeaQp32Fx0Y&s=10" group-title="Egypt Sport", On Sport Plus HD
@@ -405,6 +407,10 @@
 #EXTINF:-1 tvg-id="177084" tvg-name="ABU DHABI YAS EXTRA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrspNJv-R4zpg2WtecSpns7pZsnlZO2QvqJmNqWb1tcr_TY4ibkiIO6-w&s=10" group-title="ABU DHABI SPORTS", ABU DHABI YAS EXTRA
 #STN-STREAM:{"streamId":"primary2","url":"http://link4king.xyz:8080/NsIbRaCHiD@2026/puksMLBPBxNo4LR/177084","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="dubui-Sports" tvg-logo="" group-logo="" group-title="Dubai Sports",Dubai Racing 2 HD
+#STN-STREAM:{"streamId":"primary","url":"http://185.191.126.127:8080/live/0566084413/1394394776132208/97816.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="992043" tvg-name="STARZPALY SPORT 1" tvg-logo="https://assets.ar-pay.net/cdn-cgi/image/width=330,quality=75,format=auto/product/b0c64c7d-d701-40f9-b2d6-159022cdbb04.webp" group-logo="https://assets.ar-pay.net/cdn-cgi/image/width=330,quality=75,format=auto/product/b0c64c7d-d701-40f9-b2d6-159022cdbb04.webp" group-title="STARZPALY SPORT", STARZPALY SPORT 1
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/992043.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}

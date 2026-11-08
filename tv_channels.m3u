@@ -334,12 +334,22 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="ALKAS1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOUPt8PyHHurQwb_ayrvZYycKZcOu49z2qA9D8tUDHIqtWQPMxQnzPeOqP&s=10" group-logo="https://images.alkass.net/newsimages/large_20191014203827_1571074707.74.jpg" group-title="ALKASS", ALKASS ONE
 #STN-STREAM:{"streamId":"primary","url":"http://restreamott.xyz/live/restreamtreetv/Arenatomas11/7972.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/96214.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="" tvg-name="ALKAS2" tvg-logo="https://cdn.sportfeeds.io/tv-schedule/channel/images/s5xRbABpHC_R0Twv4RUhs.png" group-title="ALKASS", ALKASS TWO
 #STN-STREAM:{"streamId":"primary","url":"http://restreamott.xyz/live/restreamtreetv/Arenatomas11/7973.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/96215.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-name="ALKAS3" tvg-logo="https://cne-eg.com/uploads/logos/20183143127531.png" group-title="ALKASS", ALKASS THREE
+#STN-STREAM:{"streamId":"primary","url":"http://185.191.126.127:8080/live/0566084413/1394394776132208/278068.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 
 #EXTINF:-1 tvg-id="" tvg-name="ALKAS4" tvg-logo="https://www.nettv.live/uploads/allimg/20/1-200FG605170-L.jpg" group-title="ALKASS", ALKASS FOUR
 #STN-STREAM:{"streamId":"primary","url":"http://restreamott.xyz/live/restreamtreetv/Arenatomas11/7974.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/96216.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-name="ALKAS5" tvg-logo="https://cdn.sportfeeds.io/tv-schedule/channel/images/haVcgn21z42P3sb9qsRWf.png" group-title="ALKASS", ALKASS FIVE
+#STN-STREAM:{"streamId":"primary","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/96217.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 
 #EXTINF:-1 tvg-id="" tvg-name="On Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBtNfAxChEugOMYy5-nsqsXeO2p_wMmKLBKwcPFQMEhwfdkQZikB7sKAo&s=10" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThg5hADGXtTAlaWJ8mZIaXuS2CdrDqiV2jOKkQJx3YDDvYnDSRQ8WBJQ4&s=10" group-title="Egypt Sport", On Sport HD

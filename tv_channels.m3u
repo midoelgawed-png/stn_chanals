@@ -351,6 +351,14 @@
 #EXTINF:-1 tvg-id="" tvg-name="ALKAS5" tvg-logo="https://cdn.sportfeeds.io/tv-schedule/channel/images/haVcgn21z42P3sb9qsRWf.png" group-title="ALKASS", ALKASS FIVE
 #STN-STREAM:{"streamId":"primary","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/96217.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
+#EXTINF:-1 tvg-id="" tvg-name="ALKAS6" tvg-logo="" group-title="ALKASS", ALKASS SIX
+#STN-STREAM:{"streamId":"primary","url":"http://185.191.126.127:8080/live/0566084413/1394394776132208/211523.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-name="ALKAS7" tvg-logo="" group-title="ALKASS", ALKASS SEVEN
+#STN-STREAM:{"streamId":"primary","url":"http://185.191.126.127:8080/live/0566084413/1394394776132208/379828.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-name="ALKAS8" tvg-logo="" group-title="ALKASS", ALKASS EIGHT
+#STN-STREAM:{"streamId":"primary","url":"http://185.191.126.127:8080/live/0566084413/1394394776132208/379829.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="" tvg-name="On Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBtNfAxChEugOMYy5-nsqsXeO2p_wMmKLBKwcPFQMEhwfdkQZikB7sKAo&s=10" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThg5hADGXtTAlaWJ8mZIaXuS2CdrDqiV2jOKkQJx3YDDvYnDSRQ8WBJQ4&s=10" group-title="Egypt Sport", On Sport HD
 #STN-STREAM:{"streamId":"primary","url":"http://restreamott.xyz/live/restreamtreetv/Arenatomas11/7956.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}

@@ -374,13 +374,16 @@
 
 
 #EXTINF:-1 tvg-id="" tvg-name="nile sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGIL5qH5KXLqPxXtQVZ_vbtWeYZCoeZsmiE9aViOMuZwPYX8MpbaCZ7XF8&s=10" group-title="Egypt Sport", Nile Sport
+#STN-STREAM:{"streamId":"primary","url":"http://185.191.126.127:8080/live/0566084413/1394394776132208/97824.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://restreamott.xyz/live/restreamtreetv/Arenatomas11/7951.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="" tvg-name="alahly" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mGOi86457H-pnYwuUyu2OSWpdvfcmkZBqwJ8Ctfss2lUg=s900-c-k-c0x00ffffff-no-rj" group-title="Egypt Sport", Al Ahaly TV
 #STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1615_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://185.191.126.127:8080/live/0566084413/1394394776132208/97823.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="" tvg-name="zamalek" tvg-logo="https://i1.sndcdn.com/artworks-000660049519-26hd43-t500x500.jpg" group-title="Egypt Sport", Zamalek TV
 #STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1614_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://185.191.126.127:8080/live/0566084413/1394394776132208/97822.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="1123471" tvg-name="AD SPORTS 1 HEVC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ35Rrco-bZiupRjz0x4ynV6pmnR-XVUYuoRuBxoQAT8z4LyZ7-kvLwwTw&s=10" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ35Rrco-bZiupRjz0x4ynV6pmnR-XVUYuoRuBxoQAT8z4LyZ7-kvLwwTw&s=10" group-title="ABU DHABI SPORTS", AD SPORTS 1 
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1167471.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}

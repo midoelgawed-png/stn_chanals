@@ -1484,6 +1484,21 @@
 #EXTINF:-1 tvg-id="92992040" tvg-name="makah" tvg-logo="https://pbs.twimg.com/media/EyJ-AdOW8AEtqZj?format=jpg&name=large" group-logo="https://ms.hsoubcdn.com/uploads/thumbnails/613673/477660/aa484b6c-4818-416d-841b-777913da6487.jpg" group-title="قنوات اسلامية", مكة
 #STN-STREAM:{"streamId":"primary","url":"https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
+#EXTINF:-1 tvg-id="" tvg-name="ALRAHMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4cMrh5n0pEPVAYXjtl2g-2w3t90ZtBzKEQev_vJiPwW9fMSCTObanNqAg&s=10" group-title="قنوات اسلامية", الرحمة
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/884.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-name="elnas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG7lTvhMilalKqIicNXHoKuvwpNiH1dYPd1kBq1OyjQ2thcs__kNM_qHk&s=10" group-title="قنوات اسلامية", الناس
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/42543.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-name="azhari" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbX9WNRGTX4Y4DXZLHIpDWQ73KL8LEZNqPdeBpYRTHQg&s=10" group-title="قنوات اسلامية", أزهري
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/795.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-name="ALFATH 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDnvig3cIbkehcBxiJhW5pOxAU2pMt2xYG2c_7MOzzKsgiEuM4HvH_iL6A&s=10" group-title="قنوات اسلامية", الفتح للقران الكريم
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/618918.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-name="ALFATH 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDnvig3cIbkehcBxiJhW5pOxAU2pMt2xYG2c_7MOzzKsgiEuM4HvH_iL6A&s=10" group-title="قنوات اسلامية", الفتح السنة النبوية
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/618926.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 
 #EXTINF:-1 tvg-id="",tvg-name="ALHAYAT EGYPT",tvg-logo="https://yt3.googleusercontent.com/K3FpWCwYwdgPvB-iEPcW1sru7UQnPv6V_1-YwOrJLZF7Vc5O2FAHLo6Nf29L8eZ03LU7ZG6lIQ=s900-c-k-c0x00ffffff-no-rj",group-title="القنوات المصرية", ALHAYAT
 #STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1613_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -1512,6 +1527,10 @@
 #STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1594_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413865.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413866.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="",tvg-name="NILE culture",tvg-logo="https://gate.ahram.org.eg/Media/News/2025/5/9/19_2025-638824124713759376-375.jpg",group-title="القنوات المصرية",NILE CULTURE
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/849.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 
 #EXTINF:-1 tvg-id="",tvg-name="NILE DRAMA",tvg-logo="https://i.ytimg.com/vi/TaqPFq92uy8/maxresdefault.jpg", group-title="القنوات المصرية",NILE DRAMA
 #STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1590_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -1635,40 +1654,40 @@
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413877.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 
-#EXTINF:-1 tvg-id="" tvg-name="eloula" tvg-logo="https://tlfaz.com/wp-content/uploads/2023/09/Channel-1-420x420.png" group-title="القنوات المصرية", القتاة الأولى
+#EXTINF:-1 tvg-id="" tvg-name="eloula" tvg-logo="https://tlfaz.com/wp-content/uploads/2023/09/Channel-1-420x420.png" group-title="القنوات المصرية", القناة الأولى
 #STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1627_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/live/PR2055477969542/5230682660068/698.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/6V98D4A85QK4S7L/xS5txcwLg0/258623","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413814.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="althaneya" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUqo-Eq9T65qImelRUJw2w_xygIyWgXV6cim0Z155dGw&s" group-title="القنوات المصرية", القتاة الثانية
+#EXTINF:-1 tvg-id="" tvg-name="althaneya" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUqo-Eq9T65qImelRUJw2w_xygIyWgXV6cim0Z155dGw&s" group-title="القنوات المصرية", القناة الثانية
 #STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1626_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413816.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="alqant 3 qahera" tvg-logo="https://www.tunisia-sat.com/forums/data/attachments/2259/2259769-378adafc6f4aad51ac9adfce8188e5eb.jpg?hash=Ix5xyrGpmD" group-title="القنوات المصرية", القتاة3 القاهرة
+#EXTINF:-1 tvg-id="" tvg-name="alqant 3 qahera" tvg-logo="https://www.tunisia-sat.com/forums/data/attachments/2259/2259769-378adafc6f4aad51ac9adfce8188e5eb.jpg?hash=Ix5xyrGpmD" group-title="القنوات المصرية", القناة3 القاهرة
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413820.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="alqant 4 qanal" tvg-logo="https://www.tunisia-sat.com/forums/data/attachments/2259/2259770-a012a7804b3724bb3d2433c188d1562e.jpg?hash=Cvi6LBkT-l" group-title="القنوات المصرية", القتاة4 القنال
+#EXTINF:-1 tvg-id="" tvg-name="alqant 4 qanal" tvg-logo="https://www.tunisia-sat.com/forums/data/attachments/2259/2259770-a012a7804b3724bb3d2433c188d1562e.jpg?hash=Cvi6LBkT-l" group-title="القنوات المصرية", القناة4 القنال
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413821.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="alqant 5 alex" tvg-logo="https://www.tunisia-sat.com/forums/data/attachments/2259/2259772-185215a55f42734e163fd77fc510bde8.jpg?hash=LY_rTvT0SO" group-title="القنوات المصرية", القتاة5 الاسكندرية
+#EXTINF:-1 tvg-id="" tvg-name="alqant 5 alex" tvg-logo="https://www.tunisia-sat.com/forums/data/attachments/2259/2259772-185215a55f42734e163fd77fc510bde8.jpg?hash=LY_rTvT0SO" group-title="القنوات المصرية", القناة5 الاسكندرية
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413822.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="alqant 6 delta" tvg-logo="https://i.ytimg.com/vi/08Tj9dn-A7c/maxresdefault.jpg" group-title="القنوات المصرية", القتاة6 الدلتا
+#EXTINF:-1 tvg-id="" tvg-name="alqant 6 delta" tvg-logo="https://i.ytimg.com/vi/08Tj9dn-A7c/maxresdefault.jpg" group-title="القنوات المصرية", القناة6 الدلتا
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413823.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="alqant 7 saed" tvg-logo="https://www.tunisia-sat.com/forums/data/attachments/2259/2259775-38e73409a7ccd9ace318fc8f4e368414.jpg?hash=ZKOI0q63tZ" group-title="القنوات المصرية", القتاة7 الصعيد
+#EXTINF:-1 tvg-id="" tvg-name="alqant 7 saed" tvg-logo="https://www.tunisia-sat.com/forums/data/attachments/2259/2259775-38e73409a7ccd9ace318fc8f4e368414.jpg?hash=ZKOI0q63tZ" group-title="القنوات المصرية", القناة7 الصعيد
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413824.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="alqant 8 tiba" tvg-logo="https://www.tunisia-sat.com/forums/data/attachments/2259/2259776-71a1aec938a07c53b90262e08cea277a.jpg?hash=OxCQV1H7lG" group-title="القنوات المصرية", القتاة8 طيبة
+#EXTINF:-1 tvg-id="" tvg-name="alqant 8 tiba" tvg-logo="https://www.tunisia-sat.com/forums/data/attachments/2259/2259776-71a1aec938a07c53b90262e08cea277a.jpg?hash=OxCQV1H7lG" group-title="القنوات المصرية", القناة8 طيبة
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413825.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="" tvg-name="alSHAMS" tvg-logo="https://yt3.googleusercontent.com/tmlrO3EKIV_jowCBMmlZoT1rMdwer1TRQ8wcIQDNjWXXm9eGVCcaUX57waGN2bjvseg8g9pX9dM=s900-c-k-c0x00ffffff-no-rj" group-title="القنوات المصرية", الشمس
 #STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1601_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413875.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="alSHAMS2" tvg-logo="https://yt3.googleusercontent.com/tmlrO3EKIV_jowCBMmlZoT1rMdwer1TRQ8wcIQDNjWXXm9eGVCcaUX57waGN2bjvseg8g9pX9dM=s900-c-k-c0x00ffffff-no-rj" group-title="القنوات المصرية", الشمس2
-#STN-STREAM:{"streamId":"primary2","url":"","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#EXTINF:-1 tvg-id="" tvg-name="alSHAMS2" tvg-logo="https://i.ytimg.com/vi/ld9iegZVZB0/maxresdefault.jpg" group-title="القنوات المصرية", الشمس2
+#STN-STREAM:{"streamId":"primary2","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/606146.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="" tvg-name="HEYA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRind08dzs8xyJwPcTbOmg9eOoCwRwgPZYYT9qonEFgew&s" group-title="القنوات المصرية", هـــي
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413888.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -1681,6 +1700,10 @@
 
 #EXTINF:-1 tvg-id="",tvg-name="TOP DRAMA",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE5i8YVeqlK85OVcxJ70L1iCJ1Oc7u_CLNsSkuw2dNkA--uNPTImOpipqa&s=10",group-title="القنوات المصرية", TOP DRAMA
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413891.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="",tvg-name="TOP ZAMAN",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFfOmRBymiARZCxMhD9vzBrD-tma-9DVG28HCY_u-hsvuuVvm5PKDtjac&s=10",group-title="القنوات المصرية", TOP ZAMAN
+#STN-STREAM:{"streamId":"primary2","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/606148.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 
 #EXTINF:-1 tvg-id="",tvg-name="ELMAHROSA",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKKhbd-tgQsuvcO20pCJF5Nhcua7f6hNamJMezIDJoYyHxU7gNwR54kqBR&s=10",group-title="القنوات المصرية", المحروسة
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413893.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -1696,6 +1719,60 @@
 
 #EXTINF:-1 tvg-id="",tvg-name="elmadeeh",tvg-logo="https://yt3.googleusercontent.com/HfmDZ3nk2chWZCRUAysf_gUV4m6DgCleFVIlwv2zkDFmKAr8hCGpZx1B4LGQOkxOVfIE_ZQi0KM=s900-c-k-c0x00ffffff-no-rj",group-title="القنوات المصرية", المديح
 #STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1598_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="",tvg-name="drama elyoum",tvg-logo="https://alfrsantv.com/wp-content/uploads/2024/08/drama-Alyoom.png",group-title="القنوات المصرية", دراما اليوم
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/606121.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="",tvg-name="elsa3yda",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjNjbEgxOsljXRgCeIiAVc3CHCUYFTucOPbI4q1LGDcM8pKd67Dt1tifU&s=10",group-title="القنوات المصرية", الصعايدة
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/606124.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="",tvg-name="halla mosar3a",tvg-logo="https://i.ytimg.com/vi/ROULPi-YlFg/sddefault.jpg",group-title="القنوات المصرية", هلا مصارعة
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/606125.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="",tvg-name="DOLLY MOSALSALAT",tvg-logo="https://www.altkia.com/wp-content/uploads/2017/03/DollyMosalsalat.jpg",group-title="القنوات المصرية", دولي مسلسلات
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/606151.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="",tvg-name="WEST ELBALD",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeMvegwDGmrf7TUWBtmr9d5a6ee6cvJWLZc2ZCY1ftHQk6ZOIUXcwP4p0&s=10",group-title="القنوات المصرية", وسط البلد
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/606134.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="",tvg-name="GOMHORYA TV",tvg-logo="https://mersalnews.com/wp-content/uploads/2026/02/IMG-20260207-WA0040.webp",group-title="القنوات المصرية", الجمهورية TV
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/606131.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="",tvg-name="ALZAEM CINEMA",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCtVHQAf64LIdu2EBP-byUzt6TpjRN_KCjgDe39E0ilpugY_fLFlFSMhyq&s=10",group-title="القنوات المصرية", الزعيم سينما
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/606150.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="",tvg-name="ALZAEM CINEMA2",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCtVHQAf64LIdu2EBP-byUzt6TpjRN_KCjgDe39E0ilpugY_fLFlFSMhyq&s=10",group-title="القنوات المصرية", الزعيم دراما
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/606149.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="",tvg-name="ALSHASHA 1",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoYsrh0WKKz6dkH0-oMhTk3V6L5X41hJmucYsBbTQJLyxZ_ZFCU2dVAVlD&s=10",group-title="القنوات المصرية", الشاشة اليوم
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/606136.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="",tvg-name="ALSHASHA 2",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoYsrh0WKKz6dkH0-oMhTk3V6L5X41hJmucYsBbTQJLyxZ_ZFCU2dVAVlD&s=10",group-title="القنوات المصرية", الشاشة حكايات
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/606137.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="",tvg-name="ALSHASHA 3",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoYsrh0WKKz6dkH0-oMhTk3V6L5X41hJmucYsBbTQJLyxZ_ZFCU2dVAVlD&s=10",group-title="القنوات المصرية", الشاشة دراما
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/606138.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="",tvg-name="MELODEY 1",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQepAxWmJ72_KOTPfO9VsBaYrJz_-Xe9AEr4t2Zmh-YtqD_GlwJpdb0_fok&s=10",group-title="القنوات المصرية", ميلودي كلاسيك
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/822.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+
+#EXTINF:-1 tvg-id="",tvg-name="MELODEY 2",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG0pytVzKFi7WdWcdWlsfH8i0HSo0CMrve0jZom_e-HMdPMv7xEVb4WQo&s=10",group-title="القنوات المصرية", ميلودي دراما
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/606119.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="",tvg-name="SUKAREYA 1",tvg-logo="https://alfrsantv.com/wp-content/uploads/2024/09/Sukariya.jpg",group-title="القنوات المصرية", السكرية دراما
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/606144.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="",tvg-name="SUKAREYA 2",tvg-logo="https://alfrsantv.com/wp-content/uploads/2024/09/Sukariya.jpg",group-title="القنوات المصرية", السكرية حكايات
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/606143.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="",tvg-name="SUKAREYA 3",tvg-logo="https://alfrsantv.com/wp-content/uploads/2024/09/Sukariya.jpg",group-title="القنوات المصرية", السكرية سينما
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/606139.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+
+
+#EXTINF:-1 tvg-id="",tvg-name="DAHAB MOSALSALAT",tvg-logo="https://i.pinimg.com/736x/4f/9e/e9/4f9ee939bd336f41a14d8f3085648cfe.jpg",group-title="القنوات المصرية", دهب مسلسلات
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/929531.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 
 #EXTINF:-1 tvg-id="" tvg-name="MAZZIKA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaEvKxGLxgcyUOyCx4DIbW6qISGlZdMGhl3KznSxPS1RGjl8S7tihCqKI&s=10" group-logo="https://www.alghad.tv/image/716/493/2022-10/%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="القنوات المصرية", MAZZIKA 

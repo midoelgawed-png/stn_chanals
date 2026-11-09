@@ -225,6 +225,10 @@
 #STN-STREAM:{"streamId":"primary6","url":"http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936521","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary7","url":"http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936520","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary8","url":"https://blcco.linkip.org/live/3461_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/1339213.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/1322607.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/1339223.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/1339229.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="310697" tvg-name="Alwan Sport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZzpxE0iQbHD7mYNbeJxSvgzzUJQanMtqosEvweiZTFFJ01Qa7OAWzBpA&s=10" group-title="ALWAN SPORT" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZzpxE0iQbHD7mYNbeJxSvgzzUJQanMtqosEvweiZTFFJ01Qa7OAWzBpA&s=10",Alwan Sport 2
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/040323C244F1138/y4TQAcg6uf/1339230.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -235,6 +239,10 @@
 #STN-STREAM:{"streamId":"primary6","url":"http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936518","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary7","url":"http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936517","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary8","url":"https://blcco.linkip.org/live/3460_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/1339214.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/1339224.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/1339230.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 
 #EXTINF:-1 tvg-id="310698" tvg-name="Alwan Sport 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZzpxE0iQbHD7mYNbeJxSvgzzUJQanMtqosEvweiZTFFJ01Qa7OAWzBpA&s=10" group-title="ALWAN SPORT" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZzpxE0iQbHD7mYNbeJxSvgzzUJQanMtqosEvweiZTFFJ01Qa7OAWzBpA&s=10",Alwan Sport 3
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/040323C244F1138/y4TQAcg6uf/1339231.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -246,6 +254,9 @@
 #STN-STREAM:{"streamId":"primary7","url":"http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936515","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary8","url":"http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936514","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary9","url":"https://blcco.linkip.org/live/3459_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/1339215.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/1339225.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/1339231.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="310699" tvg-name="Alwan Sport 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZzpxE0iQbHD7mYNbeJxSvgzzUJQanMtqosEvweiZTFFJ01Qa7OAWzBpA&s=10" group-title="ALWAN SPORT" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZzpxE0iQbHD7mYNbeJxSvgzzUJQanMtqosEvweiZTFFJ01Qa7OAWzBpA&s=10",Alwan Sport 4
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/040323C244F1138/y4TQAcg6uf/1339232.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -257,6 +268,10 @@
 #STN-STREAM:{"streamId":"primary7","url":"http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936512","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary8","url":"http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936511","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary9","url":"https://blcco.linkip.org/live/3458_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/1339216.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/1339226.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/1339232.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 
 #EXTINF:-1 tvg-id="310700" tvg-name="Alwan Sport 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZzpxE0iQbHD7mYNbeJxSvgzzUJQanMtqosEvweiZTFFJ01Qa7OAWzBpA&s=10" group-title="ALWAN SPORT" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZzpxE0iQbHD7mYNbeJxSvgzzUJQanMtqosEvweiZTFFJ01Qa7OAWzBpA&s=10",Alwan Sport 5
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/040323C244F1138/y4TQAcg6uf/1339233.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -268,6 +283,10 @@
 #STN-STREAM:{"streamId":"primary4","url":"http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936509","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary4","url":"http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936508","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary5","url":"https://blcco.linkip.org/live/3457_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/1339217.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/1339227.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/1339233.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 
 #EXTINF:-1 tvg-id="310701" tvg-name="Alwan Sport 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZzpxE0iQbHD7mYNbeJxSvgzzUJQanMtqosEvweiZTFFJ01Qa7OAWzBpA&s=10" group-title="ALWAN SPORT" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZzpxE0iQbHD7mYNbeJxSvgzzUJQanMtqosEvweiZTFFJ01Qa7OAWzBpA&s=10",Alwan Sport 6
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/040323C244F1138/y4TQAcg6uf/1339234.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -277,29 +296,45 @@
 #STN-STREAM:{"streamId":"primary6","url":"http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936506","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary7","url":"http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936505","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary5","url":"https://blcco.linkip.org/live/3456_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/1339218.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/1339228.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/1339234.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 
 #EXTINF:-1 tvg-id="310702" tvg-name="Alwan Sport 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZzpxE0iQbHD7mYNbeJxSvgzzUJQanMtqosEvweiZTFFJ01Qa7OAWzBpA&s=10" group-title="ALWAN SPORT" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZzpxE0iQbHD7mYNbeJxSvgzzUJQanMtqosEvweiZTFFJ01Qa7OAWzBpA&s=10",Alwan Sport 7
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/040323C244F1138/y4TQAcg6uf/1339219.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/232607.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary3","url":"http://coyora.cc//live/6V98D4A85QK4S7L/xS5txcwLg0/1339219.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/1339219.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="310703" tvg-name="Alwan Sport 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZzpxE0iQbHD7mYNbeJxSvgzzUJQanMtqosEvweiZTFFJ01Qa7OAWzBpA&s=10" group-title="ALWAN SPORT" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZzpxE0iQbHD7mYNbeJxSvgzzUJQanMtqosEvweiZTFFJ01Qa7OAWzBpA&s=10",Alwan Sport 8
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/040323C244F1138/y4TQAcg6uf/1339220.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/232608.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary3","url":"http://coyora.cc//live/6V98D4A85QK4S7L/xS5txcwLg0/1339220.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/1339220.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="310704" tvg-name="Alwan Sport 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZzpxE0iQbHD7mYNbeJxSvgzzUJQanMtqosEvweiZTFFJ01Qa7OAWzBpA&s=10" group-title="ALWAN SPORT" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZzpxE0iQbHD7mYNbeJxSvgzzUJQanMtqosEvweiZTFFJ01Qa7OAWzBpA&s=10",Alwan Sport 9
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/040323C244F1138/y4TQAcg6uf/1339221.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/232609.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary3","url":"http://coyora.cc//live/6V98D4A85QK4S7L/xS5txcwLg0/1339221.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/1339221.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="310705" tvg-name="Alwan Sport 10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZzpxE0iQbHD7mYNbeJxSvgzzUJQanMtqosEvweiZTFFJ01Qa7OAWzBpA&s=10" group-title="ALWAN SPORT" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZzpxE0iQbHD7mYNbeJxSvgzzUJQanMtqosEvweiZTFFJ01Qa7OAWzBpA&s=10",Alwan Sport 10
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/040323C244F1138/y4TQAcg6uf/1339222.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/232610.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary3","url":"http://coyora.cc//live/6V98D4A85QK4S7L/xS5txcwLg0/1339222.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/1339222.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZzpxE0iQbHD7mYNbeJxSvgzzUJQanMtqosEvweiZTFFJ01Qa7OAWzBpA&s=10" group-title="ALWAN SPORT",ALWAN F1
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/1339211.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/1322608.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZzpxE0iQbHD7mYNbeJxSvgzzUJQanMtqosEvweiZTFFJ01Qa7OAWzBpA&s=10" group-title="ALWAN SPORT",ALWAN UFC
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/1339212.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="310706" tvg-name="WWE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbtWqq9nSPAQNo8eY3xKolpMtWGXEI1a4CZNnHhh2qbviZPcwXuSONrDQQ&s=10" group-title="ALWAN SPORT" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZzpxE0iQbHD7mYNbeJxSvgzzUJQanMtqosEvweiZTFFJ01Qa7OAWzBpA&s=10",WWE
 #STN-STREAM:{"streamId":"primary","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413883.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/1339210.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 
 #EXTINF:-1 tvg-id="" tvg-name="THMANYAH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn9h6N3FWv9nNOa0hSWPYNi9E5ZMQ3lDUGld0isWyWgw&s=10" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn9h6N3FWv9nNOa0hSWPYNi9E5ZMQ3lDUGld0isWyWgw&s=10" group-title="THMANYAH", THMANYAH 1 
@@ -387,16 +422,19 @@
 #STN-STREAM:{"streamId":"primary","url":"http://185.191.126.127:8080/live/0566084413/1394394776132208/97820.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/472529.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://restreamott.xyz/live/restreamtreetv/Arenatomas11/7956.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/809.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="" tvg-name="On Sport max" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTps4cSi2QhwAmA3zLJjovntR--Byr5Si0faGdbxAwzm0--oXGiN5p02_BV&s=10" group-title="Egypt Sport", On Sport Max HD
 #STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1599_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/472511.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://185.191.126.127:8080/live/0566084413/1394394776132208/97821.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://restreamott.xyz/live/restreamtreetv/Arenatomas11/7957.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/810.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="" tvg-name="On Sport plus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYd8XDKQpbTlZebQekuitYb4vwDQHkZm6efJzPBvrq1a9nTeaQp32Fx0Y&s=10" group-title="Egypt Sport", On Sport Plus HD
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/472512.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://185.191.126.127:8080/live/0566084413/1394394776132208/97825.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/811.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 
 
@@ -405,6 +443,8 @@
 #STN-STREAM:{"streamId":"primary","url":"http://185.191.126.127:8080/live/0566084413/1394394776132208/97824.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/472528.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://restreamott.xyz/live/restreamtreetv/Arenatomas11/7951.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/848.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 
 #EXTINF:-1 tvg-id="" tvg-name="alahly" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mGOi86457H-pnYwuUyu2OSWpdvfcmkZBqwJ8Ctfss2lUg=s900-c-k-c0x00ffffff-no-rj" group-title="Egypt Sport", Al Ahaly TV
 #STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1615_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -415,6 +455,7 @@
 #STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1614_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/472531.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://185.191.126.127:8080/live/0566084413/1394394776132208/97822.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/78365.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="1123471" tvg-name="AD SPORTS 1 HEVC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ35Rrco-bZiupRjz0x4ynV6pmnR-XVUYuoRuBxoQAT8z4LyZ7-kvLwwTw&s=10" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ35Rrco-bZiupRjz0x4ynV6pmnR-XVUYuoRuBxoQAT8z4LyZ7-kvLwwTw&s=10" group-title="ABU DHABI SPORTS", AD SPORTS 1 
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1167471.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -458,7 +499,6 @@
 #STN-STREAM:{"streamId":"primary6","url":"http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/231225","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary7","url":"http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/231223","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-
 #EXTINF:-1 tvg-id="992042" tvg-name="STARZPALY SPORT 2" tvg-logo="https://assets.ar-pay.net/cdn-cgi/image/width=330,quality=75,format=auto/product/b0c64c7d-d701-40f9-b2d6-159022cdbb04.webp" group-logo="https://assets.ar-pay.net/cdn-cgi/image/width=330,quality=75,format=auto/product/b0c64c7d-d701-40f9-b2d6-159022cdbb04.webp" group-title="STARZPALY SPORT", STARZPALY SPORT 2 
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/992042.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1320904.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -469,6 +509,14 @@
 #EXTINF:-1 tvg-id="1320905" tvg-name="STARZPALY SPORT 3" tvg-logo="https://assets.ar-pay.net/cdn-cgi/image/width=330,quality=75,format=auto/product/b0c64c7d-d701-40f9-b2d6-159022cdbb04.webp" group-logo="https://assets.ar-pay.net/cdn-cgi/image/width=330,quality=75,format=auto/product/b0c64c7d-d701-40f9-b2d6-159022cdbb04.webp" group-title="STARZPALY SPORT", STARZPALY SPORT 3
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1320905.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://link4king.xyz:8080/NsIbRaCHiD@2026/puksMLBPBxNo4LR/202150","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5DjluvzLH-m80Fqo8R-GtQLugrezqfzSEACauKmB3EGocHJbOwzz5gCCf&s=10" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5DjluvzLH-m80Fqo8R-GtQLugrezqfzSEACauKmB3EGocHJbOwzz5gCCf&s=10" group-title="STC",STC Sport 3
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/1469578.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/1469579.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5DjluvzLH-m80Fqo8R-GtQLugrezqfzSEACauKmB3EGocHJbOwzz5gCCf&s=10" group-title="STC",STC Sport 4
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/1469580.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/1469581.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 
 #EXTINF:-1 tvg-id="70414" tvg-name="AR|AL FAJER TV 1HD" tvg-logo="https://yt3.googleusercontent.com/Fwmcv2ZpCW8MdBOrUP06VZoHu8dlRreLMFjf1eMZUj9iLcuJbnyrpJmUUd9q1OElcUFjDALss6U=s900-c-k-c0x00ffffff-no-rj" group-logo="https://yt3.googleusercontent.com/Fwmcv2ZpCW8MdBOrUP06VZoHu8dlRreLMFjf1eMZUj9iLcuJbnyrpJmUUd9q1OElcUFjDALss6U=s900-c-k-c0x00ffffff-no-rj" group-title="AL FAJER TV", AL FAJER TV 1HD
 #STN-STREAM:{"streamId":"primary2","url":"http://link4king.xyz:8080/NsIbRaCHiD@2026/puksMLBPBxNo4LR/70414","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -1760,10 +1808,10 @@
 #EXTINF:-1 tvg-id="",tvg-name="MELODEY 2",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG0pytVzKFi7WdWcdWlsfH8i0HSo0CMrve0jZom_e-HMdPMv7xEVb4WQo&s=10",group-title="القنوات المصرية", ميلودي دراما
 #STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/606119.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="",tvg-name="SUKAREYA 1",tvg-logo="https://alfrsantv.com/wp-content/uploads/2024/09/Sukariya.jpg",group-title="القنوات المصرية", السكرية دراما
+#EXTINF:-1 tvg-id="",tvg-name="SUKAREYA 1",tvg-logo="https://go4.pw/ARABE/sukariyadrama.png",group-title="القنوات المصرية", السكرية دراما
 #STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/606144.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="",tvg-name="SUKAREYA 2",tvg-logo="https://alfrsantv.com/wp-content/uploads/2024/09/Sukariya.jpg",group-title="القنوات المصرية", السكرية حكايات
+#EXTINF:-1 tvg-id="",tvg-name="SUKAREYA 2",tvg-logo="https://go4.pw/ARABE/sukariyahekayat.png",group-title="القنوات المصرية", السكرية حكايات
 #STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/606143.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="",tvg-name="SUKAREYA 3",tvg-logo="https://alfrsantv.com/wp-content/uploads/2024/09/Sukariya.jpg",group-title="القنوات المصرية", السكرية سينما
@@ -1771,7 +1819,7 @@
 
 
 
-#EXTINF:-1 tvg-id="",tvg-name="DAHAB MOSALSALAT",tvg-logo="https://i.pinimg.com/736x/4f/9e/e9/4f9ee939bd336f41a14d8f3085648cfe.jpg",group-title="القنوات المصرية", دهب مسلسلات
+#EXTINF:-1 tvg-id="",tvg-name="DAHAB MOSALSALAT",tvg-logo="https://go4.pw/ARABE/DAHABMUSALSALAT.png",group-title="القنوات المصرية", دهب مسلسلات
 #STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/929531.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 

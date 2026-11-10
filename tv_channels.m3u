@@ -863,9 +863,15 @@
 #EXTINF:-1 tvg-id="" tvg-name="MBC VARIETY" tvg-logo="https://i0.wp.com/ksalogo.com/wp-content/uploads/2025/01/MBC-Variety.png?fit=1000%2C1000&ssl=1" group-logo="https://elfann.com/i/large/5252798_1740475978.jpg" group-title="M B C", MBC VARIETY HD
 #STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1639_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
+#EXTINF:-1 tvg-id="" tvg-name="MBC ELIFE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrpPuh00QFB5lSv5rdqtjjCjqUSJWgQq7B3DKedDoT04Avm9gCH7r_ye17&s=10" group-title="M B C", MBC ELIFE 
+http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/215350
+
+#EXTINF:-1 tvg-id="215355" tvg-name="MBC TOONS HD" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/MBC/mbc.1.png" group-title="M B C", MBC TOONS 
+http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/215355
 
 #EXTINF:-1 tvg-id="" tvg-name="mbc geographic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ72XvhR40dyaFiAfc0L1rF_adpF9NyvDK7r6BWyo5b26xOF2g_CxfQMvku&s=10" group-logo="https://elfann.com/i/large/5252798_1740475978.jpg" group-title="M B C", Mbc Geographic
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413800.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/215357","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413801.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413802.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
@@ -878,7 +884,7 @@
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413806.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="" tvg-name="mbc plus+" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1766e929-e56d-41f5-b1cf-93ed998dcc41/dilcp34-9647dfce-b290-4119-a365-63650c5047f8.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8xNzY2ZTkyOS1lNTZkLTQxZjUtYjFjZi05M2VkOTk4ZGNjNDEvZGlsY3AzNC05NjQ3ZGZjZS1iMjkwLTQxMTktYTM2NS02MzY1MGM1MDQ3ZjguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1_WpGNEoUsjyWcn2KYikviZ6JDaz9TYtG7z0ScsNpjM" group-logo="https://elfann.com/i/large/5252798_1740475978.jpg" group-title="M B C", Mbc Plus +
-#STN-STREAM:{"streamId":"primary2","url":"","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/216272","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="" tvg-name="mbc famliy" tvg-logo="https://vid.alarabiya.net/images/2014/07/31/19675266-b896-49fe-a66e-a25d0ba33ffe/19675266-b896-49fe-a66e-a25d0ba33ffe_16x9_1200x676.jpg" group-title="M B C", Mbc Family +
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/413808.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -1062,7 +1068,7 @@
 
 
 #EXTINF:-1 tvg-id="1443834" tvg-name="COCOMELON AR" tvg-logo="https://go4.pw/ARABE/COCOMELON.png" group-title="قنوات الأطفال", COCOMELON AR
-#STN-STREAM:{"streamId":"primary","url":"","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1387899&extension=ts&play_token=ooZwQ8XSdk
 
 #EXTINF:-1 tvg-id="1443837" tvg-name="MR BEAN" tvg-logo="https://go4.pw/ARABE/MRBEANKIDS.png" group-title="قنوات الأطفال", MR BEAN
 #STN-STREAM:{"streamId":"primary","url":"","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -1363,25 +1369,31 @@
 #EXTINF:-1 tvg-id="" tvg-name="AR- Alwan Turkey FHD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/alwan-sport.png" group-title="ALWAN ENTERTAINMENT", Alwan Turkey
 #STN-STREAM:{"streamId":"primary4","url":"http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936499","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1339244.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/232621","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="" tvg-name="AR- Alwan Aflam 1 FHD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/alwan-sport.png" group-title="ALWAN ENTERTAINMENT", Alwan Aflam 1
 #STN-STREAM:{"streamId":"primary4","url":"http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936504","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1339245.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/232614","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="" tvg-name="AR- Alwan Aflam 2 FHD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/alwan-sport.png" group-title="ALWAN ENTERTAINMENT", Alwan Aflam 2
 #STN-STREAM:{"streamId":"primary4","url":"http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936503","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1339246.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/232615","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="" tvg-name="AR- Alwan Aflam 3 FHD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/alwan-sport.png" group-title="ALWAN ENTERTAINMENT", Alwan Aflam 3
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1339247.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/232616","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="" tvg-name="AR- Alwan Aflam 4 FHD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/alwan-sport.png" group-title="ALWAN ENTERTAINMENT", Alwan Aflam 4
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1339248.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/232617","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 
 #EXTINF:-1 tvg-id="" tvg-name="AR- Alwan Alwathaeqye FHD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/alwan-sport.png" group-title="ALWAN ENTERTAINMENT", Alwan Alwathaeqye
 #STN-STREAM:{"streamId":"primary4","url":"http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936502","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1339238.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/232618","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="" tvg-name="AR- Alwan Atfal FHD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/alwan-sport.png" group-title="ALWAN ENTERTAINMENT",  Alwan Atfal
 #STN-STREAM:{"streamId":"primary4","url":"http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936501","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -1390,18 +1402,26 @@
 #EXTINF:-1 tvg-id="" tvg-name="AR- Alwan Mosalsalat FHD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/alwan-sport.png" group-title="ALWAN ENTERTAINMENT",  Alwan Mosalsalat
 #STN-STREAM:{"streamId":"primary4","url":"http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/1936500","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1339242.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/232620","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="" tvg-name="AR- Alwan Mosalsalat+ FHD" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/alwan-sport.png" group-title="ALWAN ENTERTAINMENT",  Alwan Mosalsalat+
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1339243.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/232625","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="" tvg-name="ALWAN ANIME 4K" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/alwan-sport.png" group-title="ALWAN ENTERTAINMENT", ALWAN ANIME 
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1339236.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #EXTINF:-1 tvg-id="" tvg-name="ALWAN AGHANI 4K" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/alwan-sport.png" group-title="ALWAN ENTERTAINMENT", ALWAN AGHANI
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1339239.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/232622","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 #EXTINF:-1 tvg-id="" tvg-name="ALWAN KOREA 4K" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/alwan-sport.png" group-title="ALWAN ENTERTAINMENT", ALWAN KOREA
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1339240.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/232624","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 #EXTINF:-1 tvg-id="" tvg-name="ALWAN BOLLYWOOD 4K" tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/alwan-sport.png" group-title="ALWAN ENTERTAINMENT", ALWAN BOLLYWOOD
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1339241.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/232623","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 
 
 
@@ -1746,6 +1766,8 @@
 #EXTINF:-1 tvg-id="" tvg-name="arabicia" tvg-logo="https://play-lh.googleusercontent.com/2RF0w3cx_Qg5jEZoK0TvdepK8fvD852a64fS6d0Wwcg-rm63UGBQ6_HOiRhz0_Dou-zCIr5kISUPsMtYai7nEdg" group-title="القنوات المصرية", Arabica
 #STN-STREAM:{"streamId":"primary","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/414075.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
+#EXTINF:-1 tvg-id="" tvg-name="DUBAI ONE" tvg-logo="" group-title="القنوات المصرية", DUBAI ONE
+http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/745
 
 #EXTINF:-1 tvg-id="" tvg-name="Mix Hollywood" tvg-logo="https://cdn.telfazalive.com/channels/images/mix-hollywood-live-streaming-online-image-1f1ad874.png" group-logo="https://www.alghad.tv/image/716/493/2022-10/%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="القنوات المصرية", Mix Hollywood
 #STN-STREAM:{"streamId":"primary","url":"https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -2182,22 +2204,43 @@
 
 #EXTINF:-1 tvg-id="834408" tvg-name="SOLO DRAMA" tvg-logo="https://www.nexles.com/artikels/wp-content/uploads/2017/11/Solo-logo.jpg" group-logo="https://www.nexles.com/artikels/wp-content/uploads/2017/11/Solo-logo.jpg" group-title="SOLO VIP", SOLO DRAMA
 #STN-STREAM:{"streamId":"primary","url":"http://sa.xurvani.cfd:80/564500400/3839746022/834408","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/239603","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 #EXTINF:-1 tvg-id="834407" tvg-name="SOLO NEW" tvg-logo="https://www.nexles.com/artikels/wp-content/uploads/2017/11/Solo-logo.jpg" group-title="SOLO VIP", SOLO NEW
 #STN-STREAM:{"streamId":"primary","url":"http://sa.xurvani.cfd:80/564500400/3839746022/834407","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-name="SOLO KIDS" tvg-logo="https://www.nexles.com/artikels/wp-content/uploads/2017/11/Solo-logo.jpg" group-title="SOLO VIP", SOLO KIDS
+#STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/239604","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+
 #EXTINF:-1 tvg-id="834406" tvg-name="SOLO MOVIES" tvg-logo="https://www.nexles.com/artikels/wp-content/uploads/2017/11/Solo-logo.jpg" group-title="SOLO VIP", SOLO MOVIES
 #STN-STREAM:{"streamId":"primary","url":"http://sa.xurvani.cfd:80/564500400/3839746022/834406","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/239605","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 #EXTINF:-1 tvg-id="834405" tvg-name="SOLO Documentary" tvg-logo="https://www.nexles.com/artikels/wp-content/uploads/2017/11/Solo-logo.jpg" group-title="SOLO VIP", SOLO Documentary
 #STN-STREAM:{"streamId":"primary","url":"http://sa.xurvani.cfd:80/564500400/3839746022/834405","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/239607","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 #EXTINF:-1 tvg-id="834404" tvg-name="SOLO ACTION" tvg-logo="https://www.nexles.com/artikels/wp-content/uploads/2017/11/Solo-logo.jpg" group-title="SOLO VIP", SOLO ACTION
 #STN-STREAM:{"streamId":"primary","url":"http://sa.xurvani.cfd:80/564500400/3839746022/834404","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/239608","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 #EXTINF:-1 tvg-id="834403" tvg-name="SOLO COMDEY" tvg-logo="https://www.nexles.com/artikels/wp-content/uploads/2017/11/Solo-logo.jpg" group-title="SOLO VIP", SOLO COMDEY
 #STN-STREAM:{"streamId":"primary","url":"http://sa.xurvani.cfd:80/564500400/3839746022/834403","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/239609","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 #EXTINF:-1 tvg-id="834402" tvg-name="SOLO HORROR" tvg-logo="https://www.nexles.com/artikels/wp-content/uploads/2017/11/Solo-logo.jpg" group-title="SOLO VIP", SOLO HORROR
 #STN-STREAM:{"streamId":"primary","url":"http://sa.xurvani.cfd:80/564500400/3839746022/834402","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/239640","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 #EXTINF:-1 tvg-id="834401" tvg-name="SOLO POP UP" tvg-logo="https://www.nexles.com/artikels/wp-content/uploads/2017/11/Solo-logo.jpg" group-title="SOLO VIP", SOLO POP UP
 #STN-STREAM:{"streamId":"primary","url":"http://sa.xurvani.cfd:80/564500400/3839746022/834401","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/239641","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 #EXTINF:-1 tvg-id="834400" tvg-name="SOLO TURKEY" tvg-logo="https://www.nexles.com/artikels/wp-content/uploads/2017/11/Solo-logo.jpg" group-title="SOLO VIP", SOLO TURKEY
 #STN-STREAM:{"streamId":"primary","url":"http://sa.xurvani.cfd:80/564500400/3839746022/834400","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/239606","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 #EXTINF:-1 tvg-id="834399" tvg-name="SOLO حريم سلطان" tvg-logo="https://www.nexles.com/artikels/wp-content/uploads/2017/11/Solo-logo.jpg" group-title="SOLO VIP", SOLO حريم سلطان
 #STN-STREAM:{"streamId":"primary","url":"http://sa.xurvani.cfd:80/564500400/3839746022/834399","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #EXTINF:-1 tvg-id="834398" tvg-name="SOLO مؤسس عثمان" tvg-logo="https://www.nexles.com/artikels/wp-content/uploads/2017/11/Solo-logo.jpg" group-title="SOLO VIP", SOLO مؤسس عثمان
@@ -2256,6 +2299,55 @@
 #STN-STREAM:{"streamId":"primary","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/440786.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/axa5054.jpg" group-title="AXA Channels",AXA Kids 
 #STN-STREAM:{"streamId":"primary","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/440785.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+#EXTINF:-1 tvg-id="" tvg-name="X | SCi-Fi 1" tvg-logo="https://www.alweeam.com.sa/wp-content/uploads/2023/09/image-1.jpg" group-logo="https://www.alweeam.com.sa/wp-content/uploads/2023/09/image-1.jpg" group-title="X Channals", X | SCi-Fi 1
+http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/234791
+#EXTINF:-1 tvg-id="" tvg-name="X | CRiME 2" tvg-logo="https://www.alweeam.com.sa/wp-content/uploads/2023/09/image-1.jpg" group-title="X Channals", X | CRiME 2
+http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/234792
+#EXTINF:-1 tvg-id="" tvg-name="X | MOViE AR" tvg-logo="https://www.alweeam.com.sa/wp-content/uploads/2023/09/image-1.jpg" group-title="X Channals", X | MOViE AR
+http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/234793
+#EXTINF:-1 tvg-id="" tvg-name="X | ACTiON" tvg-logo="https://www.alweeam.com.sa/wp-content/uploads/2023/09/image-1.jpg" group-title="X Channals", X | ACTiON
+http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/234794
+#EXTINF:-1 tvg-id="" tvg-name="X | CARTOON" tvg-logo="https://www.alweeam.com.sa/wp-content/uploads/2023/09/image-1.jpg" group-title="X Channals", X | CARTOON
+http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/234795
+#EXTINF:-1 tvg-id="" tvg-name="X | CiNEMA" tvg-logo="https://www.alweeam.com.sa/wp-content/uploads/2023/09/image-1.jpg" group-title="X Channals", X | CiNEMA
+http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/234796
+#EXTINF:-1 tvg-id="" tvg-name="X | CLASSiC" tvg-logo="https://www.alweeam.com.sa/wp-content/uploads/2023/09/image-1.jpg" group-title="X Channals", X | CLASSiC
+http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/234797
+#EXTINF:-1 tvg-id="" tvg-name="X | CRiME" tvg-logo="https://www.alweeam.com.sa/wp-content/uploads/2023/09/image-1.jpg" group-title="X Channals", X | CRiME
+http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/234798
+#EXTINF:-1 tvg-id="" tvg-name="X | iNDiAN 1" tvg-logo="https://www.alweeam.com.sa/wp-content/uploads/2023/09/image-1.jpg" group-title="X Channals", X | iNDiAN 1
+http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/234799
+#EXTINF:-1 tvg-id="" tvg-name="X | MOViE ARABIC" tvg-logo="https://www.alweeam.com.sa/wp-content/uploads/2023/09/image-1.jpg" group-title="X Channals", X | MOViE ARABIC
+http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/234800
+#EXTINF:-1 tvg-id="" tvg-name="X | MOViE ENGLISH" tvg-logo="https://www.alweeam.com.sa/wp-content/uploads/2023/09/image-1.jpg" group-title="X Channals", X | MOViE ENGLISH
+http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/234801
+#EXTINF:-1 tvg-id="" tvg-name="X | SCi-Fi" tvg-logo="https://www.alweeam.com.sa/wp-content/uploads/2023/09/image-1.jpg" group-title="X Channals", X | SCi-Fi
+http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/234802
+#EXTINF:-1 tvg-id="" tvg-name="X | WAR" tvg-logo="https://www.alweeam.com.sa/wp-content/uploads/2023/09/image-1.jpg" group-title="X Channals", X | WAR
+http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/234803
+#EXTINF:-1 tvg-id="" tvg-name="X | WWE" tvg-logo="https://www.alweeam.com.sa/wp-content/uploads/2023/09/image-1.jpg" group-title="X Channals", X | WWE
+http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/234804
+#EXTINF:-1 tvg-id="" tvg-name="MOON | ANiME" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0s-raIgX0coaxGBH0t0CrYfvuLPD_EJgleYX_OnO49mcQBBJBKMEXO2Qv&s=10" group-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0s-raIgX0coaxGBH0t0CrYfvuLPD_EJgleYX_OnO49mcQBBJBKMEXO2Qv&s=10" group-title="Moon Channals", MOON | ANiME
+http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/234805
+#EXTINF:-1 tvg-id="" tvg-name="MOON | ACTiON" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0s-raIgX0coaxGBH0t0CrYfvuLPD_EJgleYX_OnO49mcQBBJBKMEXO2Qv&s=10" group-title="Moon Channals", MOON | ACTiON
+http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/234806
+#EXTINF:-1 tvg-id="" tvg-name="MOON | ARABiC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0s-raIgX0coaxGBH0t0CrYfvuLPD_EJgleYX_OnO49mcQBBJBKMEXO2Qv&s=10" group-title="Moon Channals", MOON | ARABiC
+http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/234807
+#EXTINF:-1 tvg-id="" tvg-name="MOON | HORROR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0s-raIgX0coaxGBH0t0CrYfvuLPD_EJgleYX_OnO49mcQBBJBKMEXO2Qv&s=10" group-title="Moon Channals", MOON | HORROR
+http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/234808
+#EXTINF:-1 tvg-id="" tvg-name="MOON | KiDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0s-raIgX0coaxGBH0t0CrYfvuLPD_EJgleYX_OnO49mcQBBJBKMEXO2Qv&s=10" group-title="Moon Channals", MOON | KiDS
+http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/234809
+#EXTINF:-1 tvg-id="" tvg-name="MOON | MASRAH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0s-raIgX0coaxGBH0t0CrYfvuLPD_EJgleYX_OnO49mcQBBJBKMEXO2Qv&s=10" group-title="Moon Channals", MOON | MASRAH
+http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/234810
+#EXTINF:-1 tvg-id="" tvg-name="MOON | MOViES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0s-raIgX0coaxGBH0t0CrYfvuLPD_EJgleYX_OnO49mcQBBJBKMEXO2Qv&s=10" group-title="Moon Channals", MOON | MOViES
+http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/234811
+#EXTINF:-1 tvg-id="" tvg-name="MOON | SCi-Fi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0s-raIgX0coaxGBH0t0CrYfvuLPD_EJgleYX_OnO49mcQBBJBKMEXO2Qv&s=10" group-title="Moon Channals", MOON | SCi-Fi
+http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/234812
+#EXTINF:-1 tvg-id="" tvg-name="MOON | SERiES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0s-raIgX0coaxGBH0t0CrYfvuLPD_EJgleYX_OnO49mcQBBJBKMEXO2Qv&s=10" group-title="Moon Channals", MOON | SERiES
+http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/234813
+#EXTINF:-1 tvg-id="" tvg-name="MOON | WWE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0s-raIgX0coaxGBH0t0CrYfvuLPD_EJgleYX_OnO49mcQBBJBKMEXO2Qv&s=10" group-title="Moon Channals", MOON | WWE
+http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/234814
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.vecteezy.com/system/resources/previews/007/461/138/non_2x/simple-box-logo-with-creative-icon-vector.jpg" group-logo="https://static.vecteezy.com/system/resources/previews/007/461/138/non_2x/simple-box-logo-with-creative-icon-vector.jpg" group-title="BOX Channels",Box Aflam 1

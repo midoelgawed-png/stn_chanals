@@ -339,14 +339,17 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="THMANYAH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn9h6N3FWv9nNOa0hSWPYNi9E5ZMQ3lDUGld0isWyWgw&s=10" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn9h6N3FWv9nNOa0hSWPYNi9E5ZMQ3lDUGld0isWyWgw&s=10" group-title="THMANYAH", THMANYAH 1 
 #STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/3455_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://185.191.126.127:8080/live//0566084413/1394394776132208/429516.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 
 #EXTINF:-1 tvg-id="" tvg-name="THMANYAH2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn9h6N3FWv9nNOa0hSWPYNi9E5ZMQ3lDUGld0isWyWgw&s=10" group-title="THMANYAH", THMANYAH 2
 #STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/3454_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://185.191.126.127:8080/live//0566084413/1394394776132208/429517.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 
 #EXTINF:-1 tvg-id="" tvg-name="THMANYAH3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn9h6N3FWv9nNOa0hSWPYNi9E5ZMQ3lDUGld0isWyWgw&s=10" group-title="THMANYAH", THMANYAH 3
 #STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/3453_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://185.191.126.127:8080/live//0566084413/1394394776132208/429518.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ALKAS1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOUPt8PyHHurQwb_ayrvZYycKZcOu49z2qA9D8tUDHIqtWQPMxQnzPeOqP&s=10" group-logo="https://images.alkass.net/newsimages/large_20191014203827_1571074707.74.jpg" group-title="ALKASS", ALKASS ONE
@@ -437,6 +440,7 @@
 #STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/78365.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="1123471" tvg-name="AD SPORTS 1 HEVC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ35Rrco-bZiupRjz0x4ynV6pmnR-XVUYuoRuBxoQAT8z4LyZ7-kvLwwTw&s=10" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ35Rrco-bZiupRjz0x4ynV6pmnR-XVUYuoRuBxoQAT8z4LyZ7-kvLwwTw&s=10" group-title="ABU DHABI SPORTS", AD SPORTS 1 
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1142_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1167471.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/472516.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/975106.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -447,6 +451,7 @@
 #STN-STREAM:{"streamId":"primary7","url":"http://utrecht.euro24.vip:80/4c:57:39:3d:cf:d5/3wwuw6pfm7/957293","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="1123472" tvg-name="AD SPORTS 2 HEVC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ35Rrco-bZiupRjz0x4ynV6pmnR-XVUYuoRuBxoQAT8z4LyZ7-kvLwwTw&s=10" group-title="ABU DHABI SPORTS", AD SPORTS 2 
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1141_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/1123472.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/472517.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/975105.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -616,6 +621,7 @@
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/472686.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://sa.xurvani.cfd:80/564500400/3839746022/725890","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
+
 #EXTINF:-1 tvg-id="" tvg-name="OSN  Showcase Classics" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2025/01/OSNtv-Showcase-classic-494-wob.png" group-title="OSN", OSN  Showcase Classics
 #STN-STREAM:{"streamId":"primary","url":"http://sa.xurvani.cfd:80/564500400/3839746022/725889","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
@@ -738,6 +744,8 @@
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/472653.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://sa.xurvani.cfd:80/564500400/3839746022/725903","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/981.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://my98858.site:2082/live/893963693051/bHksg68fwnri8/1711.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+ 
 
 #EXTINF:-1 tvg-id="" tvg-name="ART HEKAYAT2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxM1AGvjjnttES5CA0Y9plNNNEPxNpU2E_1Qw9haSS&s=10" group-title="ART", ART Hekayat 2
 #STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1830_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -746,6 +754,10 @@
 #STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/738Y3W4BA3A2E5D/hvus70PT3U/108001","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://sa.xurvani.cfd:80/564500400/3839746022/725902","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1834_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://my98858.site:2082/live/893963693051/bHksg68fwnri8/1710.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="ART AFLAM 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrhvthx4TEQSKa-Oes7YjIlksymMCuYCPF5bZJ68RHXQ&s=10" group-title="ART", ART AFLAM 1
 #STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1833_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -753,6 +765,10 @@
 #STN-STREAM:{"streamId":"primary2","url":"http://pro.netmos.ovh:7355/live/PR2055477969542/5230682660068/111398.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/984.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://sa.xurvani.cfd:80/564500400/3839746022/725906","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://my98858.site:2082/live/893963693051/bHksg68fwnri8/1714.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="ART AFLAM 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNL_wH1NR3AzRjZOXb-nB0dyfgmclAHHnqvAQbR5AvBg&s=10" group-title="ART", ART AFLAM 2
 #STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1832_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -761,6 +777,9 @@
 #STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/983.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/DT33ZSW2JHP3U1M/DVYS2efUiw/48933","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://sa.xurvani.cfd:80/564500400/3839746022/725905","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://my98858.site:2082/live/893963693051/bHksg68fwnri8/1713.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="ART cinema" tvg-logo="https://www.sources-tv.com/wp-content/uploads/2020/09/art-cinema-200.jpg" group-title="ART", ART CINEMA
 #STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/982.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -813,6 +832,7 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVaqHn0eal82YVdxYJcdSyHr6w_EKpZOoefabelYv49ecONxIDSUequfM&s=10" group-logo="https://elfann.com/i/large/5252798_1740475978.jpg" group-title="M B C",MBC 2
 #STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1651_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1662_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://185.191.126.127:8080/live//0566084413/1394394776132208/45168.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://dasifnz3.otttv.pw/iptv/ZASGRTFYHX4RT9/15198/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary3","url":"https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -944,15 +964,19 @@ http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/215355
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/188e0cc5-a186-4604-90d3-bd00800cb28d.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVDlwVxRuq8-B4HxuPzLw-JVxACIAijTV_RMJ2Um_V7frBS_ENY6PFHD4&s=10" group-title="ROTANA",Rotana Aflam+
 #STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1676_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://185.191.126.127:8080/live//0566084413/1394394776132208/97854.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/bbeea3c7-1af2-4992-b48e-07ae7a7bd14c.png" group-title="ROTANA",Rotana Cinema 
 #STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1670_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://185.191.126.127:8080/live//0566084413/1394394776132208/97856.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://pro.netmos.ovh:7355/live/PR2055477969542/5230682660068/792.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://185.9.2.18/chid_288/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://100main.cc:80/DT33ZSW2JHP3U1M/DVYS2efUiw/21267.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.elwatannews.com/media/img/mediaarc/large/20775690791627297271.jpg" group-title="ROTANA",Rotana Cinema Ksa
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx6TFPvw8UtHmloW5CY0hOHkkPuUNCW1BRoF_pkqBxI_0R0eh7HAOeaO3V&s=10" group-title="ROTANA",Rotana Cinema Ksa
 #STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1671_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/72824bdb-974b-42f9-849f-d44ead0733f9.png" group-title="ROTANA",Rotana Classic 
 #STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1669_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -961,6 +985,7 @@ http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/215355
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkweGtDBAgTE9CQMyi_WslwqZ-V12e2qXWXzqtmDeipc9DdfjnXzZRWs0&s=10" group-title="ROTANA",ROTANA COMEDY 
 #STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1673_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://185.191.126.127:8080/live//0566084413/1394394776132208/97855.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/472501.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"http://185.9.2.18/chid_5224/mono.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary2","url":"https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/rotana/comedy_240p/chunks.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -986,6 +1011,8 @@ http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/215355
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/1FUQZm9Rf_E/maxresdefault.jpg" group-title="ROTANA",ROTANA KIDS 
 #STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1672_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://185.191.126.127:8080/live//0566084413/1394394776132208/97852.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 
 #EXTINF:-1 tvg-id="" tvg-name="STARZ Horror HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShAd5hZAcAJQCK752PdBbD6e4cXFmelvJaThb6w6s7uhPgDgogQiNCW5U&s=10" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShAd5hZAcAJQCK752PdBbD6e4cXFmelvJaThb6w6s7uhPgDgogQiNCW5U&s=10" group-title="STARZ Entertainment", STARZ Horror HD
 #STN-STREAM:{"streamId":"primary2","url":"https://blc2cr.linkip.org/live/90160_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -1045,6 +1072,8 @@ http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/215355
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/1FUQZm9Rf_E/maxresdefault.jpg" group-title="قنوات الأطفال",ROTANA KIDS 
 #STN-STREAM:{"streamId":"primary2","url":"https://blcco.linkip.org/live/1672_.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary2","url":"http://185.191.126.127:8080/live//0566084413/1394394776132208/97852.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 
 #EXTINF:-1 tvg-id="929520" tvg-name="COOKIES KIDS HD" tvg-logo="https://go4.pw/ARABE/COOKIESKIDS.png" group-title="قنوات الأطفال", COOKIES KIDS HD
 #STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/live/6V98D4A85QK4S7L/xS5txcwLg0/929520.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -1231,6 +1260,9 @@ http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1387899&exte
 #STN-STREAM:{"streamId":"primary","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/319679.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/319694.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://sa.xurvani.cfd:80/564500400/3839746022/196050","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://185.191.126.127:8080/live//0566084413/1394394776132208/319679.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#STN-STREAM:{"streamId":"primary","url":"http://185.191.126.127:8080/live//0566084413/1394394776132208/319694.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN FOX ACTION MOVIES HD" tvg-logo="https://media0106.elcinema.com/tvguide/1330_1.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZD8hb6HqL3S3fTiDjAqazafkikInGQC1EzNIFdTGig&s=1" group-title="BEIN ENTERTAINMENT", STAR ACTION
@@ -1778,9 +1810,13 @@ http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1387899&exte
 #EXTINF:-1 tvg-id="",tvg-name="ALSHASHA 3",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoYsrh0WKKz6dkH0-oMhTk3V6L5X41hJmucYsBbTQJLyxZ_ZFCU2dVAVlD&s=10",group-title="القنوات المصرية", الشاشة دراما
 #STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/606138.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
+#EXTINF:-1 tvg-id="",tvg-name="MELODEY 11",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4GlgvQP9vqwKn4HxSbp78bZFYtlY83eeQqp7YvK7rEw&s=10",group-title="القنوات المصرية", ميلودي افلام
+#STN-STREAM:{"streamId":"primary","url":"https://blcco.linkip.org/live/1578_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+
+
 #EXTINF:-1 tvg-id="",tvg-name="MELODEY 1",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQepAxWmJ72_KOTPfO9VsBaYrJz_-Xe9AEr4t2Zmh-YtqD_GlwJpdb0_fok&s=10",group-title="القنوات المصرية", ميلودي كلاسيك
 #STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/822.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-
+#STN-STREAM:{"streamId":"primary","url":"http://100main.cc:80/DT33ZSW2JHP3U1M/DVYS2efUiw/822","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
 #EXTINF:-1 tvg-id="",tvg-name="MELODEY 2",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG0pytVzKFi7WdWcdWlsfH8i0HSo0CMrve0jZom_e-HMdPMv7xEVb4WQo&s=10",group-title="القنوات المصرية", ميلودي دراما
 #STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/606119.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -2493,58 +2529,32 @@ http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/234814
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY_PIW7cxXd2o2kk9mGtgfEHXaYji5zPwDqs5okIFUWQ&s=10"  group-title="قنوات الاسطورة", الاسطورة تركي مدبلج
 #STN-STREAM:{"streamId":"primary","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/472705.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/64df3030-20de-4299-b66b-284800def100.png" group-logo="https://play-lh.googleusercontent.com/Vn9Z3_cnR0BfkiPxPJIdOw_k_qYYYpGuAstYtPzQeMoPgHJICRgxXorAuhTCTWiIKm1Ft-JNqrk4pUDSB6vO7KA" group-title="منصة واجد",افــــــلام FHD
-#STN-STREAM:{"streamId":"primary","url":"https://chwide03-i.akamaihd.net/aflam/abr_live/aflam/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d41858c99a4967d40091b","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/88f2e643-1fb1-41a3-b243-ad56341b14f7.png" group-logo="http://widget.ottplayer.tv/upictures/64df3030-20de-4299-b66b-284800def100.png" group-title="منصة واجد",افـلام كـلاسـيـك FHD
-#STN-STREAM:{"streamId":"primary","url":"https://chwide03-i.akamaihd.net/classic/abr_live/classic/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d4185845914a1e60f1d1f","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/8196f632-2ffb-4c90-b39a-2069eed2e665.png" group-logo="http://widget.ottplayer.tv/upictures/64df3030-20de-4299-b66b-284800def100.png" group-title="منصة واجد",افـلام اسـمـاعـيـل يـس FHD
-#STN-STREAM:{"streamId":"primary","url":"https://chwide03-i.akamaihd.net/ismail_yasin/abr_live/ismail_yasin/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d41855421d37397753eef","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/89d9d64a-dab9-4f0c-ae18-11e8522f9f02.png" group-logo="http://widget.ottplayer.tv/upictures/64df3030-20de-4299-b66b-284800def100.png" group-title="منصة واجد",أفـلام مـصـريـة FHD
-#STN-STREAM:{"streamId":"primary","url":"https://707a7c76e6034ca9aba47e6eed3d5a8b.mediatailor.eu-west-1.amazonaws.com/v1/manifest/065e37dd36f6dc7043679a61592f17340f3617b6/amagi-now-prod-live-hls-web-prerolls/6b36c5f5-e1a5-446c-848f-2f535cfa2573/0.m3u8?aws.manifestfilter=video_height:144-720;","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="",tvg-name="abc_drama",tvg-logo="https://play-lh.googleusercontent.com/Vn9Z3_cnR0BfkiPxPJIdOw_k_qYYYpGuAstYtPzQeMoPgHJICRgxXorAuhTCTWiIKm1Ft-JNqrk4pUDSB6vO7KA",group-title="منصة واجد",abc_drama
-#STN-STREAM:{"streamId":"primary","url":"https://chwide07-i.akamaihd.net/abc_drama/abr_live/abc_drama/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d4185c7ed5986290cabd5","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="",tvg-name="Action",tvg-logo="https://play-lh.googleusercontent.com/Vn9Z3_cnR0BfkiPxPJIdOw_k_qYYYpGuAstYtPzQeMoPgHJICRgxXorAuhTCTWiIKm1Ft-JNqrk4pUDSB6vO7KA",group-title="منصة واجد",Action
-#STN-STREAM:{"streamId":"primary","url":"https://chwide05-i.akamaihd.net/akshin/abr_live/akshin/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d41851a09d756eb1c929c","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="",tvg-name="Aflam",tvg-logo="https://play-lh.googleusercontent.com/Vn9Z3_cnR0BfkiPxPJIdOw_k_qYYYpGuAstYtPzQeMoPgHJICRgxXorAuhTCTWiIKm1Ft-JNqrk4pUDSB6vO7KA",group-title="منصة واجد",Aflam
-#STN-STREAM:{"streamId":"primary","url":"https://chwide03-i.akamaihd.net/aflam/abr_live/aflam/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d41858c99a4967d40091b","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="",tvg-name="al_zaeem",tvg-logo="https://play-lh.googleusercontent.com/Vn9Z3_cnR0BfkiPxPJIdOw_k_qYYYpGuAstYtPzQeMoPgHJICRgxXorAuhTCTWiIKm1Ft-JNqrk4pUDSB6vO7KA",group-title="منصة واجد",al_zaeem
-#STN-STREAM:{"streamId":"primary","url":"https://chwide02-i.akamaihd.net/al_zaeem/abr_live/al_zaeem/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d4185b8bc6cb8cf55886d","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="",tvg-name="bab_alhara",tvg-logo="https://play-lh.googleusercontent.com/Vn9Z3_cnR0BfkiPxPJIdOw_k_qYYYpGuAstYtPzQeMoPgHJICRgxXorAuhTCTWiIKm1Ft-JNqrk4pUDSB6vO7KA",group-title="منصة واجد",bab_alhara
-#STN-STREAM:{"streamId":"primary","url":"https://chwide03-i.akamaihd.net/bab_alhara/abr_live/bab_alhara/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d41855a7d939f8ecb76f7","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="",tvg-name="badaweyat",tvg-logo="https://play-lh.googleusercontent.com/Vn9Z3_cnR0BfkiPxPJIdOw_k_qYYYpGuAstYtPzQeMoPgHJICRgxXorAuhTCTWiIKm1Ft-JNqrk4pUDSB6vO7KA",group-title="منصة واجد",badaweyat
-#STN-STREAM:{"streamId":"primary","url":"https://chwide05-i.akamaihd.net/badaweyat/abr_live/badaweyat/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d4185712f2c862e77ee38","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="",tvg-name="Classic",tvg-logo="https://play-lh.googleusercontent.com/Vn9Z3_cnR0BfkiPxPJIdOw_k_qYYYpGuAstYtPzQeMoPgHJICRgxXorAuhTCTWiIKm1Ft-JNqrk4pUDSB6vO7KA",group-title="منصة واجد",Classic
-#STN-STREAM:{"streamId":"primary","url":"https://chwide03-i.akamaihd.net/classic/abr_live/classic/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d4185845914a1e60f1d1f","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="",tvg-name="Comedy",tvg-logo="https://play-lh.googleusercontent.com/Vn9Z3_cnR0BfkiPxPJIdOw_k_qYYYpGuAstYtPzQeMoPgHJICRgxXorAuhTCTWiIKm1Ft-JNqrk4pUDSB6vO7KA",group-title="منصة واجد",Comedy
-#STN-STREAM:{"streamId":"primary","url":"https://chwide02-i.akamaihd.net/comedy/abr_live/comedy/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d41857ca0239daa1ea074","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="",tvg-name="drama_plus",tvg-logo="https://play-lh.googleusercontent.com/Vn9Z3_cnR0BfkiPxPJIdOw_k_qYYYpGuAstYtPzQeMoPgHJICRgxXorAuhTCTWiIKm1Ft-JNqrk4pUDSB6vO7KA",group-title="منصة واجد",drama_plus
-#STN-STREAM:{"streamId":"primary","url":"https://chwide07-i.akamaihd.net/drama_plus/abr_live/drama_plus/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d41854cff0f85bccc9ef9","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="",tvg-name="hakayat",tvg-logo="https://play-lh.googleusercontent.com/Vn9Z3_cnR0BfkiPxPJIdOw_k_qYYYpGuAstYtPzQeMoPgHJICRgxXorAuhTCTWiIKm1Ft-JNqrk4pUDSB6vO7KA",group-title="منصة واجد",hakayat
-#STN-STREAM:{"streamId":"primary","url":"https://chwide05-i.akamaihd.net/hakayat/abr_live/hakayat/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d4185ae0a22a66c9322ff","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="",tvg-name="heyawhowa",tvg-logo="https://play-lh.googleusercontent.com/Vn9Z3_cnR0BfkiPxPJIdOw_k_qYYYpGuAstYtPzQeMoPgHJICRgxXorAuhTCTWiIKm1Ft-JNqrk4pUDSB6vO7KA",group-title="منصة واجد",heyawhowa
-#STN-STREAM:{"streamId":"primary","url":"https://chwide07-i.akamaihd.net/heyawhowa/abr_live/heyawhowa/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d418550a73d2b99a43857","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="",tvg-name="ismail_yasin",tvg-logo="https://play-lh.googleusercontent.com/Vn9Z3_cnR0BfkiPxPJIdOw_k_qYYYpGuAstYtPzQeMoPgHJICRgxXorAuhTCTWiIKm1Ft-JNqrk4pUDSB6vO7KA",group-title="منصة واجد",ismail_yasin
-#STN-STREAM:{"streamId":"primary","url":"https://chwide03-i.akamaihd.net/ismail_yasin/abr_live/ismail_yasin/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d41855421d37397753eef","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="",tvg-name="khalijiyat",tvg-logo="https://play-lh.googleusercontent.com/Vn9Z3_cnR0BfkiPxPJIdOw_k_qYYYpGuAstYtPzQeMoPgHJICRgxXorAuhTCTWiIKm1Ft-JNqrk4pUDSB6vO7KA",group-title="منصة واجد",khalijiyat
-#STN-STREAM:{"streamId":"primary","url":"https://chwide02-i.akamaihd.net/khalijiyat/abr_live/khalijiyat/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d418571cb82e08a4effcb","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="",tvg-name="matbakh_dimashqi",tvg-logo="https://play-lh.googleusercontent.com/Vn9Z3_cnR0BfkiPxPJIdOw_k_qYYYpGuAstYtPzQeMoPgHJICRgxXorAuhTCTWiIKm1Ft-JNqrk4pUDSB6vO7KA",group-title="منصة واجد",matbakh_dimashqi
-#STN-STREAM:{"streamId":"primary","url":"https://chwide05-i.akamaihd.net/matbakh_dimashqi/abr_live/matbakh_dimashqi/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d4185168ee8bf70b57bfe","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="",tvg-name="mosalsalat",tvg-logo="https://play-lh.googleusercontent.com/Vn9Z3_cnR0BfkiPxPJIdOw_k_qYYYpGuAstYtPzQeMoPgHJICRgxXorAuhTCTWiIKm1Ft-JNqrk4pUDSB6vO7KA",group-title="منصة واجد",mosalsalat
-#STN-STREAM:{"streamId":"primary","url":"https://chwide03-i.akamaihd.net/mosalsalat/abr_live/mosalsalat/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d4185f7cf031ca5affec7","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="",tvg-name="nasamat_ayloul",tvg-logo="https://play-lh.googleusercontent.com/Vn9Z3_cnR0BfkiPxPJIdOw_k_qYYYpGuAstYtPzQeMoPgHJICRgxXorAuhTCTWiIKm1Ft-JNqrk4pUDSB6vO7KA",group-title="منصة واجد",nasamat_ayloul
-#STN-STREAM:{"streamId":"primary","url":"https://chwide02-i.akamaihd.net/nasamat_ayloul/abr_live/nasamat_ayloul/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d4185355a09d5b4b244cb","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="",tvg-name="nojoom_maser",tvg-logo="https://play-lh.googleusercontent.com/Vn9Z3_cnR0BfkiPxPJIdOw_k_qYYYpGuAstYtPzQeMoPgHJICRgxXorAuhTCTWiIKm1Ft-JNqrk4pUDSB6vO7KA",group-title="منصة واجد",nojoom_maser
-#STN-STREAM:{"streamId":"primary","url":"https://chwide07-i.akamaihd.net/nojoom_maser/abr_live/nojoom_maser/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d4185762bf50798061f4b","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="",tvg-name="shaghaf",tvg-logo="https://play-lh.googleusercontent.com/Vn9Z3_cnR0BfkiPxPJIdOw_k_qYYYpGuAstYtPzQeMoPgHJICRgxXorAuhTCTWiIKm1Ft-JNqrk4pUDSB6vO7KA",group-title="منصة واجد",shaghaf
-#STN-STREAM:{"streamId":"primary","url":"https://chwide05-i.akamaihd.net/shaghaf/abr_live/shaghaf/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d418503eaaf4826ebbe20","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="",tvg-name="sham_plus",tvg-logo="https://play-lh.googleusercontent.com/Vn9Z3_cnR0BfkiPxPJIdOw_k_qYYYpGuAstYtPzQeMoPgHJICRgxXorAuhTCTWiIKm1Ft-JNqrk4pUDSB6vO7KA",group-title="منصة واجد",sham_plus
-#STN-STREAM:{"streamId":"primary","url":"https://chwide05-i.akamaihd.net/sham_plus/abr_live/sham_plus/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d4185a1b3592729c3d601","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="",tvg-name="shamiyat",tvg-logo="https://play-lh.googleusercontent.com/Vn9Z3_cnR0BfkiPxPJIdOw_k_qYYYpGuAstYtPzQeMoPgHJICRgxXorAuhTCTWiIKm1Ft-JNqrk4pUDSB6vO7KA",group-title="منصة واجد",shamiyat
-#STN-STREAM:{"streamId":"primary","url":"https://chwide03-i.akamaihd.net/shamiyat/abr_live/shamiyat/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d4185afe27709c9567d7b","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="",tvg-name="souad_hosny",tvg-logo="https://play-lh.googleusercontent.com/Vn9Z3_cnR0BfkiPxPJIdOw_k_qYYYpGuAstYtPzQeMoPgHJICRgxXorAuhTCTWiIKm1Ft-JNqrk4pUDSB6vO7KA",group-title="منصة واجد",souad_hosny
-#STN-STREAM:{"streamId":"primary","url":"https://chwide02-i.akamaihd.net/souad_hosny/abr_live/souad_hosny/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d4185b7b88ca7440ce4ad","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="",tvg-name="watan_a_watar",tvg-logo="https://play-lh.googleusercontent.com/Vn9Z3_cnR0BfkiPxPJIdOw_k_qYYYpGuAstYtPzQeMoPgHJICRgxXorAuhTCTWiIKm1Ft-JNqrk4pUDSB6vO7KA",group-title="منصة واجد",watan_a_watar
-#STN-STREAM:{"streamId":"primary","url":"https://chwide02-i.akamaihd.net/watan_a_watar/abr_live/watan_a_watar/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d41857028a3b519b98c96","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRepsznKoS-ikJmQBU1lkKKxJa0Cwim7JTZPYDZuS6l0w&s=10" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRepsznKoS-ikJmQBU1lkKKxJa0Cwim7JTZPYDZuS6l0w&s=10" group-title="قنوات mbc iptv", mbc سينما
+https://blcco.linkip.org/live/887_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRepsznKoS-ikJmQBU1lkKKxJa0Cwim7JTZPYDZuS6l0w&s=10" group-title="قنوات mbc iptv", mbc افلام
+https://blcco.linkip.org/live/889_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRepsznKoS-ikJmQBU1lkKKxJa0Cwim7JTZPYDZuS6l0w&s=10" group-title="قنوات mbc iptv", mbc Movies
+https://blcco.linkip.org/live/893_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRepsznKoS-ikJmQBU1lkKKxJa0Cwim7JTZPYDZuS6l0w&s=10" group-title="قنوات mbc iptv", mbc Horror
+https://blcco.linkip.org/live/888_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRepsznKoS-ikJmQBU1lkKKxJa0Cwim7JTZPYDZuS6l0w&s=10" group-title="قنوات mbc iptv", mbc Prime
+https://blcco.linkip.org/live/892_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRepsznKoS-ikJmQBU1lkKKxJa0Cwim7JTZPYDZuS6l0w&s=10" group-title="قنوات mbc iptv", mbc War
+https://blcco.linkip.org/live/891_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRepsznKoS-ikJmQBU1lkKKxJa0Cwim7JTZPYDZuS6l0w&s=10" group-title="قنوات mbc iptv", mbc Jounior
+https://blcco.linkip.org/live/890_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHtO2kwsjDlFdBqQr8VVnH-9aKk-xojF-55JRJfl_Xcg&s" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHtO2kwsjDlFdBqQr8VVnH-9aKk-xojF-55JRJfl_Xcg&s" group-title="قنوات شوف MAX", MAX شوف
+https://blcco.linkip.org/live/895_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHtO2kwsjDlFdBqQr8VVnH-9aKk-xojF-55JRJfl_Xcg&s" group-title="قنوات شوف MAX", MAX اكشن شوف
+https://blcco.linkip.org/live/896_.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2v2q6vJOUvs33xEbwT4J0MAJvJE9UmeNTW9b9J5R9UmKDyp44xULoiFI&s=10" group-logo="https://yt3.googleusercontent.com/9lQaBAF70QCZdNSNJuuZKgSlwgd6FZ517uFPDj8XQt5VSvaUIOSpLzS6VLkv1kkQ0gbwlOAd2VU=s900-c-k-c0x00ffffff-no-rj" group-title="دروس اون لاين", تعليم قيادة السيارات
 #STN-STREAM:{"streamId":"primary","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/414108.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}

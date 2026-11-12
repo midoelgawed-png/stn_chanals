@@ -2556,6 +2556,21 @@ https://blcco.linkip.org/live/895_.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHtO2kwsjDlFdBqQr8VVnH-9aKk-xojF-55JRJfl_Xcg&s" group-title="قنوات شوف MAX", MAX اكشن شوف
 https://blcco.linkip.org/live/896_.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHtO2kwsjDlFdBqQr8VVnH-9aKk-xojF-55JRJfl_Xcg&s" group-title="قنوات شوف MAX", MAX سينما 1 شوف
+https://blcco.linkip.org/live/898_.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imcxvwnpotllihmocrfa.supabase.co/storage/v1/object/public/apk-files/products-webp/1775076807790.webp" group-logo="https://imcxvwnpotllihmocrfa.supabase.co/storage/v1/object/public/apk-files/products-webp/1775076807790.webp"group-title="قنوات MAX", MAX Kids
+https://blcco.linkip.org/live/899_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imcxvwnpotllihmocrfa.supabase.co/storage/v1/object/public/apk-files/products-webp/1775076807790.webp" group-title="قنوات MAX", MAX ACTION
+https://blcco.linkip.org/live/900_.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHtO2kwsjDlFdBqQr8VVnH-9aKk-xojF-55JRJfl_Xcg&s" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHtO2kwsjDlFdBqQr8VVnH-9aKk-xojF-55JRJfl_Xcg&s" group-title="قنوات شوف MAX", MAX شوف
+https://blcco.linkip.org/live/895_.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2v2q6vJOUvs33xEbwT4J0MAJvJE9UmeNTW9b9J5R9UmKDyp44xULoiFI&s=10" group-logo="https://yt3.googleusercontent.com/9lQaBAF70QCZdNSNJuuZKgSlwgd6FZ517uFPDj8XQt5VSvaUIOSpLzS6VLkv1kkQ0gbwlOAd2VU=s900-c-k-c0x00ffffff-no-rj" group-title="دروس اون لاين", تعليم قيادة السيارات
 #STN-STREAM:{"streamId":"primary","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/414108.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 

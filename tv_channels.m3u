@@ -2291,17 +2291,35 @@ http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/745
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/bea73b5e-5f38-4783-8c61-f77d212efd31.png" group-title="BALANCE TV",مسرح زمان BALANCE  HD
 #STN-STREAM:{"streamId":"primary","url":"https://blc2cr.linkip.org/live/90051_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/8a6aa317-ce1c-4af9-bb13-6630ad27e0da.png" group-logo="http://widget.ottplayer.tv/upictures/8a6aa317-ce1c-4af9-bb13-6630ad27e0da.png" group-title="SHAHID",شـــاهـــد زمــــان HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIRaswOdEUjbw6EtJZljz_2nB_95MbOu36Jw8hDu4bvOgmo_u7apXlf8f4&s=10" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIRaswOdEUjbw6EtJZljz_2nB_95MbOu36Jw8hDu4bvOgmo_u7apXlf8f4&s=10" group-title="SHAHID",شـــاهـــد زمــــان
 #STN-STREAM:{"streamId":"primary","url":"https://blc2cr.linkip.org/live/90082_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/3764da38-17b8-45ca-a1a5-cbd70867d829.png" group-title="SHAHID",شــــاهـــد هـــنــدي HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIRaswOdEUjbw6EtJZljz_2nB_95MbOu36Jw8hDu4bvOgmo_u7apXlf8f4&s=10" group-title="SHAHID",شاهد افلام 1
+https://blcco.linkip.org/live/931_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIRaswOdEUjbw6EtJZljz_2nB_95MbOu36Jw8hDu4bvOgmo_u7apXlf8f4&s=10" group-title="SHAHID",شاهد افلام 2
+https://blcco.linkip.org/live/930_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIRaswOdEUjbw6EtJZljz_2nB_95MbOu36Jw8hDu4bvOgmo_u7apXlf8f4&s=10" group-title="SHAHID",شاهد سينما
+https://blcco.linkip.org/live/929_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIRaswOdEUjbw6EtJZljz_2nB_95MbOu36Jw8hDu4bvOgmo_u7apXlf8f4&s=10" group-title="SHAHID",شاهد اكشن
+https://blcco.linkip.org/live/927_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIRaswOdEUjbw6EtJZljz_2nB_95MbOu36Jw8hDu4bvOgmo_u7apXlf8f4&s=10" group-title="SHAHID",شاهد رعب
+https://blcco.linkip.org/live/926_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIRaswOdEUjbw6EtJZljz_2nB_95MbOu36Jw8hDu4bvOgmo_u7apXlf8f4&s=10" group-title="SHAHID",شــــاهـــد هـــنــدي
 #STN-STREAM:{"streamId":"primary","url":"https://blc2cr.linkip.org/live/90089_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",شاهد مسرح HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIRaswOdEUjbw6EtJZljz_2nB_95MbOu36Jw8hDu4bvOgmo_u7apXlf8f4&s=10" group-title="SHAHID",شاهد مسرح HD
 #STN-STREAM:{"streamId":"primary","url":"https://blc2cr.linkip.org/live/90075_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SHAHID",شاهد مسرح HD الاطفال
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIRaswOdEUjbw6EtJZljz_2nB_95MbOu36Jw8hDu4bvOgmo_u7apXlf8f4&s=10" group-title="SHAHID",شاهد مسرح HD الاطفال
 #STN-STREAM:{"streamId":"primary","url":"https://blc2cr.linkip.org/live/90091_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/a270d6cf-b5b9-49f2-b885-fa9dbb54deb4.png" group-title="SHAHID",شاهد كرتون HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIRaswOdEUjbw6EtJZljz_2nB_95MbOu36Jw8hDu4bvOgmo_u7apXlf8f4&s=10" group-title="SHAHID",شاهد كرتون HD
 #STN-STREAM:{"streamId":"primary","url":"https://blc2cr.linkip.org/live/90084_.m3u8?play=","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIRaswOdEUjbw6EtJZljz_2nB_95MbOu36Jw8hDu4bvOgmo_u7apXlf8f4&s=10" group-title="SHAHID",شاهد كليب HD
+https://blcco.linkip.org/live/925_.m3u8
 
 #EXTINF:-1 tvg-id="834408" tvg-name="SOLO DRAMA" tvg-logo="https://www.nexles.com/artikels/wp-content/uploads/2017/11/Solo-logo.jpg" group-logo="https://www.nexles.com/artikels/wp-content/uploads/2017/11/Solo-logo.jpg" group-title="SOLO VIP", SOLO DRAMA
 #STN-STREAM:{"streamId":"primary","url":"http://sa.xurvani.cfd:80/564500400/3839746022/834408","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
@@ -2567,9 +2585,130 @@ https://blcco.linkip.org/live/899_.m3u8
 https://blcco.linkip.org/live/900_.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHtO2kwsjDlFdBqQr8VVnH-9aKk-xojF-55JRJfl_Xcg&s" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHtO2kwsjDlFdBqQr8VVnH-9aKk-xojF-55JRJfl_Xcg&s" group-title="قنوات شوف MAX", MAX شوف
-https://blcco.linkip.org/live/895_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://imcxvwnpotllihmocrfa.supabase.co/storage/v1/object/public/apk-files/products-webp/1775076807790.webp" group-title="قنوات MAX", MAX DRAMA
+https://blcco.linkip.org/live/902_.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imcxvwnpotllihmocrfa.supabase.co/storage/v1/object/public/apk-files/products-webp/1775076807790.webp" group-title="قنوات MAX", MAX COMEDY
+https://blcco.linkip.org/live/903_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imcxvwnpotllihmocrfa.supabase.co/storage/v1/object/public/apk-files/products-webp/1775076807790.webp" group-title="قنوات MAX", MAX CINEMA
+https://blcco.linkip.org/live/904_.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://familytvservers.com/images/new-logo.png" group-logo="https://familytvservers.com/images/new-logo.png" group-title="قنوات FAMILY", FAMILY HISTORY 2
+https://blcco.linkip.org/live/905_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://familytvservers.com/images/new-logo.png" group-title="قنوات FAMILY", FAMILY مسرحيات 1
+https://blcco.linkip.org/live/909_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://familytvservers.com/images/new-logo.png" group-title="قنوات FAMILY", FAMILY مسرحيات 2
+https://blcco.linkip.org/live/908_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://familytvservers.com/images/new-logo.png" group-title="قنوات FAMILY", FAMILY MOVIES 1
+https://blcco.linkip.org/live/907_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://familytvservers.com/images/new-logo.png" group-title="قنوات FAMILY", FAMILY MOVIES 2
+https://blcco.linkip.org/live/906_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://familytvservers.com/images/new-logo.png" group-title="قنوات FAMILY", FAMILY KIDS 1
+https://blcco.linkip.org/live/911_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://familytvservers.com/images/new-logo.png" group-title="قنوات FAMILY", FAMILY KIDS 2
+https://blcco.linkip.org/live/910_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.aljazeera.net/wp-content/uploads/2017/09/ea1e48f1-52cb-43f4-8695-89e1520f2dd3.jpeg?resize=686%2C513&quality=80" group-logo="https://www.aljazeera.net/wp-content/uploads/2017/09/ea1e48f1-52cb-43f4-8695-89e1520f2dd3.jpeg?resize=686%2C513&quality=80" group-title="قنوات beoutQ", beoutQ MOVIES
+https://blcco.linkip.org/live/913_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.aljazeera.net/wp-content/uploads/2017/09/ea1e48f1-52cb-43f4-8695-89e1520f2dd3.jpeg?resize=686%2C513&quality=80" group-title="قنوات beoutQ", beoutQ MOVIES +2
+https://blcco.linkip.org/live/912_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.aljazeera.net/wp-content/uploads/2017/09/ea1e48f1-52cb-43f4-8695-89e1520f2dd3.jpeg?resize=686%2C513&quality=80" group-title="قنوات beoutQ", beoutQ ACTION
+https://blcco.linkip.org/live/914_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.aljazeera.net/wp-content/uploads/2017/09/ea1e48f1-52cb-43f4-8695-89e1520f2dd3.jpeg?resize=686%2C513&quality=80" group-title="قنوات beoutQ", beoutQ ACTION 2
+https://blcco.linkip.org/live/915_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://alwebnews.com/wp-content/uploads/2024/03/%D8%A7%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%AA%D9%88%D8%A8-%D9%85%D9%88%D9%81%D9%8A%D8%B2-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-2024-%D9%88%D8%B4%D8%A7%D9%87%D8%AF-%D8%A7%D9%84%D8%B1%D8%B9%D8%A8-%D9%83%D9%85%D8%A7-%D9%8A%D8%AC%D8%A8-%D8%A3%D9%86-%D9%8A%D9%83%D9%88%D9%86.jpg" group-title="قنوات beoutQ", TOP MOVIES
+https://blcco.linkip.org/live/916_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.filfan.com/NewsPics/FilfanNew/large/logoAction1.jpg" group-title="قنوات beoutQ", PANORAMA ACTION
+https://blcco.linkip.org/live/917_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.enabbaladi.net/arabic/wp-content/uploads/2019/04/Netflix.jpg" group-logo="https://cdn.enabbaladi.net/arabic/wp-content/uploads/2019/04/Netflix.jpg" group-title="قنوات NETFILX", NETFILX COMDEY
+https://blcco.linkip.org/live/923_.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.enabbaladi.net/arabic/wp-content/uploads/2019/04/Netflix.jpg" group-title="قنوات NETFILX", NETFILX DRAMA
+https://blcco.linkip.org/live/922_.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.enabbaladi.net/arabic/wp-content/uploads/2019/04/Netflix.jpg" group-title="قنوات NETFILX", NETFILX HORROR
+https://blcco.linkip.org/live/921_.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.enabbaladi.net/arabic/wp-content/uploads/2019/04/Netflix.jpg" group-title="قنوات NETFILX", NETFILX ROMANCY
+https://blcco.linkip.org/live/920_.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.enabbaladi.net/arabic/wp-content/uploads/2019/04/Netflix.jpg" group-title="قنوات NETFILX", NETFILX KIDS
+https://blcco.linkip.org/live/919_.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/10/1/play-logo-png_seeklogo-109715.png" group-logo="https://images.seeklogo.com/logo-png/10/1/play-logo-png_seeklogo-109715.png" group-title="قنوات PLAY", PLAY عربي
+https://blcco.linkip.org/live/943_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/10/1/play-logo-png_seeklogo-109715.png" group-title="قنوات PLAY", PLAY كلاسيك
+https://blcco.linkip.org/live/942_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/10/1/play-logo-png_seeklogo-109715.png" group-title="قنوات PLAY", PLAY مسرحيات
+https://blcco.linkip.org/live/935_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/10/1/play-logo-png_seeklogo-109715.png" group-title="قنوات PLAY", PLAY COMDEY
+https://blcco.linkip.org/live/941_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/10/1/play-logo-png_seeklogo-109715.png" group-title="قنوات PLAY", PLAY ACTION
+https://blcco.linkip.org/live/940_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/10/1/play-logo-png_seeklogo-109715.png" group-title="قنوات PLAY", PLAY SCI-FI
+https://blcco.linkip.org/live/937_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/10/1/play-logo-png_seeklogo-109715.png" group-title="قنوات PLAY", PLAY HORROR
+https://blcco.linkip.org/live/938_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/10/1/play-logo-png_seeklogo-109715.png" group-title="قنوات PLAY", PLAY DRAMA
+https://blcco.linkip.org/live/939_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/10/1/play-logo-png_seeklogo-109715.png" group-title="قنوات PLAY", PLAY THRILLER
+https://blcco.linkip.org/live/936_.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/10/1/play-logo-png_seeklogo-109715.png" group-title="قنوات PLAY", PLAY FAMLIY
+https://blcco.linkip.org/live/934_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/10/1/play-logo-png_seeklogo-109715.png" group-title="قنوات PLAY", PLAY مدبلج
+https://blcco.linkip.org/live/933_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/10/1/play-logo-png_seeklogo-109715.png" group-title="قنوات PLAY", PLAY اغاني اطفال
+https://blcco.linkip.org/live/932_.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXYX-DV1F94U3JGUIyXE0GtQTCd2ep3N5o7X3AyINPCQQ-x2dPaTAMISSY&s=10" group-title="قنوات النجوم", نور الشريف
+https://blcco.linkip.org/live/944_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media0106.elcinema.com/uploads/_315x420_2c493aba02be3769b01df2e8b82a83acb80dac30fca1019d219f5a03b182455a.jpg" group-title="قنوات النجوم", محمد سعد
+https://blcco.linkip.org/live/945_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media0106.elcinema.com/uploads/_320x_ed0b2d379d1768b332305ca1bb8ac1df4a4a0f312fc57b30596b3b3817ebc026.jpg" group-title="قنوات النجوم", محمد رمضان
+https://blcco.linkip.org/live/946_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media0106.elcinema.com/uploads/_320x_ed0b2d379d1768b332305ca1bb8ac1df4a4a0f312fc57b30596b3b3817ebc026.jpg" group-title="قنوات النجوم", محمد هنيدي
+https://blcco.linkip.org/live/947_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media0106.elcinema.com/uploads/_320x_ed0b2d379d1768b332305ca1bb8ac1df4a4a0f312fc57b30596b3b3817ebc026.jpg" group-title="قنوات النجوم", محمود عبد العزيز
+https://blcco.linkip.org/live/948_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media0106.elcinema.com/uploads/_320x_ed0b2d379d1768b332305ca1bb8ac1df4a4a0f312fc57b30596b3b3817ebc026.jpg" group-title="قنوات النجوم", اسماعيل يس
+https://blcco.linkip.org/live/949_.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2v2q6vJOUvs33xEbwT4J0MAJvJE9UmeNTW9b9J5R9UmKDyp44xULoiFI&s=10" group-logo="https://yt3.googleusercontent.com/9lQaBAF70QCZdNSNJuuZKgSlwgd6FZ517uFPDj8XQt5VSvaUIOSpLzS6VLkv1kkQ0gbwlOAd2VU=s900-c-k-c0x00ffffff-no-rj" group-title="دروس اون لاين", تعليم قيادة السيارات
 #STN-STREAM:{"streamId":"primary","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/414108.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}

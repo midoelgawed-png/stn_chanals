@@ -1861,8 +1861,15 @@ http://103.176.90.139:80/play/live.php?mac=00:1A:79:EB:BC:99&stream=1387899&exte
 #STN-STREAM:{"streamId":"primary","url":"http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/414075.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 #STN-STREAM:{"streamId":"primary","url":"http://my8k.gamerdz1517.com/live/gamerdz1517/professional-team/826.ts","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
 
-#EXTINF:-1 tvg-id="" tvg-name="DUBAI ONE" tvg-logo="" group-title="القنوات المصرية", DUBAI ONE
+#EXTINF:-1 tvg-id="" tvg-name="DUBAI ONE" tvg-logo="https://www.dubaione.ae/content/dam/Common/brands1/dubaione231123/DubaiOne-Logo.png" group-title="القنوات المصرية", DUBAI ONE
 http://pro.netmos.ovh:7355/31555871246941974/U09ZEDdu@6X!PeD/745
+
+#EXTINF:-1 tvg-id="" tvg-name="ONE MOVIES" tvg-logo="https://insiteooh.com/storage/media/brands/66724/one-movies_Share.jpg" group-title="القنوات المصرية", ONE MOVIES
+https://ffs2.gulfsat.com/OneMovies/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="OneDrama" tvg-logo="https://media.ngmisr.com/uploads1/2024/06/7.jpg" group-title="القنوات المصرية", ONE DRAMA
+https://ffs2.gulfsat.com/OneDrama/video.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Mix Hollywood" tvg-logo="https://cdn.telfazalive.com/channels/images/mix-hollywood-live-streaming-online-image-1f1ad874.png" group-logo="https://www.alghad.tv/image/716/493/2022-10/%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="القنوات المصرية", Mix Hollywood
 #STN-STREAM:{"streamId":"primary","url":"https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8","headers":{"User-Agent":"Mozilla/5.0"},"encryption":{}}
